@@ -15,12 +15,12 @@ ___
 * 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
 * 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
 -->
-* 2023-08: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24
+* 2023-07: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24
 <br><br>
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin).
+A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research
 <br><be>
 
 
