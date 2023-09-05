@@ -15,6 +15,7 @@ ___
 * 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
 * 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
 -->
+* 2023-08： Two papers are submitted to AAAI24
 * 2023-07: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24
 <br><br>
 
