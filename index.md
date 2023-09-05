@@ -38,49 +38,77 @@ Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering 
 
 Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 <br>
 
-Dongxiao Yu, **Longlong Lin<sup>*</sup>**, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Full Dynamic Broadcasting Under SINR.  In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 <be>
+Dongxiao Yu, **Longlong Lin<sup>*</sup>**, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Full Dynamic Broadcasting Under SINR.  In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8  <br>
 
 
 ## Local CLustering
-https://opallab.ca/publications/    Kimon Fountoulakis   Waterloo    Local clustering
-https://www.cs.purdue.edu/homes/dgleich/      dgleich            purdue   Local clustering
-http://cs-www.cs.yale.edu/homes/spielman/     Daniel A. Spielman          Yale      Spectral Graph Theory
-http://zeyuan.allen-zhu.com/                  Zeyuan ALLEN-ZHU    Meta FAIR Labs     local clustering/improve cluster
-https://cs.uwaterloo.ca/~lapchi/index.htm    Lap Chi Lau        Waterloo    Spectral Graph Theory
-http://www.cs.cornell.edu/~arb/#papers    Austin R. Benson     Cornell University   Higher-order clustering
-https://theory.epfl.ch/kapralov/         Michael Kapralov         EPFL           Spectral Graph Theory
-https://homepages.inf.ed.ac.uk/hsun4/index.html       He Sun     University of Edinburgh    Spectral Graph Theory/Local clustering
+https://opallab.ca/publications/    Kimon Fountoulakis   Waterloo    Local clustering <br> 
+
+https://www.cs.purdue.edu/homes/dgleich/      dgleich            purdue   Local clustering <br>
+
+http://cs-www.cs.yale.edu/homes/spielman/     Daniel A. Spielman          Yale      Spectral Graph Theory <br>
+
+http://zeyuan.allen-zhu.com/                  Zeyuan ALLEN-ZHU    Meta FAIR Labs     local clustering/improve cluster <br>
+
+https://cs.uwaterloo.ca/~lapchi/index.htm    Lap Chi Lau        Waterloo    Spectral Graph Theory <br>
+
+http://www.cs.cornell.edu/~arb/#papers    Austin R. Benson     Cornell University   Higher-order clustering <br>
+
+https://theory.epfl.ch/kapralov/         Michael Kapralov         EPFL           Spectral Graph Theory <br>
+
+https://homepages.inf.ed.ac.uk/hsun4/index.html       He Sun     University of Edinburgh    Spectral Graph Theory/Local clustering <br>
+
 
 
 
 
 
 ## PPR/GNN
-https://mhliao516.github.io/                  meihao liao             BIT   PPR
-https://wanghzccls.github.io/                 Hanzhi Wang        RUC   PPR and GNN
-https://www1.se.cuhk.edu.hk/~swang/            Sibo Wang         Chinese University of Hong Kong(CUHK)     PPR and GNN
-https://sites.google.com/view/panli-purdue/publications     Pan Li    Purdue              PPR and GNN
-https://jinhongjung.github.io/    Jinhong Jung   Jeonbuk National University    PPR
-https://renchi.ac.cn/#publications    renchi yang HKBU   PPR and GNN
-https://weizhewei.com/     zhewei wei  RUC PPR and GNN
-https://ronghuali.github.io/   Ronghua Li BIT PPR
-https://dongqifu.github.io/ Dongqi Fu UIUC PPR and GNN
+https://mhliao516.github.io/                  meihao liao             BIT   PPR <br>
+
+https://wanghzccls.github.io/                 Hanzhi Wang        RUC   PPR and GNN <br>
+
+https://www1.se.cuhk.edu.hk/~swang/            Sibo Wang         Chinese University of Hong Kong(CUHK)     PPR and GNN <br>
+
+https://sites.google.com/view/panli-purdue/publications     Pan Li    Purdue              PPR and GNN <br>
+
+https://jinhongjung.github.io/    Jinhong Jung   Jeonbuk National University    PPR <br>
+
+https://renchi.ac.cn/#publications    renchi yang HKBU   PPR and GNN  <br>
+
+https://weizhewei.com/     zhewei wei  RUC PPR and GNN  <br>
+
+https://ronghuali.github.io/   Ronghua Li BIT PPR  <br>
+
+https://dongqifu.github.io/ Dongqi Fu UIUC PPR and GNN   <br>
+
 
 
 ## Cohesive-Subgraph
 
 
-https://users.soe.ucsc.edu/~sesh/index.html   C. Seshadhri  University of California  subgraph counting
-https://sjain12.github.io                      Shweta Jain   University of Utah      subgraph counting(Turan theorem for counting)
-https://people.csail.mit.edu/jshun/research.shtml    Julian Shun    MIT    parallel algorithms for cohesive
-https://fangyixiang.github.io/                Yixiang fang    CUHK(Shenzhen)      community search/(higher-order) densest  subgraph
-https://sariyuce.com/                        A. Erdem Sarıyüce   University at Buffalo          Hierarchical Dense Subgraph/Nucleus decomposition
-https://kijungs.github.io/#research      Kijung Shin    KAIST   cohesive subgraph
-https://ronghuali.github.io/   Ronghua Li BIT kcore/clique
-https://www.comp.hkbu.edu.hk/~xinhuang/index.html xin huang HKBU ktruss community search by index
-https://users.ics.aalto.fi/gionis/   Aristides Gionis  KTH Densest subgraph 
-https://lijunchang.github.io/publication.html Lijun Chang USYD Cohesive subgraph book
-https://tsourakakis.com/   Charalampos E. Tsourakakis   Boston University (Higher-order)Densest subgraph
+https://users.soe.ucsc.edu/~sesh/index.html   C. Seshadhri  University of California  subgraph counting  <br>
+
+https://sjain12.github.io                      Shweta Jain   University of Utah      subgraph counting(Turan theorem for counting)  <br>
+
+https://people.csail.mit.edu/jshun/research.shtml    Julian Shun    MIT    parallel algorithms for cohesive  <br>
+
+https://fangyixiang.github.io/                Yixiang fang    CUHK(Shenzhen)      community search/(higher-order) densest  subgraph  <br>
+
+https://sariyuce.com/                        A. Erdem Sarıyüce   University at Buffalo          Hierarchical Dense Subgraph/Nucleus decomposition  <br>
+
+https://kijungs.github.io/#research      Kijung Shin    KAIST   cohesive subgraph  <br>
+
+https://ronghuali.github.io/   Ronghua Li BIT kcore/clique  <br>
+
+https://www.comp.hkbu.edu.hk/~xinhuang/index.html xin huang HKBU ktruss community search by index  <br>
+
+https://users.ics.aalto.fi/gionis/   Aristides Gionis  KTH Densest subgraph  <br>
+
+https://lijunchang.github.io/publication.html Lijun Chang USYD Cohesive subgraph book  <br>
+
+https://tsourakakis.com/   Charalampos E. Tsourakakis   Boston University (Higher-order)Densest subgraph <br>
+
 
 
 
