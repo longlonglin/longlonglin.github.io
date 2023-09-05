@@ -26,6 +26,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 **Scalable and Effective Conductance-based Graph Clustering.**  **Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023 (Oral) <br> 
+**Mining Stable Quasi-Cliques on Temporal Networks.** **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 <br> 
+**Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks.** **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 <br> 
+**Significant Engagement Community Search on Temporal Networks.** Yifei Zhang<sup>#</sup>, Longlong Lin<sup>#</sup>, Pingpeng Yuan<sup>*</sup>, Hai Jin.  In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022: 250-258 <br>
+**Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration.** Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Journal of Computer Science and Technology, 2022, 37(5):1068-1085 <br>
+**Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments.** Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 <br>
+**Full Dynamic Broadcasting Under SINR.** Dongxiao Yu, **Longlong Lin<sup>*</sup>**, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng.  In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 <br>
 
 
 
