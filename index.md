@@ -19,7 +19,8 @@ ___
 <br><br>
 
 ___
-## Selected Publications (A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.)
+## Selected Publications
+A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
 <br><be>
 
 
