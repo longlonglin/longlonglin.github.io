@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Miscellaneous
-permalink: /Miscellaneous
+title: blog
+permalink: /blog
 ---
 
-## Miscellaneous
----
+
 ## Local CLustering
 https://opallab.ca/publications/    Kimon Fountoulakis   Waterloo    Local clustering <br> 
 
