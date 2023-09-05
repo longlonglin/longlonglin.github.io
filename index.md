@@ -13,7 +13,7 @@ ___
 ## News
 * 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
 * 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
-* 2023-08: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, Got a chance to revise for VLDB24
+* 2023-08: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24
 <br><br>
 
 ___
@@ -23,8 +23,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 |<i></i>|<i></i>| 
-:--- |:---
-[**Scalable and Effective Conductance-based Graph Clustering**] <br> Longlong Lin, Rong-Hua Li, Tao Jia <br> In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023 (Oral) <br> 
+**Scalable and Effective Conductance-based Graph Clustering** <br> **Longlong Lin**, Rong-Hua Li, Tao Jia <br> In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023 (Oral) <br> 
 
 
 
