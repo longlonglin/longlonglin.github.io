@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Longlong Lin
+name: Bingyao Huang
 
 # Short bio or description (displayed in the header)
-description: College of Computer and Information Science <br> Southwest University, China. <br> longlonglin AT swu DOT edu DOT cn
+description: College of Computer and Information Science <br> Southwest University, China. <br> bhuang AT swu DOT edu DOT cn
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://avatars2.githubusercontent.com/u/6914041?s=460&v=4   ##
+avatar: https://avatars2.githubusercontent.com/u/6914041?s=460&v=4
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: Lin021
+  github: BingyaoHuang
   instagram:
   linkedin:
   pinterest:
@@ -35,14 +35,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: longlonglin
+disqus: bingyaohuang
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: UA-115150248-1  ##
+google_analytics: UA-115150248-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://longlonglin.github.io
+url: https://bingyaohuang.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
