@@ -15,7 +15,7 @@ ___
 * 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
 * 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
 -->
-* 2023-08： Two papers are submitted to AAAI24
+* 2023-08：Two papers are submitted to AAAI24
 * 2023-07: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24
 <br><br>
 
@@ -32,7 +32,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 <br> 
 
-Yifei Zhang<sup>#</sup>, Longlong Lin<sup>#</sup>, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022: 250-258 <br>
+Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022: 250-258 <br>
 
 Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 <br>
 
