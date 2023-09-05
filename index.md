@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is currently an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from HuaZhong University, China, in 2022. His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including AAAI, ICDCS, DASFAA, IEEE TSMC, and IEEE TBD.  
+Longlon Lin is currently an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022. His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including AAAI, ICDCS, DASFAA, IEEE TSMC, and IEEE TBD.  
 
 [中文主页](http://cis.swu.edu.cn/info/1014/2195.htm)
 <br><br>
