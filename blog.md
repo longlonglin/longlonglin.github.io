@@ -5,6 +5,15 @@ permalink: /blog
 ---
 
 
+## Some-Must-Watch-Conferences
+You can obtain the following conference by the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/). <br>
+
+For Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AAAI, IJCAI. <br>
+
+For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VLDB, ICDE, KDD, WWW.  <br>
+
+
+
 ## Local CLustering
 https://opallab.ca/publications/    Kimon Fountoulakis   Waterloo    Local clustering <br> 
 
