@@ -1,10 +1,10 @@
 ---
 layout: default
-title: blog
-permalink: /blog
+title: Miscellaneous
+permalink: /Miscellaneous
 ---
 
-## Blog
+## Miscellaneous
 ---
 
 <div class="posts">
