@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is currently an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022. His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including AAAI, ICDCS, DASFAA, IEEE TSMC, and IEEE TBD.  
+Longlon Lin is an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022. His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including VLDB, AAAI, IEEE TSMC, ICDCS, IEEE TBD, and DASFAA.  
 
 [中文主页](http://cis.swu.edu.cn/info/1014/2195.htm)
 <br><br>
@@ -15,9 +15,9 @@ ___
 * 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
 * 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
 -->
-* 2023-09：one paper are submitted to  TOIS (CCF A)
+* 2023-11：one paper is submitted to  ICDE (CCF A)
+* 2023-11: one paper is submitted to ESWA  (中科院1区)
 * 2023-08：Two papers are submitted to AAAI24 (CCF A)
-* 2023-07: Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank, got a chance to revise for VLDB24  (CCF A)
 <br><br>
 
 ___
@@ -25,7 +25,7 @@ ___
 A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
 <br><be>
 
-
+**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. VLDB, 2024 <br> 
 
 **Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023 (Oral) <br> 
 
