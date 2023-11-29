@@ -10,7 +10,9 @@ title: data
 
 ### Temporal Graphs
 http://konect.cc/
+
 http://www.sociopatterns.org/
+
 https://snap.stanford.edu/
 
 
