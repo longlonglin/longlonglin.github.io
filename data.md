@@ -16,7 +16,7 @@ http://www.sociopatterns.org/
 https://snap.stanford.edu/
 
 
-### Graphs for PPR
+### Graphs for PPR/Clustering
 https://snap.stanford.edu/
 
 ### Bipartite Graphs
