@@ -1,7 +1,7 @@
 ---
 layout: default
-title: tips
-permalink: /tips
+title: blogs
+permalink: /blogs
 ---
 
 
