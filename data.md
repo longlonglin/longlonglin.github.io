@@ -8,6 +8,9 @@ title: data
 ## Dataset
 ---
 
+### Community Search 
+https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset
+
 ### Temporal Graphs
 http://konect.cc/
 
