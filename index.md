@@ -6,7 +6,7 @@ permalink: /
 ## About
 Longlon Lin is an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022. His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including VLDB, AAAI, IEEE TSMC, ICDCS, IEEE TBD, and DASFAA.  
 
-[中文主页](http://cis.swu.edu.cn/info/1014/2195.htm)
+[中文主页](http://cis.swu.edu.cn/info/1014/2195.htm) 招生信息：每年计划招2个硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展、时序性及其GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn).
 <br><br>
 
 ___
@@ -39,6 +39,13 @@ Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>
 Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院二区, CCF-B期刊) <br>
 
 Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议) <br>
+
+
+___
+## Work Experience
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
+
+
 
 
 
