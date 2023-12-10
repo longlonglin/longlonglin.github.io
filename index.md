@@ -18,7 +18,6 @@ ___
 * 2023-11：one paper is submitted to  DAC (CCF A)
 * 2023-11：one paper is submitted to  ICDE (CCF A)
 * 2023-11: one paper is submitted to ESWA  (中科院1区)
-* 2023-08：Two papers are submitted to AAAI24 (CCF A)
 <br><br>
 
 ___
