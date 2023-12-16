@@ -11,10 +11,7 @@ Longlon Lin is an Associate Professor at the College of Computer and Information
 
 ___
 ## News
-<!--
-* 2023-08: PHGC: Provable and Fast Conductance Based Higher-Order Graph Clustering, submitted to AAAI24
-* 2023-08: PSNE: Scaling Structure-aware Network Embedding via Spectral Sparsification, submitted to AAAI24
--->
+
 * 2023-11：one paper is submitted to  DAC (CCF A)
 * 2023-11：one paper is submitted to  ICDE (CCF A)
 * 2023-11: one paper is submitted to ESWA  (中科院1区)
@@ -44,6 +41,13 @@ ___
 ## Work Experience
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
 
+
+___
+## Academic Services
+
+(External) Conference Reviewer: KDD 2021, 2022, WWW 2022, AAAI 2022,2023,2024, WSDM 2022, CIKM 2020
+
+Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, WWWj
 
 
 
