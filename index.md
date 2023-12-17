@@ -4,10 +4,10 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology.
+Longlon Lin is an Associate Professor at the College of Computer and Information Science, Southwest University, China. He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including VLDB, AAAI, IEEE TSMC, ICDCS, IEEE TBD, and DASFAA.  
 
-
-* His research interests include (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. His work has been published in several top conferences and journals  including VLDB, AAAI, IEEE TSMC, ICDCS, IEEE TBD, and DASFAA.  
+## Research Interests
+ (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. 
 
 [中文主页](http://cis.swu.edu.cn/info/1014/2195.htm) 招生信息：每年计划招2名硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展性、时序性及GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收本科生,但有如下(非强制)建议：1.高要求(以发CCF B/中科院二区为目的); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论.
 <br><br>
