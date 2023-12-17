@@ -5,7 +5,7 @@ permalink: /blog
 ---
 
 
-## Some-Must-Watch-Conferences
+##  Must Watch Conferences (https://ccfddl.github.io/)
 You can obtain the following conference by the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/). <br>
 
 For Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AAAI, IJCAI. <br>
