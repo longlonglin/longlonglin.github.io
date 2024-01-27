@@ -14,10 +14,12 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 ___
 ## News
-
-* 2023-11：one paper is submitted to  DAC (CCF A)
-* 2023-11：one paper is submitted to  ICDE (CCF A)
-* 2023-11: one paper is submitted to ESWA  (中科院1区)
+* 2024-01: one paper is submitted to KDD  (CCF-A)
+* 2024-01: one paper is submitted to IJCAI  (CCF-A)
+* 2024-01: one paper is submitted to ICMR  (CCF-B)
+* 2024-01: one paper we submitted to ESWA received a major revision (中科院1区)
+* 2023-11：one paper is submitted to  DAC (CCF-A)
+* 2023-11：one paper is submitted to  ICDE (CCF-A)
 <br><br>
 
 ___
