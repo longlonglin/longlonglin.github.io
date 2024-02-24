@@ -16,7 +16,7 @@ ___
 ## News
 * 2024-01: two papers are submitted to KDD  (CCF-A)
 * 2024-01: one paper is submitted to IJCAI  (CCF-A)
-* 2024-01: two paper is submitted to ICMR  (CCF-B)
+* 2024-01: three papers are submitted to ICMR  (CCF-B)
 * 2024-01: one paper we submitted to ESWA received a major revision (中科院1区)
 * 2023-11：one paper is submitted to  DAC (CCF-A)
 * 2023-11：one paper is submitted to  ICDE (CCF-A)
@@ -50,9 +50,9 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
 ___
 ## Academic Services
 
-(External) Conference Reviewer: KDD 2021, 2022, WWW 2022, AAAI 2022,2023,2024, WSDM 2022, CIKM 2020
+(External) Conference Reviewer: KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
 
-Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, WWWj
+Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC
 
 
 
