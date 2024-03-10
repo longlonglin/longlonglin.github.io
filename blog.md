@@ -19,14 +19,14 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 
 | URLS | Name | Affilication | Toptic |
 |:----|:-----:|:-----:| ----:|
-| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local clustering |
-| https://opallab.ca/publications/  |  Kimon Fountoulakis  | Waterloo  |  Local clustering  |
-| http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale    |  Spectral Graph Theory |
-| http://zeyuan.allen-zhu.com/        |          Zeyuan ALLEN-ZHU  |  Meta FAIR Labs   |  local clustering/improve cluster |
-| https://cs.uwaterloo.ca/~lapchi/index.htm  |  Lap Chi Lau    |    Waterloo   | Spectral Graph Theory |
-| http://www.cs.cornell.edu/~arb/#papers  |  Austin R. Benson  |   Cornell University  | Higher-order clustering |
+| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local Clustering |
+| https://opallab.ca/publications/  |  Kimon Fountoulakis  | University of  Waterloo |  Local Clustering  |
+| http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale  Univeristy  |  Spectral Graph Theory |
+| http://zeyuan.allen-zhu.com/        |          Zeyuan ALLEN-ZHU  |  Meta FAIR Labs   |  Local Clustering/Improve Cluster |
+| https://cs.uwaterloo.ca/~lapchi/index.htm  |  Lap Chi Lau    |  University of  Waterloo   | Spectral Graph Theory |
+| http://www.cs.cornell.edu/~arb/#papers  |  Austin R. Benson  |   Cornell University  | Higher-order Clustering |
 | https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
-| https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local clustering |
+| https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local Clustering |
 
 
 
