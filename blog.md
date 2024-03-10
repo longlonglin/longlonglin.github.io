@@ -15,7 +15,6 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 
 
 ## Local CLustering
-
 | URLs | Name | Affiliation ｜ Topic |
 |:----|:----:|:----:|----:| 
 | https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue | Local clustering |
