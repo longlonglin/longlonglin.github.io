@@ -20,7 +20,7 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 |:----|:----:|:----:|----:| 
 | 内容1 | 内容2 | 内容3 |
 
-| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue | Local clustering |
+|  |  | Purdue |  |
 | https://opallab.ca/publications/  |  Kimon Fountoulakis  | Waterloo  |  Local clustering  |
 | http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale    |  Spectral Graph Theory |
 | http://zeyuan.allen-zhu.com/        |          Zeyuan ALLEN-ZHU  |  Meta FAIR Labs   |  local clustering/improve cluster |
@@ -32,7 +32,7 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 
 | URLS | Name | Affilication | Toptic |
 |:----|:-----:|:-----:| ----:|
-| 内容1 | 内容2 | 内容3 | ne |
+| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local clustering |
 | 内容4 | 内容5 | 内容6 | x |
 
 
