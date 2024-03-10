@@ -51,7 +51,7 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
 ___
 ## Academic Services
 
-(External) Conference Reviewer: KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
+Conference Reviewer: KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
 
 Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC
 
