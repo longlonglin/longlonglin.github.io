@@ -27,30 +27,26 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 | http://www.cs.cornell.edu/~arb/#papers  |  Austin R. Benson  |   Cornell University  | Higher-order Clustering |
 | https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
 | https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local Clustering |
-
+| https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering |
 
 
 
 
 
 ## PPR/GNN
-https://mhliao516.github.io/                  meihao liao             BIT   PPR <br>
 
-https://wanghzccls.github.io/                 Hanzhi Wang        RUC   PPR and GNN <br>
 
-https://www1.se.cuhk.edu.hk/~swang/            Sibo Wang         Chinese University of Hong Kong(CUHK)     PPR and GNN <br>
-
-https://sites.google.com/view/panli-purdue/publications     Pan Li    Purdue              PPR and GNN <br>
-
-https://jinhongjung.github.io/    Jinhong Jung   Jeonbuk National University    PPR <br>
-
-https://renchi.ac.cn/#publications    renchi yang HKBU   PPR and GNN  <br>
-
-https://weizhewei.com/     zhewei wei  RUC PPR and GNN  <br>
-
-https://ronghuali.github.io/   Ronghua Li BIT PPR  <br>
-
-https://dongqifu.github.io/ Dongqi Fu UIUC PPR and GNN   <br>
+| URLS | Name | Affilication | Toptic |
+|:----|:-----:|:-----:| ----:|
+| https://mhliao516.github.io/ | Meihao Liao | BIT | PPR |
+| https://wanghzccls.github.io/  |  Hanzhi Wang  | RUC  |   PPR and GNN  |
+| https://www1.se.cuhk.edu.hk/~swang/ |    Sibo Wang   |       Chinese University of Hong Kong(CUHK)  |  PPR and GNN |
+| https://sites.google.com/view/panli-purdue/publications        |          Pan Li  |  Purdue University   |  PPR and GNN |
+| https://jinhongjung.github.io/  |  Jinhong Jung   |  Jeonbuk National University   | PPR |
+| https://renchi.ac.cn/#publications  |  Renchi Yang  |    HKBU  | PPR and GNN |
+| https://weizhewei.com/ | Zhewei Wei | RUC | PPR and GNN |
+| https://ronghuali.github.io/ | Ronghua Li | BIT | PPR and GNN | 
+| https://dongqifu.github.io/ | Dongqi Fu | UIUC | PPR and GNN | 
 
 
 
