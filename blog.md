@@ -30,10 +30,10 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 | https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local clustering |
 
 
-| 列1 | 列2 | 列3 |
-|:----|:-----:|-----:|
-| 内容1 | 内容2 | 内容3 |
-| 内容4 | 内容5 | 内容6 |
+| URLS | Name | Affilication | Toptic |
+|:----|:-----:|:-----:| ----:|
+| 内容1 | 内容2 | 内容3 | ne |
+| 内容4 | 内容5 | 内容6 | x |
 
 
 
