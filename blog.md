@@ -16,11 +16,10 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 
 ## Local CLustering
 
-| URLs | Name | Affiliation ｜ Topic |
-|:----|:----:|:----:|----:| 
-| 内容1 | 内容2 | 内容3 |
 
-|  |  | Purdue |  |
+| URLS | Name | Affilication | Toptic |
+|:----|:-----:|:-----:| ----:|
+| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local clustering |
 | https://opallab.ca/publications/  |  Kimon Fountoulakis  | Waterloo  |  Local clustering  |
 | http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale    |  Spectral Graph Theory |
 | http://zeyuan.allen-zhu.com/        |          Zeyuan ALLEN-ZHU  |  Meta FAIR Labs   |  local clustering/improve cluster |
@@ -29,11 +28,6 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 | https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
 | https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local clustering |
 
-
-| URLS | Name | Affilication | Toptic |
-|:----|:-----:|:-----:| ----:|
-| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local clustering |
-| 内容4 | 内容5 | 内容6 | x |
 
 
 
