@@ -8,28 +8,23 @@ permalink: /blog
 ##  Must Watch Conferences (https://ccfddl.github.io/)
 You can obtain the following conference by the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/). <br>
 
-For Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AAAI, IJCAI. <br>
+For Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AAAI, and IJCAI. <br>
 
-For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VLDB, ICDE, KDD, WWW.  <br>
+For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VLDB, ICDE, KDD, and WWW.  <br>
 
 
 
 ## Local CLustering
-https://opallab.ca/publications/    Kimon Fountoulakis   Waterloo    Local clustering <br> 
-
-https://www.cs.purdue.edu/homes/dgleich/      dgleich            purdue   Local clustering <br>
-
-http://cs-www.cs.yale.edu/homes/spielman/     Daniel A. Spielman          Yale      Spectral Graph Theory <br>
-
-http://zeyuan.allen-zhu.com/                  Zeyuan ALLEN-ZHU    Meta FAIR Labs     local clustering/improve cluster <br>
-
-https://cs.uwaterloo.ca/~lapchi/index.htm    Lap Chi Lau        Waterloo    Spectral Graph Theory <br>
-
-http://www.cs.cornell.edu/~arb/#papers    Austin R. Benson     Cornell University   Higher-order clustering <br>
-
-https://theory.epfl.ch/kapralov/         Michael Kapralov         EPFL           Spectral Graph Theory <br>
-
-https://homepages.inf.ed.ac.uk/hsun4/index.html       He Sun     University of Edinburgh    Spectral Graph Theory/Local clustering <br>
+| URLs | Name  | Affiliation ｜ Topic |
+| :----:  |:----: | 
+| https://www.cs.purdue.edu/homes/dgleich/ | dgleich |  purdue   Local clustering |
+| https://opallab.ca/publications/  |  Kimon Fountoulakis  | Waterloo  |  Local clustering  |
+| http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale    |  Spectral Graph Theory |
+| http://zeyuan.allen-zhu.com/        |          Zeyuan ALLEN-ZHU  |  Meta FAIR Labs   |  local clustering/improve cluster |
+| https://cs.uwaterloo.ca/~lapchi/index.htm  |  Lap Chi Lau    |    Waterloo   | Spectral Graph Theory |
+| http://www.cs.cornell.edu/~arb/#papers  |  Austin R. Benson  |   Cornell University  | Higher-order clustering |
+| https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
+| https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local clustering |
 
 
 
