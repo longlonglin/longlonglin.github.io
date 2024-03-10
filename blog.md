@@ -50,27 +50,18 @@ For GNN, we should pay attention to NeurIPS, ICLR, ICML, AAAI, IJCAI, SIGMOD, VL
 
 
 
-## Cohesive-Subgraph
+## Community Search/Cohesive Subgraph
 
-
-https://users.soe.ucsc.edu/~sesh/index.html   C. Seshadhri  University of California  subgraph counting  <br>
-
-https://sjain12.github.io                      Shweta Jain   University of Utah      subgraph counting(Turan theorem for counting)  <br>
-
-https://people.csail.mit.edu/jshun/research.shtml    Julian Shun    MIT    parallel algorithms for cohesive  <br>
-
-https://fangyixiang.github.io/                Yixiang fang    CUHK(Shenzhen)      community search/(higher-order) densest  subgraph  <br>
-
-https://sariyuce.com/                        A. Erdem Sarıyüce   University at Buffalo          Hierarchical Dense Subgraph/Nucleus decomposition  <br>
-
-https://kijungs.github.io/#research      Kijung Shin    KAIST   cohesive subgraph  <br>
-
-https://ronghuali.github.io/   Ronghua Li BIT kcore/clique  <br>
-
-https://www.comp.hkbu.edu.hk/~xinhuang/index.html xin huang HKBU ktruss community search by index  <br>
-
-https://users.ics.aalto.fi/gionis/   Aristides Gionis  KTH Densest subgraph  <br>
-
-https://lijunchang.github.io/publication.html Lijun Chang USYD Cohesive subgraph book  <br>
-
-https://tsourakakis.com/   Charalampos E. Tsourakakis   Boston University (Higher-order)Densest subgraph <br>
+| URLS | Name | Affilication | Toptic |
+|:----|:-----:|:-----:| ----:|
+| https://users.soe.ucsc.edu/~sesh/index.html |  C. Seshadhri | University of California | Subgraph Counting  |
+| https://sjain12.github.io  | Shweta Jain |  University of Utah | Subgraph Counting(Turan theorem for counting) |
+| https://people.csail.mit.edu/jshun/research.shtml |  Julian Shun  |  MIT  |  Parallel Algorithms for cohesive subgraph |
+| https://fangyixiang.github.io/  |   Yixiang fang   | CUHK(Shenzhen)  | Community Search/(higher-order) Densest  Subgraph |
+| https://sariyuce.com/  |     A. Erdem Sarıyüce  | University at Buffalo | Hierarchical Dense Subgraph/Nucleus Decomposition |
+| https://kijungs.github.io/#research | Kijung Shin  |  KAIST  | Cohesive Subgraph  |
+| https://ronghuali.github.io/ | Ronghua Li | BIT | Kcore/Clique |
+| https://www.comp.hkbu.edu.hk/~xinhuang/index.html | Xin Huang | HKBU | ktruss Community Search by Index  |
+| https://users.ics.aalto.fi/gionis/ |   Aristides Gionis | KTH | Densest Subgraph  |
+| https://lijunchang.github.io/publication.html  | Lijun Chang | USYD  | Cohesive Subgraph book |
+| https://tsourakakis.com/  | Charalampos E. Tsourakakis  | Boston University | (Higher-order)Densest subgraph |
