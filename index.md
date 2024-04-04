@@ -18,7 +18,6 @@ ___
 * 2024-01: two papers are submitted to KDD  (CCF-A)
 * 2024-01: one paper is submitted to IJCAI  (CCF-A)
 * 2024-01: three papers are submitted to ICMR  (CCF-B)
-* 2024-01: one paper we submitted to ESWA received a major revision (中科院1区)
 <br><br>
 
 ___
