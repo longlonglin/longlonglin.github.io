@@ -27,9 +27,9 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议) <br>
 
 
-Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR (CCF-B会议) <br>
+Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) <br>
 
-Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR (CCF-B会议) <br>
+Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议) <br>
 
 Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区) <br>
 
