@@ -17,13 +17,19 @@ ___
 * 2024-03: one paper is submitted to VLDB  (CCF-A)
 * 2024-01: two papers are submitted to KDD  (CCF-A)
 * 2024-01: one paper is submitted to IJCAI  (CCF-A)
-* 2024-01: three papers are submitted to ICMR  (CCF-B)
 <br><br>
 
 ___
 ## Selected Publications
 A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
 <br><be>
+
+Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议) <br>
+
+
+Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR (CCF-B会议) <br>
+
+Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR (CCF-B会议) <br>
 
 Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区) <br>
 
