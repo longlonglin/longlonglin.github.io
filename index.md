@@ -28,6 +28,9 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <font size="3"> 
 <ul>
 
+<li>
+**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+</li>	
 
 <li>
 Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议)
@@ -49,36 +52,67 @@ Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli 
 </li>	
 
 
-<li>
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
-</li>	
+
 
   
    </ul>
 </font>
 
 
+   <p> <b> <font color="#2554C7">2023:</font> </b> </p>
+<font size="3"> 
+<ul>
+
+
+<li>
+**Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议)
+</li>	
+
+
+   </ul>
+</font>
+
+
+   <p> <b> <font color="#2554C7">2022:</font> </b> </p>
+<font size="3"> 
+<ul>
+
+
+<li>
+**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
+</li>	
+
+
+<li>
+**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
+</li>	
+
+
+</li>	
+Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
+</li>	
+
+</li>	
+Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
+</li>	
 
 
 
+   </ul>
+</font>
+
+   <p> <b> <font color="#2554C7">2019:</font> </b> </p>
+<font size="3"> 
+<ul>
 
 
+<li>
+Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议)
+</li>	
 
 
-
-
-**Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议) <br> 
-
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区) <br> 
-
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区) <br> 
-
-Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议) <br>
-
-Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区) <br>
-
-Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议) <br>
-
+   </ul>
+</font>
 
 ___
 ## Work Experience
