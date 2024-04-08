@@ -43,7 +43,7 @@ Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. 
 
 
 <li>
-Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议)
+Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议)
 </li>	
 
 
@@ -120,7 +120,9 @@ Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data
 Dongxiao Yu, <b>Longlong Lin</b><sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议)
 <li>
 
- 
+   </ul>
+</font>
+
 ___
 ## Work Experience
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
@@ -129,7 +131,7 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
 ___
 ## Academic Services
 
-Conference Reviewer: KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
+(External) Conference Reviewer: VLDB 2024, KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
 
 Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC
 
