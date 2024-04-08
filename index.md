@@ -34,6 +34,24 @@ Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. G
 </li>	
 
 
+<li>
+Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) 
+</li>	
+
+
+<li>
+Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议)
+</li>	
+
+
+<li>
+Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
+</li>	
+
+
+<li>
+**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+</li>	
 
   
    </ul>
@@ -41,13 +59,13 @@ Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. G
 
 
 
-Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) <br>
 
-Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议) <br>
 
-Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区) <br>
 
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议) <br> 
+
+
+
+
 
 **Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议) <br> 
 
