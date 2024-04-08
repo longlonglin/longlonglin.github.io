@@ -29,7 +29,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
 </li>	
 
 <li>
