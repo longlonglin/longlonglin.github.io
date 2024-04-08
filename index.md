@@ -24,6 +24,22 @@ ___
 A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
 <br><be>
 
+   <p> <b> <font color="#2554C7">2024:</font> </b> </p>
+<font size="3"> 
+<ul>
+
+
+<li>
+<b>Di Wu</b>, Wu Sun, Yi He, Zhong Chen, and Xin Luo, MKG-FENN: A Multimodal Knowledge Graph Fused End-to-end Neural Network for Accurate Drug-Drug Interaction Prediction, The 38th AAAI Conference on Artificial Intelligence, AAAI-2024 (Accept rate 23.75%, core-rank A*, CCF-A会议) 
+[<a href= "https://aaai.org/aaai-conference/"_blank">Link</a>] 
+
+</li>	
+
+	
+  
+</ul>
+</font>
+
 Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议) <br>
 
 
