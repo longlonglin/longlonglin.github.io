@@ -33,12 +33,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 <li>
-Yunfeng Yu, **Longlong Lin<sup>*</sup>**, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议)
+Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议)
 </li>	
 
 
 <li>
-Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) 
+Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) 
 </li>	
 
 
@@ -48,7 +48,7 @@ Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, **Longlong Lin**, Guoyin Wang. Text 
 
 
 <li>
-Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
+Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
 </li>	
 
 
@@ -65,7 +65,7 @@ Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli 
 
 
 <li>
-**Longlong Lin**, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议)
+<b>Longlong Lin</b>, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议)
 </li>	
 
 
@@ -79,21 +79,21 @@ Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli 
 
 
 <li>
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
+<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
 </li>	
 
 
 <li>
-**Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
+<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
 </li>	
 
 
 <li>
-Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
+Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
 </li>	
 
 <li>
-Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
+Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
 </li>	
 
    </ul>
@@ -105,7 +105,7 @@ Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering 
 
 
 <li>
-Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议)
+Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议)
 </li>	
 
 
@@ -117,8 +117,8 @@ Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data St
 <ul>
 
 <li>
-Dongxiao Yu, **Longlong Lin<sup>*</sup>**, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议)
-
+Dongxiao Yu, <b>Longlong Lin</b><sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议)
+<li>
 
  
 ___
