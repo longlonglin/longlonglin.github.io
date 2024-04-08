@@ -114,6 +114,15 @@ Pingpeng Yuan, **Longlong Lin**, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data St
    </ul>
 </font>
 
+   <p> <b> <font color="#2554C7">2018:</font> </b> </p>
+<font size="3"> 
+<ul>
+
+<li>
+Dongxiao Yu, **Longlong Lin<sup>*</sup>**, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议)
+<li>
+
+ 
 ___
 ## Work Experience
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
