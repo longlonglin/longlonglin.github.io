@@ -92,6 +92,7 @@ Yue He, **Longlong Lin<sup>*</sup>**, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli 
 Yifei Zhang<sup>#</sup>, **Longlong Lin<sup>#</sup>**, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
 </li>	
 
+
 </li>	
 Chunxue Zhu, **Longlong Lin**, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
 </li>	
