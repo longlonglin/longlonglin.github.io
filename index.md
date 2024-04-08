@@ -14,11 +14,14 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 ___
 ## News
-* 2024-03: one paper is submitted to VLDB  (CCF-A)
+* <li> <b> <font color="#FF0000">[2024.03]</font> </b>: one paper is submitted to VLDB  (CCF-A)
 * 2024-01: two papers are submitted to KDD  (CCF-A)
 * 2024-01: one paper is submitted to IJCAI  (CCF-A)
-<br><br>
 
+
+
+
+	
 ___
 ## Selected Publications
 A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
