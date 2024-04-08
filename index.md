@@ -9,14 +9,14 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 ## Research Interests
  (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. 
 
-招生信息：每年计划招2名硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展性、时序性及GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收本科生,但有如下(非强制)建议：1.高要求(以发CCF B/中科院二区为目的); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论.
+<li> <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招2名硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展性、时序性及GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收本科生,但有如下(非强制)建议：1.高要求(以发CCF B/中科院二区为目的); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论.
 <br><br>
 
 ___
 ## News
-* <li> <b> <font color="#FF0000">[2024.03]</font> </b>: one paper is submitted to VLDB  (CCF-A)
-* 2024-01: two papers are submitted to KDD  (CCF-A)
-* 2024-01: one paper is submitted to IJCAI  (CCF-A)
+* <li> <b> <font color="#FF0000">[2024-03]</font> </b>: one paper is submitted to VLDB  (CCF-A)
+* <li> <b> <font color="#FF0000">[2024-01]</font> </b>: two papers are submitted to KDD  (CCF-A)
+* <li> <b> <font color="#FF0000">[2024-01]</font> </b>: one paper is submitted to IJCAI  (CCF-A)
 
 
 
@@ -123,8 +123,8 @@ Dongxiao Yu, <b>Longlong Lin</b><sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zo
 <li>
 
 
-   </ul>
-</font>
+</ul>
+
 
 
 ___
