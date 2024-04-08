@@ -7,7 +7,7 @@ permalink: /
 Longlon Lin is an Associate Professor at the [College of Computer and Information Science, Southwest University, China](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including VLDB, AAAI, IEEE TSMC, ICDCS, IEEE TBD, and DASFAA.  
 
 ## Research Interests
- (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. 
+(Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. 
 
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招2名硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展性、时序性及GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收本科生,但有如下(非强制)建议：1.高要求(以发CCF B/中科院二区为目的); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论.
 <br><br>
@@ -118,7 +118,11 @@ Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data
    <p> <b> <font color="#2554C7">2018:</font> </b> </p>
 <font size="3"> 
 <ul>
-<li> Dongxiao Yu, <b>Longlong Lin</b><sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议) </li>
+
+ 
+<li> 
+Dongxiao Yu, <b>Longlong Lin</b><sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议) 
+</li>
 
 
    </ul>
@@ -126,14 +130,13 @@ Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data
 
 
 
-___
+
 ## Work Experience
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
 
 
-___
-## Academic Services
 
+## Academic Services
 (External) Conference Reviewer: VLDB 2024, KDD(2021-2022,2024), WWW 2022, AAAI(2022-2024), WSDM 2022, CIKM 2020
 
 Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC
