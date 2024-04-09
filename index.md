@@ -36,17 +36,17 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 <li>
-Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议)
+Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (Oral, CCF-B会议)
 </li>	
 
 
 <li>
-Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议) 
+Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (Oral, CCF-B会议) 
 </li>	
 
 
 <li>
-Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议)
+Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (Oral, CCF-B会议)
 </li>	
 
 
