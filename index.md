@@ -33,6 +33,10 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 <li>
+Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
+</li>	
+
+<li>
 Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (Oral, CCF-B会议)
 </li>	
 
@@ -47,9 +51,7 @@ Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Te
 </li>	
 
 
-<li>
-Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
-</li>	
+
 
 
 
