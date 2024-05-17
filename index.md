@@ -14,9 +14,10 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 
 
+<b> <font color="#FF0000">[2024-05]</font> </b>: one paper is submitted to CIKM (CCF-B)
+
 <b> <font color="#FF0000">[2024-03]</font> </b>: one paper is submitted to VLDB and obtained a revision  (CCF-A)
 
-<b> <font color="#FF0000">[2024-01]</font> </b>: two papers are submitted to KDD  (CCF-A)
 
 
 ___
@@ -30,6 +31,14 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>
 <b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+</li>	
+
+<li>
+<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议)
+</li>	
+
+<li>
+Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (CCF-A会议)
 </li>	
 
 <li>
@@ -119,16 +128,6 @@ Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data
 <ul>
 
  
-<li> 
-Dongxiao Yu, <b>Longlong Lin<sup>*</sup></b>, Yong Zhang, Jiguo Yu, Yifei Zou, Qiang-Sheng Hua, Xiuzhen Cheng. Fully Dynamic Broadcasting under SINR. In: Proceedings of the International Performance Computing and Communications Conference (IPCCC), Orlando, FL, USA, November 17-19, 2018:1-8 (CCF-C会议) 
-</li>
-
-
-   </ul>
-</font>
-
-
-
 
 ## Work Experience
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023.
