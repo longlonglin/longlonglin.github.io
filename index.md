@@ -30,7 +30,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li<sup>*</sup>, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
 </li>	
 
 <li>
@@ -51,12 +51,12 @@ Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia
 
 
 <li>
-Zeli Wang, Tuo Zhang, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (Oral, CCF-B会议) 
+Zeli Wang, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (Oral, CCF-B会议) 
 </li>	
 
 
 <li>
-Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (Oral, CCF-B会议)
+Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (Oral, CCF-B会议)
 </li>	
 
 
@@ -76,7 +76,7 @@ Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Te
 
 
 <li>
-<b>Longlong Lin</b>, Rong-Hua Li<sup>*</sup>, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议)
+<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)  (CCF-A会议)
 </li>	
 
 
@@ -90,21 +90,21 @@ Zeli Wang, Jian Li, Shuyin Xia<sup>*</sup>, <b>Longlong Lin</b>, Guoyin Wang. Te
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
 </li>	
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
+<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
 </li>	
 
 
 <li>
-Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan<sup>*</sup>, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
+Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
 </li>	
 
 <li>
-Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan<sup>*</sup>, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
+Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
 </li>	
 
    </ul>
