@@ -14,9 +14,13 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 
 
+<b> <font color="#FF0000">[2024-06]</font> </b>: one paper is submitted to TKDE (CCF-A)
+
+<b> <font color="#FF0000">[2024-06]</font> </b>: one paper is submitted to TBD (中科院2区)
+
 <b> <font color="#FF0000">[2024-05]</font> </b>: one paper is submitted to CIKM (CCF-B)
 
-<b> <font color="#FF0000">[2024-03]</font> </b>: one paper is submitted to VLDB and obtained a revision  (CCF-A)
+<b> <font color="#FF0000">[2024-03]</font> </b>: one paper is submitted to VLDB and fortunately obtained a revision  (CCF-A)
 
 
 
@@ -30,7 +34,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 <font color="#FF0000">(CCF-A会议)</font>
 </li>	
 
 <li>
