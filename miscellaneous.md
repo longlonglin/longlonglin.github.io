@@ -1,7 +1,7 @@
 ---
-layout: page
-title: datasets
-# permalink: /datasets/
+layout: default
+title: miscellaneous
+# permalink: /miscellaneous/
 # permalink: /{{page.title}}
 # permalink: /:title:output_ext
 ---
