@@ -1,7 +1,7 @@
 ---
 layout: page
-title: data
-# permalink: /data/
+title: datasets
+# permalink: /datasets/
 # permalink: /{{page.title}}
 # permalink: /:title:output_ext
 ---
