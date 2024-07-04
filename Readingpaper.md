@@ -1,7 +1,7 @@
 ---
 layout: default
-title: blog
-permalink: /blog
+title: ReadingPaper
+permalink: /ReadingPaper
 ---
 
 
