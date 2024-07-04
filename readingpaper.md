@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ReadingPaper
-permalink: /ReadingPaper
+title: readingpaper
+permalink: /readingpaper
 ---
 
 
