@@ -38,33 +38,35 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 <li>
-<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024  <font color="#FF0000">(CCF-A会议)</font>
+<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
 </li>	
 
 <li>
-Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024  <font color="#FF0000">(CCF-A会议)</font>
+Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
 </li>	
 
 <li>
-Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
+Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区, 一作为指导的研究生)
 </li>	
 
 <li>
-Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (Oral, CCF-B会议)
-</li>	
-
-
-<li>
-Zeli Wang, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (Oral, CCF-B会议) 
+Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral, 一作为指导的研究生)
 </li>	
 
 
 <li>
-Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (Oral, CCF-B会议)
+Zeli Wang, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议, Oral) 
 </li>	
 
 
+<li>
+Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
+</li>	
 
+
+<li>
+Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal Graph Learning via Personalized PageRank. Entropy, 2024 (中科院三区，一作为指导的本科生)
+</li>	
 
 
 
@@ -80,7 +82,7 @@ Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversari
 
 
 <li>
-<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478 (Oral)   <font color="#FF0000">(CCF-A会议)</font>
+<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   <font color="#FF0000">(CCF-A会议，Oral)</font>
 </li>	
 
 
