@@ -6,6 +6,21 @@ title: miscellaneous
 # permalink: /:title:output_ext
 ---
 
+### 指导学生
+
+余云丰   2022级学硕   基于随机游走多项式的大规模GNN算法加速  ICMR'24(CCF-B会议)
+
+何越     2022级学硕   基于Conductance的社区挖掘  ESWA(中科院一区)
+
+欧熙     2023级学硕   大规模图相似性计算
+
+李泉澳   2023级专硕    基于GNN的社区搜索
+
+陈为     2024级学硕    时序稠密子图挖掘
+
+张佑安   2024级专硕    基于图粗化的大规模GNN算法加速
+
+廖梓妤   2021级本科生   基于Personalized PageRank的时序图表示学习  Entropy(中科院三区)
 
 
 ### 指导学生获奖情况
