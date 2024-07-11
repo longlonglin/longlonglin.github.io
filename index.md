@@ -135,7 +135,7 @@ Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data
  
 
 ## Work Experience
-Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zhang]([https://ronghuali.github.io/ronghuali.html](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Jin Zhao]([[https://ronghuali.github.io/ronghuali.html](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?user=v2z02IgAAAAJ&hl=zh-CN)).
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ) and [Dr. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate).
 
 Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperate with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html).
 
