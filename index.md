@@ -13,7 +13,7 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 <br><br>
 
 
-<b> <font color="#FF0000">[2024-06]</font> </b>: one co-author paper is submitted to SIGMOD (CCF-A)
+<b> <font color="#FF0000">[2024-07]</font> </b>: one co-author paper is submitted to SIGMOD (CCF-A)
 
 <b> <font color="#FF0000">[2024-06]</font> </b>: one first-author paper is submitted to TKDE (CCF-A)
 
