@@ -13,14 +13,15 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 <br><br>
 
 
+<b> <font color="#FF0000">[2024-06]</font> </b>: one co-author paper is submitted to SIGMOD (CCF-A)
 
-<b> <font color="#FF0000">[2024-06]</font> </b>: one paper is submitted to TKDE (CCF-A)
+<b> <font color="#FF0000">[2024-06]</font> </b>: one first-author paper is submitted to TKDE (CCF-A)
 
-<b> <font color="#FF0000">[2024-06]</font> </b>: one paper is submitted to TBD (中科院2区)
+<b> <font color="#FF0000">[2024-06]</font> </b>: one first-author paper is submitted to TBD (中科院2区)
 
-<b> <font color="#FF0000">[2024-05]</font> </b>: one paper is submitted to CIKM (CCF-B)
+<b> <font color="#FF0000">[2024-05]</font> </b>: one first-author paper is submitted to CIKM (CCF-B)
 
-<b> <font color="#FF0000">[2024-03]</font> </b>: one paper is submitted to VLDB and fortunately obtained a revision  (CCF-A)
+<b> <font color="#FF0000">[2024-03]</font> </b>: one co-author paper is submitted to VLDB and fortunately obtained a revision  (CCF-A)
 
 
 
