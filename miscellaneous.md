@@ -8,7 +8,7 @@ title: miscellaneous
 
 ### 指导学生
 
-余云丰   2022级学硕   基于随机游走多项式的大规模GNN算法加速  ICMR'24(CCF-B会议)
+余云丰   2022级学硕   基于随机游走多项式的大规模GNN算法加速  CIKM'24(CCF-B)、ICMR'24(CCF-B会议)
 
 何越     2022级学硕   基于Conductance的社区挖掘  ESWA(中科院一区)
 
