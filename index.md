@@ -47,7 +47,7 @@ Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wan
 
 
 <li>
-<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Yuying Zhao, Zeli Wang, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生)
+<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生)
 </li>	
 
 <li>
