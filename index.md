@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is an Associate Professor at the [College of Computer and Information Science, Southwest University, China](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including VLDB, KDD, AAAI, ICDCS, ICMR, DASFAA, IEEE TSMC, and IEEE TBD.  
+Longlon Lin is an Associate Professor at the [College of Computer and Information Science, Southwest University, China](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including VLDB, KDD, AAAI, CIKM, ICDCS, DASFAA, IEEE TSMC, and IEEE TBD.  
 
 ## Research Interests
 (Temporal) Graph Clustering, Personalized PageRank, and Spectral Graph Theory for GNN. 
@@ -87,7 +87,7 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   <font color="#FF0000">(CCF-A会议，Oral)</font>
+<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   <font color="#FF0000">(CCF-A会议， Oral)</font>
 </li>	
 
 
