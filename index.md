@@ -25,7 +25,7 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research.
+A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author, <sup>#</sup> indicates contributed equally to the research, <font color="#FF0000">(Representative Work)</font>
 <br><be>
 
    <p> <b> <font color="#2554C7">2024:</font> </b> </p>
@@ -47,7 +47,7 @@ Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wan
 
 
 <li>
-<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生)
+<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding.  <font color="#FF0000"> CIKM, 2024 (CCF-B会议，二作为指导的研究生) </font>
 </li>	
 
 <li>
@@ -101,12 +101,12 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (中科院1区)
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 ( <font color="#FF0000"> TSMC, 中科院1区</font>)
 </li>	
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
+<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 ( <font color="#FF0000"> TBD, 中科院2区 </font>)
 </li>	
 
 
