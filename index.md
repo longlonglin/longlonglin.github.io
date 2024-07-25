@@ -25,7 +25,7 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author, <sup>#</sup> indicates contributed equally to the research, <font color="#FF0000">(Representative Work)</font>
+A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). <sup>*</sup> indicates the corresponding author and <sup>#</sup> indicates contributed equally to the research （<font color="#FF0000">(representative work)</font>）
 <br><be>
 
    <p> <b> <font color="#2554C7">2024:</font> </b> </p>
