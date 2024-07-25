@@ -127,7 +127,7 @@ Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive 
 
 
 <li>
-Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (CCF-B会议)
+Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 ( <font color="#FF0000"> ICDCS, CCF-B会议 </font>)
 </li>	
 
 
