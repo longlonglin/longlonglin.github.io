@@ -12,6 +12,9 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招2-5名硕士，分别从事传统算法(比如社区挖掘,Personalized PageRank)和GNN(主要关注可扩展性、时序性及GNN for community search). 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收本科生,但有如下(非强制)建议：1.高要求(以发CCF B/中科院二区为目的); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论.
 <br><br>
 
+<b> <font color="#FF0000">[2024-07]</font> </b>: two co-author paper is submitted to KDD (CCF-A)
+
+<b> <font color="#FF0000">[2024-07]</font> </b>: one co-author paper is submitted to AAAI (CCF-A)
 
 <b> <font color="#FF0000">[2024-07]</font> </b>: one co-author paper is submitted to SIGMOD (CCF-A)
 
