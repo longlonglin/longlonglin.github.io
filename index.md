@@ -28,7 +28,6 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 <b> <font color="#FF0000">[2024-06]</font> </b>: one first-author paper is submitted to TBD (中科院2区)
 
-<b> <font color="#FF0000">[2024-03]</font> </b>: one co-author paper is submitted to VLDB and fortunately obtained a revision  (CCF-A)
 
 
 ___
@@ -48,6 +47,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <li>
 <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
 </li>	
+
+</li>	
+Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024   <font color="#FF0000">(CCF-A会议)</font>
+</li>	
+
 
 <li>
 Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
