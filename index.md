@@ -41,25 +41,25 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 <font color="#FF0000">(CCF-A会议)</font>
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
 </li>	
 
 <li>
-<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
+<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
 </li>	
 
 <li>	
-Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024   <font color="#FF0000">(CCF-A会议)</font>
+Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (CCF-A会议)
 </li>	
 
 
 <li>
-Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024  <font color="#FF0000">(CCF-A会议, Oral)</font>
+Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (CCF-A会议, Oral)
 </li>	
 
 
 <li>
-<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding.  <font color="#FF0000"> CIKM, 2024 (CCF-B会议，二作为指导的研究生) </font>
+<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生) 
 </li>	
 
 <li>
@@ -99,7 +99,7 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   <font color="#FF0000">(CCF-A会议， Oral)</font>
+<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   (CCF-A会议， Oral)
 </li>	
 
 
@@ -113,12 +113,12 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 ( <font color="#FF0000"> TSMC, 中科院1区</font>)
+<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (TSMC, 中科院1区)
 </li>	
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 ( <font color="#FF0000"> TBD, 中科院2区 </font>)
+<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (TBD, 中科院2区)
 </li>	
 
 
@@ -139,7 +139,7 @@ Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive 
 
 
 <li>
-Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 ( <font color="#FF0000"> ICDCS, CCF-B会议 </font>)
+Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (ICDCS, CCF-B会议)
 </li>	
 
 
