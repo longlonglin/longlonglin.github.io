@@ -16,8 +16,6 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 <b> <font color="#FF0000">[2024-09]</font> </b>: one co-author paper is submitted to VLDB (CCF-A)
 
-<b> <font color="#FF0000">[2024-08]</font> </b>: one co-author paper is submitted to ICDE (CCF-A)
-
 <b> <font color="#FF0000">[2024-08]</font> </b>: one co-author paper is submitted to HPCA (CCF-A)
 
 <b> <font color="#FF0000">[2024-08]</font> </b>: two co-author paper is submitted to KDD (CCF-A)
