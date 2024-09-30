@@ -12,7 +12,7 @@ title: miscellaneous
 
 何越     2022级学硕   基于Conductance的社区挖掘  ESWA(中科院一区)
 
-廖梓妤   2021级本科生   基于Personalized PageRank的时序图表示学习  Entropy(中科院三区)
+廖梓妤   2021级本科生   基于Personalized PageRank的时序图表示学习  Entropy(中科院三区) 保送重庆大学
 
 欧熙     2023级学硕   大规模图相似性计算
 
