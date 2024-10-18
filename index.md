@@ -23,8 +23,6 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 
 <b> <font color="#FF0000">[2024-08]</font> </b>: two co-authored papers are submitted to KDD (CCF-A)
 
-<b> <font color="#FF0000">[2024-08]</font> </b>: two co-authored papers are submitted to AAAI (CCF-A)
-
 <b> <font color="#FF0000">[2024-06]</font> </b>: one first-authored paper is submitted to TKDE (CCF-A)
 
 <b> <font color="#FF0000">[2024-06]</font> </b>: one first-author paper is submitted to TBD, and fortunately obtain minor, minor, accept (中科院2区)
