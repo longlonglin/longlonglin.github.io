@@ -61,4 +61,9 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 | https://www.comp.hkbu.edu.hk/~xinhuang/index.html | Xin Huang | HKBU | ktruss Community Search by Index  |
 | https://users.ics.aalto.fi/gionis/ |   Aristides Gionis | KTH | Densest Subgraph  |
 | https://lijunchang.github.io/publication.html  | Lijun Chang | USYD  | Cohesive Subgraph book |
+
+
+## Some learning websites
+
+https://tcs.nju.edu.cn/
 | https://tsourakakis.com/  | Charalampos E. Tsourakakis  | Boston University | (Higher-order)Densest subgraph |
