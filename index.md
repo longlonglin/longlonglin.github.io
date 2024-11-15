@@ -12,6 +12,9 @@ Graph Machine Learning、LLM for Graphs、(Temporal) Graph Clustering、Personal
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究Graph Machine Learning(主要关注可扩展性、时序性、鲁棒性、图增强)和传统图算法(比如社区挖掘,图聚类,Personalized PageRank)； 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院二区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作.
 <br><br>
 
+
+<!--
+
 <b> <font color="#FF0000">[2024-11]</font> </b>: one co-authored paper is submitted to DAC (CCF-A)
 
 <b> <font color="#FF0000">[2024-10]</font> </b>: one co-authored paper is submitted to ASPLOS (CCF-A)
@@ -24,10 +27,7 @@ Graph Machine Learning、LLM for Graphs、(Temporal) Graph Clustering、Personal
 
 <b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TKDE (CCF-A)
 
-<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TBD, and fortunately obtain minor, minor, accept (中科院2区)
-
-
-<!--
+<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TBD (中科院2区)
 !-->
 
 
