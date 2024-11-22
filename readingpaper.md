@@ -69,3 +69,4 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 
 https://tcs.nju.edu.cn/
 
+https://yufeizhao.com/gtacbook/
