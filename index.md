@@ -15,19 +15,19 @@ Graph Machine Learning、LLM for Graphs、(Temporal) Graph Clustering、Personal
 
 <!--
 
+<b> <font color="#FF0000">[2024-11]</font> </b>: four papers are submitted to ICDE (CCF-A)
+
 <b> <font color="#FF0000">[2024-11]</font> </b>: one co-authored paper is submitted to DAC (CCF-A)
 
 <b> <font color="#FF0000">[2024-10]</font> </b>: one co-authored paper is submitted to ASPLOS (CCF-A)
 
 <b> <font color="#FF0000">[2024-10]</font> </b>: two co-authored papers are submitted to SIGMOD (CCF-A)
 
-<b> <font color="#FF0000">[2024-10]</font> </b>: three co-authored papers are submitted to VLDB (CCF-A)
+<b> <font color="#FF0000">[2024-10]</font> </b>: two co-authored papers are submitted to VLDB and obtain the revision (CCF-A)
 
-<b> <font color="#FF0000">[2024-08]</font> </b>: two co-authored papers are submitted to KDD (CCF-A)
+<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TKDE  and obtain the revision (CCF-A)
 
-<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TKDE (CCF-A)
-
-<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TBD (中科院2区)
+<b> <font color="#FF0000">[2024-06]</font> </b>: our paper is submitted to TBD and obtain the revision (中科院2区)
 !-->
 
 
