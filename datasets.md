@@ -3,7 +3,7 @@ layout: archive
 title: datasets
 permalink: /datasets/
 ---
-## Dataset (https://renchi.ac.cn/datasets/)
+## Dataset
 ---
 
 ### Attribution Graphs (can be used in Learning or Clustering)
