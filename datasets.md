@@ -110,19 +110,22 @@ https://snap.stanford.edu/
 
 !-->
 
-<!--
+
 
 ## Dataset Repositories
- (https://renchi.ac.cn/datasets/)
-https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset
 
 | Name                                                                                       | Type                                   | Collected by             |
 |--------------------------------------------------------------------------------------------|----------------------------------------|--------------------------|
 |[SNAP](http://snap.stanford.edu/data/index.html)                                            |Graphs & Networks                       | Stanford                 |
+|[KONECT](http://konect.cc/networks/)                                                        |Graphs & Networks                       | Jérôme Kunegis           |
+|[Aminer](https://www.aminer.cn/data/) (https://www.aminer.cn/data_cn)                       |Academic Networks                       | AMiner                   |
+
+
+<!--
 |[LAW](http://law.di.unimi.it/datasets.php)                                                  |Graphs & Networks                       | UNIMI                    |
 |[BioSNAP](http://snap.stanford.edu/biodata/index.html)                                      |Biomedical Networks                     | Stanford                 |
-|[KONECT](http://konect.cc/networks/)                                                        |Graphs & Networks                       | Jérôme Kunegis           |
-|[Aminer](https://www.aminer.cn/data/)                                                       |Academic Networks                       | AMiner                   |
+
+
 |[UCI Network Data Repository](https://networkdata.ics.uci.edu/)                             |Graphs & Networks                       | UCI Datalab               |
 |[Network Repository](https://networkrepository.com)                                         |Graphs & Networks                       | -                         |
 |[Open Academic Graph](https://www.microsoft.com/en-us/research/project/open-academic-graph/)|Academic Networks                       | Microsoft                |
