@@ -3,10 +3,10 @@ layout: archive
 title: datasets
 permalink: /datasets/
 ---
-## Dataset (https://renchi.ac.cn/datasets/)
+## Dataset
 ---
 
-### Attribution Graphs (can be used in Learning or Clustering)
+### Attribution Graphs
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |---------  |
@@ -39,7 +39,7 @@ features = sparse.load_npz("attrs.npz")
 
 
 
-### Simple Graphs (can be used in Clustering or PPR) (https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset)
+### Simple Graphs 
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |
 | com-Amazon |  334,863 |  925,872  |   151,037    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Amazon.html) | 
@@ -112,6 +112,8 @@ https://snap.stanford.edu/
 <!--
 
 ## Dataset Repositories
+ (https://renchi.ac.cn/datasets/)
+https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset
 
 | Name                                                                                       | Type                                   | Collected by             |
 |--------------------------------------------------------------------------------------------|----------------------------------------|--------------------------|
