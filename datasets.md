@@ -42,7 +42,6 @@ features = sparse.load_npz("attrs.npz")
 ### Simple Graphs (can be used in Clustering or PPR) (https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset)
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |
-
 | com-Amazon |  334,863 |  925,872  |   151,037    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Amazon.html) | 
 | com-DBLP | 317,080  |  1,049,866  |   13,477    | undirected  | [[raw]](https://snap.stanford.edu/data/com-DBLP.html) | 
 | com-Youtube | 1,134,890   | 2,987,624   | 8,385      | undirected  | [[raw]](https://snap.stanford.edu/data/com-Youtube.html) | 
