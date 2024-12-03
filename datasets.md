@@ -40,6 +40,7 @@ features = sparse.load_npz("attrs.npz")
 
 
 ### Simple Graphs 
+
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |
 | com-Amazon |  334,863 |  925,872  |   151,037    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Amazon.html) | 
