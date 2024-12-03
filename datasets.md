@@ -1,9 +1,7 @@
 ---
 layout: archive
 title: datasets
-# permalink: /datasets/
-# permalink: /{{page.title}}
-# permalink: /:title:output_ext
+permalink: /datasets/
 ---
 ## Dataset (https://renchi.ac.cn/datasets/)
 ---
