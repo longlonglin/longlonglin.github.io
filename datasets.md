@@ -118,7 +118,7 @@ https://snap.stanford.edu/
 |--------------------------------------------------------------------------------------------|----------------------------------------|--------------------------|
 |[SNAP](http://snap.stanford.edu/data/index.html)                                            |Graphs & Networks                       | Stanford                 |
 |[KONECT](http://konect.cc/networks/)                                                        |Graphs & Networks                       | Jérôme Kunegis           |
-|[Aminer](https://www.aminer.cn/data/) (https://www.aminer.cn/data_cn)                       |Academic Networks                       | AMiner                   |
+|[Aminer](https://www.aminer.cn/data/) [Aminer](https://www.aminer.cn/data_cn)               |Academic Networks                       | AMiner                   |
 
 
 <!--
