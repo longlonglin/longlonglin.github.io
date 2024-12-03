@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: datasets
 # permalink: /datasets/
 # permalink: /{{page.title}}
