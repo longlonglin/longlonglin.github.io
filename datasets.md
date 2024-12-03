@@ -10,13 +10,13 @@ permalink: /datasets/
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |---------  |
-|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki) [[preprocessed]](https://drive.google.com/file/d/1EPhlbziZTQv19OsTrKrAJwsElbVPEbiV/view?usp=sharing)|
-|Cora | directed|2708|5429|1433| 7| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1FyVnpdsTT-lhkVPotUW8OVeuCi1vi3Ey/view?usp=sharing)|
-|Citeseer| directed|3312|4660|3703| 6| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1d3uQIpHiemWJPgLgTafi70RFYye7hoCp/view?usp=sharing)|
-|Pubmed| directed|19717|44338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1DOK3FfslyJoGXUSCSrK5lzdyLfIwOz6k/view?usp=sharing)|
-|BlogCatalog| undirected|5196|343486| 8189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://drive.google.com/file/d/178PqGqh67RUYMMP6-SoRHDoIBh8ku5FS/view?usp=sharing)|
-|PPI| undirected|56944|818716|50| 121| [[raw]](https://snap.stanford.edu/graphsage/) [[preprocessed]](https://drive.google.com/file/d/1dvwRpPT4gGtOcNP_Q-G1TKl9NezYhtez/view?usp=sharing)|
-|Flickr| undirected|7575|479476|12047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://drive.google.com/file/d/1tZp3EB20fAC27SYWwa-x66_8uGsuU62X/view?usp=sharing)|
+|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki)|
+|Cora | directed|2708|5429|1433| 7| [[raw]](https://linqs.soe.ucsc.edu/data)|
+|Citeseer| directed|3312|4660|3703| 6| [[raw]](https://linqs.soe.ucsc.edu/data)|
+|Pubmed| directed|19717|44338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) |
+|BlogCatalog| undirected|5196|343486| 8189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
+|PPI| undirected|56944|818716|50| 121| [[raw]](https://snap.stanford.edu/graphsage/) |
+|Flickr| undirected|7575|479476|12047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
 |Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) [[preprocessed]](https://drive.google.com/file/d/12aJWAGCM4IvdGI2fiydDNyWzViEOLZH8/view?usp=sharing)|
 |ArXiv| undirected| 169343 | 1157799 | 128 | 40 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) [[preprocessed]](https://drive.google.com/drive/folders/14h9JrgR1TAVZVXhhl5rZQVcfmyQTR5kL)|
 |Reddit| undirected|  232,965 |  11,606,919 | 602 | 41 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) [[preprocessed]](https://drive.google.com/drive/folders/14h9JrgR1TAVZVXhhl5rZQVcfmyQTR5kL)|
