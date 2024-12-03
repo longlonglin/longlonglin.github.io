@@ -10,16 +10,17 @@ permalink: /datasets/
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |---------  |
-|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki)|
-|Cora | directed|2708|5429|1433| 7| [[raw]](https://linqs.soe.ucsc.edu/data)|
-|Citeseer| directed|3312|4660|3703| 6| [[raw]](https://linqs.soe.ucsc.edu/data)|
-|Pubmed| directed|19717|44338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) |
-|BlogCatalog| undirected|5196|343486| 8189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
-|PPI| undirected|56944|818716|50| 121| [[raw]](https://snap.stanford.edu/graphsage/) |
-|Flickr| undirected|7575|479476|12047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
-|Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) |
-|ArXiv| undirected| 169343 | 1157799 | 128 | 40 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) |
+|Cora | directed|2,708|5,429|1,433| 7| [[raw]](https://linqs.soe.ucsc.edu/data)|
+|Citeseer| directed|3,327|4,732|3,703| 6| [[raw]](https://linqs.soe.ucsc.edu/data)|
+|Pubmed| directed|19,717|44,338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) |
+|BlogCatalog| undirected|5,196|343,486| 8,189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
+|PPI| undirected|56,944|81,8716|50| 121| [[raw]](https://snap.stanford.edu/graphsage/) |
+|Flickr| undirected|7,575|47,9476|12,047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) |
 |Reddit| undirected|  232,965 |  11,606,919 | 602 | 41 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) |
+|Ogbn-ArXiv| undirected| 169,343 | 1,157,799 | 128 | 40 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) |
+
+<!--
+|Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) |
 |Yelp| undirected|  716847 | 6,977,410 | 300 | 100 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz)|
 |Twitter| directed|81306|1768149|216839| 4065| [[raw]](https://snap.stanford.edu/data/ego-Twitter.html)|
 |Amazon2M| undirected| 2449029 | 61859140 | 100 | 47 | [[raw]](https://github.com/google-research/google-research/tree/master/cluster_gcn) [[raw]](https://ogb.stanford.edu/docs/nodeprop/#ogbn-products) |
@@ -27,7 +28,8 @@ permalink: /datasets/
 |TWeibo| directed| 2320895| 50655143| 1657| 8| [[raw]](https://www.kaggle.com/c/kddcup2012-track1) |
 |MAG| directed| 59249719| 978147253| 2000| 100| [[raw]](http://ma-graph.org/rdf-dumps/) |
 |MAG-SC| directed|10541560| 265219994 |2784240 | 8 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653)|
-
+|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki)|
+!-->
 
 These datasets are also available in [Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.AttributedGraphDataset). Node attributes can be loaded as a sparse matrix using the following code
 ```python
@@ -38,36 +40,42 @@ features = sparse.load_npz("attrs.npz")
 
 
 ### Simple Graphs (can be used in Clustering or PPR) (https://www.comp.hkbu.edu.hk/~db/book/community_search.html#dataset)
-
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |
+
+| com-Amazon |  334,863 |  925,872  |   151,037    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Amazon.html) | 
+| com-DBLP | 317,080  |  1,049,866  |   13,477    | undirected  | [[raw]](https://snap.stanford.edu/data/com-DBLP.html) | 
+| com-Youtube | 1,134,890   | 2,987,624   | 8,385      | undirected  | [[raw]](https://snap.stanford.edu/data/com-Youtube.html) | 
+|com-LiveJournal  | 3,997,962 | 34,681,189 |  287,512   |  undirected  |  [[raw]](https://snap.stanford.edu/data/com-LiveJournal.html)         | 
+| com-Orkut   | 3,072,441   | 117,185,083 | 6,288,363    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Orkut.html) |
+|com-Friendster | 65,608,366  | 1,806,067,135 |   957,154  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html)|
+|com-Friendster-small | 7,944,949  | 447,219,610 |  100  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html) [[raw]](https://graphvite.io/docs/latest/api/dataset.html)  |
+|Pokec    | 1,632,803 | 30,622,564|    -    |   directed  |  [[raw]](https://snap.stanford.edu/data/soc-Pokec.html)        | 
+|Twitter  | 41,652,230  | 1,468,365,182|    -    | directed    | [[raw]](http://law.di.unimi.it/webdata/twitter-2010/) |
+|LiveJournal  | 4,847,571 | 68,475,391 |  -    |  directed  |  [[raw]](https://snap.stanford.edu/data/soc-LiveJournal1.html)          | 
+
+
+<!--
 | PPI |  3,890  |   76,584 | 50  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://snap.stanford.edu/node2vec/) | 
 | Blogcatalog3 |  10,312  |  333,983   | 39  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/blogcatalog.mat) | 
 | Flickr |  80,513 |  5,899,882  |   195    | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/flickr.mat) | 
-| Amazon |  334863 |  925872  |   100    | undirected  | [[raw]](https://snap.stanford.edu/data/com-Amazon.html) | 
-| DBLP | 425957  |  1049866  |   100    | undirected  | [[raw]](https://snap.stanford.edu/data/com-DBLP.html) | 
-| Youtube | 1,138,499   | 2,990,443   | 47      | undirected  | [[raw]](http://socialcomputing.asu.edu/datasets/YouTube2) | 
 | TWeibo  | 2,320,895   | 50,655,143  | 100     | directed    | [[raw]](https://www.kaggle.com/c/kddcup2012-track1) |
-| Orkut   | 3,072,441   | 117,185,084 | 100     | undirected  | [[raw]](https://snap.stanford.edu/data/com-Orkut.html) |
-|LiveJournal  | 3997962 | 34681189 |  100   |  undirected  |  [[raw]](https://snap.stanford.edu/data/com-LiveJournal.html)         | 
 |In-2004  | 1,382,908 | 16,539,643|    -    |   directed  |  [[raw]](http://law.di.unimi.it/webdata/in-2004/)   | 
 |DBLP     | 5,425,963 | 17,298,032|    -    |   undirected|  [[raw]](http://konect.uni-koblenz.de/networks/dblp-author)         | 
-|Pokec    | 1,632,803 | 30,622,564|    -    |   directed  |  [[raw]](https://snap.stanford.edu/data/soc-Pokec.html)        | 
-|LiveJournal  | 4,847,571 | 68,475,391 |  -    |  directed  |  [[raw]](https://snap.stanford.edu/data/soc-LiveJournal1.html)          | 
 |IT-2004  | 41,291,594  | 1,135,718,909  |   -      |  directed  |  [[raw]](http://law.di.unimi.it/webdata/it-2004/) | 
-|Twitter  | 41,652,230  | 1,468,365,182|    -    | directed    | [[raw]](http://law.di.unimi.it/webdata/twitter-2010/) |
-|Friendster-small | 7,944,949  | 447,219,610 |  100  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html) [[raw]](https://graphvite.io/docs/latest/api/dataset.html)  |
-|Friendster | 65,608,366  | 1,806,067,135 |   100  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html) [[raw]](https://graphvite.io/docs/latest/api/dataset.html)  |
 |OAG | 67,768,244  | 895,368,962 |   19  |  undirected  | [[raw]](https://github.com/xptree/LightNE)  |
 |UK-2007 | 105,896,555 | 3,738,733,648|    -    |   directed  |  [[raw]](http://law.di.unimi.it/webdata/uk-2007-05/)    | 
 |UK-union | 133,633,040 | 5,475,109,924|    -    |   directed  |  [[raw]](http://law.di.unimi.it/webdata/uk-union-2006-06-2007-05/)     | 
 |ClueWeb12| 978,408,098 | 42,574,107,469 | - | directed | [[raw]](http://law.di.unimi.it/webdata/clueweb12/) |
 |ClueWeb09| 1,684,868,322| 7,939,635,651|    -    |  directed  |   [[raw]](http://www.lemurproject.org/clueweb09.php/)       | 
+!-->
 
 
 
+<!--
 
 ### Bipartite Graphs (http://konect.cc/)
+
 
 | Name    |     \|U\|   |    \|V\|    |   \|E\|   | URL       | 
 |-------  |---------  |---------  |---------|---------  |
@@ -100,7 +108,7 @@ http://www.sociopatterns.org/
 
 https://snap.stanford.edu/
 
-
+!-->
 
 <!--
 
