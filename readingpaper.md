@@ -68,12 +68,13 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 ## Some learning websites
 
 
-| URLS | Topic| Affilication |
+| URLS | Topic| Author |
 |:----|:-----:|:-----:|
-https://tcs.nju.edu.cn/| Theoretical Computer Science at Nanjing University| By  Yitong Yin
-https://yufeizhao.com/gtacbook/| Graph Theory and Additive Combinatorics| By Yufei Zhao|
-https://theory.stanford.edu/~trevisan/cs359g/ | Graph Partitioning | By  Luca Trevis|
-|https://www.cse.cuhk.edu.hk/~taoyf/course/5610/20-spring/ |   《Advanced Data Structures》| By Yufei Tao|
-|http://courses.csail.mit.edu/6.851/spring14/lectures/ |  《Advanced Data Structures》| By Erik Demaine |
-|https://zh-v2.d2l.ai/index.html|  《动手学习深度学习》| By Mu Li|
-|http://www.mmds.org/  | 《Mining of Massive Datasets》 | By Jure Leskovec|
+http://web.stanford.edu/class/cs224w/| CS224W: Machine Learning with Graphs| By Jure Leskovec|
+https://tcs.nju.edu.cn/| Theoretical Computer Science at Nanjing University| Yitong Yin
+https://yufeizhao.com/gtacbook/| Graph Theory and Additive Combinatorics| Yufei Zhao|
+https://theory.stanford.edu/~trevisan/cs359g/ | Graph Partitioning | Luca Trevis|
+|https://www.cse.cuhk.edu.hk/~taoyf/course/5610/20-spring/ |   《Advanced Data Structures》| Yufei Tao|
+|http://courses.csail.mit.edu/6.851/spring14/lectures/ |  《Advanced Data Structures》| Erik Demaine |
+|https://zh-v2.d2l.ai/index.html|  《动手学习深度学习》| Mu Li|
+|http://www.mmds.org/  | 《Mining of Massive Datasets》 | Jure Leskovec|
