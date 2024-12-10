@@ -7,13 +7,14 @@ permalink: /
 Longlon Lin is an Associate Professor at the [College of Computer and Information Science, Southwest University, China](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including VLDB, KDD, AAAI, CIKM, ICDCS, and IEEE TSMC.  
 
 ## Research Interests
-Graph Machine Learning、LLM for Graphs、(Temporal) Graph Clustering、Personalized PageRank. 
+
+Graph Machine Learning、LLM-based Text Attribute Graph Analysis、Graph Clustering、Personalized PageRank. 
 
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究:
 
 **Graph Machine Learning**: 主要关注可扩展性、鲁棒性、图增强. 可扩展性是如何保质地快速学习十亿级别的图. 鲁棒性和图增强有很多重叠，他们都是data-centric graph learning, 都是对原始图做改变，以防御攻击或者让学习质量更好.
 
-**AI-empowered Community Mining**：社区挖掘目前分为基于规则(Rule-based)的和基于学习的(Learning-based). 我们课题组关注的是如何将两种融合以在质量和效率上达到trade-off.
+**AI-empowered Community Mining**：社区挖掘目前分为基于规则(Rule-based)的和基于学习的(Learning-based). 我们课题组关注的是如何将两种融合以在质量和效率上达到trade-off. 
 
 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院二区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作.
 <br><br>
