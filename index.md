@@ -9,7 +9,13 @@ Longlon Lin is an Associate Professor at the [College of Computer and Informatio
 ## Research Interests
 Graph Machine Learning、LLM for Graphs、(Temporal) Graph Clustering、Personalized PageRank. 
 
-<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究Graph Machine Learning(主要关注可扩展性、时序性、鲁棒性、图增强)和传统图算法(比如社区挖掘,图聚类,Personalized PageRank)； 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院二区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作.
+<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究:
+
+**Graph Machine Learning**: 主要关注可扩展性、鲁棒性、图增强. 可扩展性是如何保质地快速学习十亿级别的图. 鲁棒性和图增强有很多重叠，他们都是data-centric graph learning, 都是对原始图做改变，以防御攻击或者让学习质量更好.
+
+**AI-empowered Community Mining**：社区挖掘目前分为基于规则(Rule-based)的和基于学习的(Learning-based). 我们课题组关注的是如何将两种融合以在质量和效率上达到trade-off.
+
+欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院二区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作.
 <br><br>
 
 
