@@ -129,19 +129,14 @@ https://snap.stanford.edu/
 |[BioSNAP](http://snap.stanford.edu/biodata/index.html)                                      |Biomedical Networks                     | Stanford                 |
 |[BioGRID](https://thebiogrid.org/)                                                          |Biomedical Networks                     | Toronto                  |
 |[TianChi](https://tianchi.aliyun.com/dataset?spm=a2c22.12282016.J_3941670930.20.1639b473rtUOx8) |Graphs & Networks                   |Tianchi                   |
+
 <!--
-
-
-
-
 |[TuDatasets](https://chrsmrrs.github.io/datasets/)                                          |Graphs & Networks                       | Christopher Morris, etc. |
 |[StreamingGraphs](https://eecs.wsu.edu/~yyao/StreamingGraphs.html)                          |Streaming Graphs                        | Yibo Yao                 |
 |[ARB](https://www.cs.cornell.edu/~arb/data/)                                                |Graphs & Networks                       | Austin R. Benson         |
 |[SuiteSparse Matrix Collection](https://sparse.tamu.edu/)                                   |Matrix/Graphs                           | TAMU                     |
 |[Web Data Commons](http://webdatacommons.org/)                                              |Hyperlink Graphs/Web Tables/RDFa        | University of Mannheim   |
 |[Yahoo Webscope Datasets](https://webscope.sandbox.yahoo.com/#datasets)                     |Graphs/Ratings/Languages/Advertising    | Yahoo                    |
-
-
 |[Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)             |graphs/interactions/reviews/ratings     | UCSD                     |
 |[MIcrosoft News Dataset](https://msnews.github.io/)                                         |user behavior logs                      | Microsoft                |
 |[Search Query Logs](https://jeffhuang.com/search_query_logs/)                               |query logs                              | Jeff Huang               |
@@ -151,5 +146,4 @@ https://snap.stanford.edu/
 |[OpenML](https://www.openml.org/search?type=data&sort=runs&status=active) | - | OpenML |
 |[Datasets](https://courses.cs.washington.edu/courses/cse547/19sp/data.html) | - | - |
 |[Netzschleuder](https://networks.skewed.de/) | - | - |
-
 !-->
