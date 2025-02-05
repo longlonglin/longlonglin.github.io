@@ -52,8 +52,6 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
 </li>	
 
-
-
 <li>	
 Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2025  (CCF-A会议)
 </li>	
