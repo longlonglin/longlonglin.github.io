@@ -49,11 +49,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>	
-Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+(16) Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
 </li>	
 
 <li>	
-Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2025  (CCF-A会议)
+(15) Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2025  (CCF-A会议)
 </li>	
 
    </ul>
@@ -65,47 +65,44 @@ Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+(14) <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
 </li>	
 
 <li>
-<b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
+(13) <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
 </li>	
 
 
 
 
 <li>
-Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (CCF-A会议, Oral)
-</li>	
-
-
-<li>
-<b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生) 
-</li>	
-
-<li>
-Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区, 一作为指导的研究生)
-</li>	
-
-<li>
-Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral, 一作为指导的研究生)
+(12) Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (CCF-A会议, Oral)
 </li>	
 
 
 <li>
-Zeli Wang, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议, Oral) 
+(11) <b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生) 
+</li>	
+
+<li>
+(10)Yue He, <b>Longlong Lin<sup>*</sup></b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区, 一作为指导的研究生)
+</li>	
+
+<li>
+(9) Yunfeng Yu, <b>Longlong Lin<sup>*</sup></b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral, 一作为指导的研究生)
 </li>	
 
 
 <li>
-Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
+(8) Zeli Wang, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议, Oral) 
 </li>	
 
 
 <li>
-Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal Graph Learning via Personalized PageRank. Entropy, 2024 (中科院三区，一作为指导的本科生)
+(7) Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
 </li>	
+
+
 
 
 
@@ -121,7 +118,7 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   (CCF-A会议， Oral)
+(6) <b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   (CCF-A会议， Oral)
 </li>	
 
 
@@ -135,17 +132,17 @@ Ziyu Liao, Tao Liu, Yue He, <b>Longlong Lin<sup>*</sup></b>. Effective Temporal 
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (TSMC, 中科院1区)
+(5) <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai Jin. Mining Stable Quasi-Cliques on Temporal Networks.  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(6):3731-3745 (TSMC, 中科院1区)
 </li>	
 
 
 <li>
-<b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (TBD, 中科院2区)
+(4) <b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (TBD, 中科院2区)
 </li>	
 
 
 <li>
-Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
+(3) Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
 </li>	
 
 <li>
