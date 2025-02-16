@@ -63,16 +63,16 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-[14] <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+[15] <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
 </li>	
 
 <li>
-[13] <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
+[14] <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
 </li>	
 
 
 <li>	
-[15] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (CCF-A会议)
+[13] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (CCF-A会议)
 </li>	
 
 <li>
