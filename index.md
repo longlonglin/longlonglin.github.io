@@ -149,7 +149,7 @@ Yifei Zhang<sup>#</sup>, <b>Longlong Lin<sup>#</sup></b>, Pingpeng Yuan, Hai Jin
 </li>	
 
 <li>
-Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
+(2) Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
 </li>	
 
    </ul>
@@ -161,7 +161,7 @@ Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive 
 
 
 <li>
-Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (ICDCS, CCF-B会议)
+(1) Pingpeng Yuan, <b>Longlong Lin</b>, Zhijuan Kou, Ling Liu, Hai Jin. Big RDF Data Storage, Computation, and Analysis: A Strawman’s Arguments. In: Proceedings of the International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, July 7-10, 2019:1693-1703 (ICDCS, CCF-B会议)
 </li>	
 
 
