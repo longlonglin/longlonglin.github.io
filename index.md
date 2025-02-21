@@ -26,6 +26,7 @@ Graph Machine Learning、LLM-based Text Attribute Graph Analysis、Graph Cluster
 
 </li>	
 
+[16] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
 
 <b> <font color="#FF0000">[2024-10]</font> </b>: one co-authored paper is submitted to ASPLOS (CCF-A)
 
@@ -54,7 +55,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 
-[16] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
+
 
    </ul>
 </font>
