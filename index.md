@@ -22,9 +22,10 @@ Graph Machine Learning、LLM-based Text Attribute Graph Analysis、Graph Cluster
 
 <!--
 
-<b> <font color="#FF0000">[2024-11]</font> </b>: four papers are submitted to ICDE (CCF-A)
+<li>	
+Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
+</li>	
 
-<b> <font color="#FF0000">[2024-11]</font> </b>: one co-authored paper is submitted to DAC (CCF-A)
 
 <b> <font color="#FF0000">[2024-10]</font> </b>: one co-authored paper is submitted to ASPLOS (CCF-A)
 
@@ -51,6 +52,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <li>	
 [16] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
 </li>	
+
 
 
 
