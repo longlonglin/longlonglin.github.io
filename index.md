@@ -35,7 +35,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>	
-[17] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+[18] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+</li>	
+
+<li>	
+[17] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
 </li>	
 
 [16] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
