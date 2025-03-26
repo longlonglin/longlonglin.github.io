@@ -35,11 +35,16 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>	
-[18] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+[19] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
 </li>	
 
 <li>	
-[17] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
+[18] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
+</li>	
+
+
+<li>	
+[17] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (CCF-A会议)
 </li>	
 
 
