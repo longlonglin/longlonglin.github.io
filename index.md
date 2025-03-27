@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is an Associate Professor at the [College of Computer and Information Science, Southwest University, China](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including KDD, SIGMOD, VLDB, ICDE, AAAI, DAC, CIKM, ICDCS, and IEEE TSMC.  
+Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including KDD, SIGMOD, VLDB, ICDE, AAAI, DAC, CIKM, ICDCS, and IEEE TSMC.  
 
 ## Research Interests
 
