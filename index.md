@@ -35,6 +35,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>	
+[20] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+</li>	
+
+
+<li>	
 [19] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
 </li>	
 
