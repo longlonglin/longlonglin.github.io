@@ -34,9 +34,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <font size="3"> 
 <ul>
 
-<li>	
-[20] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
-</li>	
+
 
 
 <li>	
