@@ -14,7 +14,7 @@ title: miscellaneous
 
 廖梓妤   2021级本科生  基于Personalized PageRank的时序图表示学习  Entropy(中科院三区) 保送重庆大学
 
-刘韬     2022级本科生  图增强   ICMR‘2025(CCF-B会议)  
+刘韬     2022级本科生  图增强   ICMR'2025(CCF-B会议)  
 
 叶之秋   2022级本科生   图对抗攻击
 
