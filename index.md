@@ -34,6 +34,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <font size="3"> 
 <ul>
 
+<li>	
+[21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks, ICMR, 2024 (CCF-B会议, Oral, 一作为指导的本科生)
+</li>	
+
+
 
 <li>	
 [20] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
