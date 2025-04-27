@@ -35,7 +35,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>	
-[21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks, ICMR, 2024 (CCF-B会议, Oral, 一作为指导的本科生)
+[21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
 </li>	
 
 
