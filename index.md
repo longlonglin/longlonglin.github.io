@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals  including KDD, SIGMOD, VLDB, ICDE, AAAI, DAC, CIKM, ICDCS, and IEEE TSMC.  
+Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several top conferences and journals,  including KDD, SIGMOD, VLDB, ICDE, AAAI, ASPLOS, DAC, CIKM, ICDCS, and IEEE TSMC.  
 
 ## Research Interests
 
@@ -33,6 +33,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
    <p> <b> <font color="#2554C7">2025:</font> </b> </p>
 <font size="3"> 
 <ul>
+
+
+<li>
+[22] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
+</li>	
+
 
 <li>	
 [21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
