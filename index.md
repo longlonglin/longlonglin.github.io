@@ -36,9 +36,14 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-[22] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
+[23] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
 </li>	
 
+
+
+<li>
+[22] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, **Longlong Lin**, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (CCF-A会议)
+</li>	
 
 <li>	
 [21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
