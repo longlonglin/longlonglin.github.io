@@ -35,44 +35,55 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 
+
+<li>	
+[23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+</li>	
+
+<li>	
+[22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
+</li>	
+
 <li>
-[23] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
+[21] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (CCF-A会议)
 </li>	
 
+<li>	
+[20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (CCF-A会议)
+</li>	
 
 
 <li>
-[22] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, **Longlong Lin**, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (CCF-A会议)
-</li>	
-
-<li>	
-[21] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
+[19] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
 </li>	
 
 
 
 <li>	
-[20] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
-</li>	
-
-<li>	
-[19] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
-</li>	
-
-<li>	
-[18] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
+[18] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
 </li>	
 
 
 <li>	
-[17] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (CCF-A会议)
+[17] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
 </li>	
-
 
 
 <li>	
-[16] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
+[16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
 </li>	
+
+
+
+
+
+
+
+
+
+
+
+
 
    </ul>
 </font>
