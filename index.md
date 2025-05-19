@@ -70,7 +70,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议, 一作为指导的本科生)
+[16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议)
 </li>	
 
 
@@ -112,15 +112,15 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-[11] <b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议，二作为指导的研究生) 
+[11] <b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议) 
 </li>	
 
 <li>
-[10] Yue He, <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区, 一作为指导的研究生)
+[10] Yue He, <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
 </li>	
 
 <li>
-[9] Yunfeng Yu, <b>Longlong Lin</b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral, 一作为指导的研究生)
+[9] Yunfeng Yu, <b>Longlong Lin</b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral)
 </li>	
 
 
