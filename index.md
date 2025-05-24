@@ -40,7 +40,8 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 [24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (CCF-A会议)
 </li>	
 
-
+  </ul>
+</font>
 
    <p> <b> <font color="#2554C7">2025:</font> </b> </p>
 <font size="3"> 
@@ -84,16 +85,6 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <li>	
 [16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议)
 </li>	
-
-
-
-
-
-
-
-
-
-
 
 
 
