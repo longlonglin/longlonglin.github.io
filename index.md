@@ -30,6 +30,18 @@ ___
 A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). 
 <br><be>
 
+
+
+   <p> <b> <font color="#2554C7">2026:</font> </b> </p>
+<font size="3"> 
+<ul>
+
+<li>	
+[24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (CCF-A会议)
+</li>	
+
+
+
    <p> <b> <font color="#2554C7">2025:</font> </b> </p>
 <font size="3"> 
 <ul>
