@@ -8,7 +8,7 @@ Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.e
 
 ## Research Interests
 
-LLM-based Text Attribute Graph Analysis、Graph Machine Learning、Graph Clustering、Personalized PageRank. 
+LLM-based Text Attribute Graph Analysis、Graph Machine Learning、Graph Clustering. 
 
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究:
 
