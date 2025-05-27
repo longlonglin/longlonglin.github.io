@@ -6,15 +6,13 @@ title: miscellaneous
 # permalink: /:title:output_ext
 ---
 
-### 指导学生
+### Students
 
-余云丰   2022级学硕   基于随机游走多项式的大规模GNN算法加速  CIKM'2024(CCF-B会议)、ICMR'2024(CCF-B会议)
-
-何越     2022级学硕   基于Conductance的社区挖掘  ESWA(中科院一区)
+22级：余云丰(学硕,CIKM'2024(CCF-B会议)、ICMR'2024(CCF-B会议))、何越(学硕,ESWA(中科院一区),TBD(中科院二区)，刘韬(本科生,ICMR'2025(CCF-B会议)
 
 廖梓妤   2021级本科生  基于Personalized PageRank的时序图表示学习  Entropy(中科院三区) 保送重庆大学
 
-刘韬     2022级本科生  图增强   ICMR'2025(CCF-B会议)  
+  
 
 叶之秋   2022级本科生   图对抗攻击
 
