@@ -6,6 +6,18 @@ permalink: /datasets/
 ## Dataset
 ---
 
+
+### Temporal Graphs
+
+| Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
+|-------  |---------  |---------  |---------|-----------  |---------  |---------  |
+|-- | --|--|--|--|--| [[raw]](https://networkrepository.com/dynamic.php)|
+|-- | --|--|--|--|--| [[raw]](https://snap.stanford.edu/data/index.html#temporal)|
+|-- | --|--|--|--|--| [[raw]](http://konect.cc/)|
+|-- | --|--|--|--|--| [[raw]](http://www.sociopatterns.org/datasets/)|
+
+
+
 ### Attribution Graphs
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
@@ -97,18 +109,9 @@ features = sparse.load_npz("attrs.npz")
 |   Orkut   | 2,783,196  | 8,730,857  | 327,037,487  | [[raw]](https://networkrepository.com/aff-orkut-user2groups.php) |
 |  MAG    | 10,541,560  | 2,784,240  |  1,095,315,106 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) |
 
-
-
-
-
-### Temporal Graphs
-http://konect.cc/
-
-http://www.sociopatterns.org/
-
-https://snap.stanford.edu/
-
 !-->
+
+
 
 
 
