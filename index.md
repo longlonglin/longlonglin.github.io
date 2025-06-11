@@ -212,14 +212,14 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 ## Work Experience
 Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperate with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html).
 
-Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ) and [Dr. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate).
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ) and [Prof. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate).
 
 
 
 
 
 ## Academic Services
-(External) Conference Reviewer: VLDB 2024, KDD(2021-2022,2024,2025), NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
+(External) Conference Reviewer: VLDB 2024, KDD(2021-2022,2024,2025 and Award Outstanding Reviewers), NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
 
 Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, KBS
 
