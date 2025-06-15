@@ -43,7 +43,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (CCF-A会议)
+[24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
   </ul>
@@ -56,30 +56,30 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (CCF-A会议)
+[23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>	
-[22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (CCF-A会议)
+[22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>
-[21] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (CCF-A会议)
+[21] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>	
-[20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (CCF-A会议)
+[20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
 <li>
-[19] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (CCF-A会议).
+[19] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>).
 </li>	
 
 
 
 <li>	
-[18] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (CCF-A会议)
+[18] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
@@ -103,20 +103,20 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-[15] <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (CCF-A会议)
+[15] <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Chunxue Zhu, Hongchao Qin, Hai Jin, Tao Jia. QTCS: Efficient Query-Centered Temporal Community Search. Proceedings of the VLDB Endowment, 2024, 17(6):1187-1199 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>
-[14] <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (CCF-A会议, Oral)
+[14] <b>Longlong Lin</b>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD，2024 (<b> <font color="#FF0000">CCF-A会议, Oral</font> </b>)
 </li>	
 
 
 <li>	
-[13] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (CCF-A会议)
+[13] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>
-[12] Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (CCF-A会议, Oral)
+[12] Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (<b> <font color="#FF0000">CCF-A会议, Oral</font> </b>)
 </li>	
 
 
@@ -158,7 +158,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>
-[6] <b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   (CCF-A会议， Oral)
+[6] <b>Longlong Lin</b>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. In: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023:4471-4478   (<b> <font color="#FF0000">CCF-A会议, Oral</font> </b>)
 </li>	
 
 
