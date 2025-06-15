@@ -37,7 +37,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-[25] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (CCF-A期刊)
+[25] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>	
 
 
