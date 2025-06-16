@@ -43,7 +43,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
   </ul>
@@ -57,7 +57,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>	
 [23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
-</li>	
+</li>	 (一作为协助指导的本科生)
 
 <li>	
 [22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
@@ -69,7 +69,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>	
 [20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
-</li>	
+</li>	 (一作为协助指导的博士生)
 
 
 <li>
@@ -90,7 +90,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>	
 [16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议)
-</li>	
+</li>	 (一作为单独指导的本科生)
 
 
 
@@ -112,12 +112,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[13] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[13] Yuchen Meng, Rong-Hua Li, <b>Longlong Lin</b>, Xunkai Li, Guoren Wang.  Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024  (<b> <font color="#FF0000">CCF-A会议</font> </b>)  (一作为协助指导的硕士生)
 </li>	
 
 <li>
 [12] Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <b>Longlong Lin</b>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024 (<b> <font color="#FF0000">CCF-A会议, Oral</font> </b>)
-</li>	
+</li>	  (一作为协助指导的博士生)
 
 
 <li>
@@ -125,12 +125,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 </li>	
 
 <li>
-[10] Yue He, <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)
+[10] Yue He, <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)  (一作为独立指导的硕士生)
 </li>	
 
 <li>
 [9] Yunfeng Yu, <b>Longlong Lin</b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral)
-</li>	
+</li>	 (一作为独立指导的硕士生)
 
 
 <li>
@@ -183,10 +183,10 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>
 [3] Yifei Zhang, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)
-</li>	
+</li>	  (一作为协助指导的硕士士生)
 
 <li>
-[2]  Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)
+[2]  Chunxue Zhu, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin.  Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. Journal of Computer Science and Technology, 2022, 37(5):1068-1085 (中科院2区)  (一作为协助指导的硕士生)
 </li>	
 
    </ul>
