@@ -57,7 +57,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>	
 [23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
-</li>	 (一作为协助指导的本科生)
+(一作为协助指导的本科生) </li>	 
 
 <li>	
 [22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
