@@ -219,9 +219,9 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zh
 
 
 ## Academic Services
-(External) Conference Reviewer: SIGMOD (ARI) 2024, VLDB 2024, KDD(2021-2022,2024, 2025 and Award Outstanding Reviewers), NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
+Conference Reviewer: SIGMOD (ARI) 2024, VLDB 2024, KDD(2021-2022,2024, 2025 and Award Outstanding Reviewers), NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
 
-Invited Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, KBS
+Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, KBS
 
 Publicity Chairs in the [21st IEEE International Conference on Green Computing and Communications](https://ieee-cybermatics.org/2025/greencom/)
 
