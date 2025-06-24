@@ -37,10 +37,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-[25] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[26] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>	
 
-
+<li>
+[25] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductane-based Communityb Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)
+</li>	
 
 <li>	
 [24] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
