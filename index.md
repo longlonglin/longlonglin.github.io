@@ -221,7 +221,7 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zh
 
 
 ## Academic Services
-(External) Conference Reviewer: SIGMOD (ARI) 2025, VLDB 2024, KDD(2021-2022), KDD 2024 (Session Chair), KDD 2025 (Award Outstanding Reviewer and Session Chair), NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
+(External) Conference Reviewer: SIGMOD (ARI) 2025, VLDB 2024, KDD(2021-2022), KDD 2024 (Session Chair), KDD 2025 (Award Outstanding Reviewer and Session Chair), KDD 2026, NIPS 2025, WWW 2022, AAAI(2022-2025), ICMR (2024-2025), WSDM 2022, CIKM 2020
 
 Invited  Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, KBS
 
