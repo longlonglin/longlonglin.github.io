@@ -16,6 +16,9 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 
 | URLS | Name | Affilication | Toptic |
 |:----|:-----:|:-----:| ----:|
+| https://xinwangliu.github.io/ | Xinwang Liu| NUDT | Clustering  |
+| https://dblp.org/pid/80/5755.html | Feiping Nie| NPU | Clustering |
+| https://dblp.org/pid/l/XuelongLi.html | Xuelong Li |NPU |Clustering |
 | https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local Clustering |
 | https://opallab.ca/publications/  |  Kimon Fountoulakis  | University of  Waterloo |  Local Clustering  |
 | http://cs-www.cs.yale.edu/homes/spielman/ |    Daniel A. Spielman   |       Yale  Univeristy  |  Spectral Graph Theory |
@@ -25,9 +28,7 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 | https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
 | https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local Clustering |
 | https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering |
-| https://xinwangliu.github.io/ | Xinwang Liu| NUDT | Clustering  |
-| https://dblp.org/pid/80/5755.html | Feiping Nie| NPU | Clustering |
-| https://dblp.org/pid/l/XuelongLi.html | Xuelong Li |NPU |Clustering |
+
 
 
 
