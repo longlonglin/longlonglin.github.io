@@ -11,7 +11,7 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 
 
 
-## Local CLustering
+## Clustering
 
 
 | URLS | Name | Affilication | Toptic |
@@ -25,6 +25,9 @@ For GNN/Community/Clustering/PPR, we should pay attention to SIGMOD, VLDB, ICDE,
 | https://theory.epfl.ch/kapralov/      |   Michael Kapralov    |     EPFL       |    Spectral Graph Theory |
 | https://homepages.inf.ed.ac.uk/hsun4/index.html   |    He Sun   |  University of Edinburgh   | Spectral Graph Theory/Local Clustering |
 | https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering |
+| https://xinwangliu.github.io/ | Xinwang Liu| NUDT | Clustering  |
+| https://dblp.org/pid/80/5755.html | Feiping Nie| NPU | Clustering |
+| https://dblp.org/pid/l/XuelongLi.html | Xuelong Li |NPU |Clustering |
 
 
 
