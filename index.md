@@ -48,6 +48,10 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 [25] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
+<li>	
+[24] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
+</li>
+
   </ul>
 </font>
 
@@ -58,40 +62,36 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 
 <li>	
-[24] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 (一作为协助指导的本科生) </li>	 
 
 <li>	
-[23] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>
-[22] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[21] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>	
-[21] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+[20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	 
 
 
 <li>
-[20] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>).
+[19] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>).
 </li>	
 
 
 
 <li>	
-[19] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[18] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
 <li>	
-[18] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+[17] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
 </li>	
-
-<li>	
-[17] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
-</li>
 
 
 <li>	
