@@ -46,9 +46,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 [26] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
-<li>	
-[25] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
-</li>
+
 
   </ul>
 </font>
@@ -58,8 +56,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <ul>
 
 <li>
-[24] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[25] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>	
+
+<li>	
+[24] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
+</li>
 
 <li>	
 [23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
