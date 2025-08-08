@@ -36,20 +36,18 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <font size="3"> 
 <ul>
 
-<li>
-[27] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
-</li>	
+
 
 <li>
-[26] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)
+[27] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)
 </li>	
 
 <li>	
-[25] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+[26] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
 <li>	
-[24] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
+[25] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
 </li>
 
   </ul>
@@ -59,11 +57,14 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 <font size="3"> 
 <ul>
 
-
+<li>
+[24] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+</li>	
 
 <li>	
 [23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
-(一作为协助指导的本科生) </li>	 
+(一作为协助指导的本科生) 
+</li>	 
 
 <li>	
 [22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
