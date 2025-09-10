@@ -8,7 +8,7 @@ title: miscellaneous
 
 ### Students
 
-<li> 21级&22级：余云丰(学硕,CIKM'2024,ICMR'2024)、何越(学硕,TBD,ESWA)、廖梓妤(本科生,Entropy,保送重庆大学)、刘韬(本科生,ICMR'2025）、叶之秋(本科生,ESWA) </li>
+<li> 21级&22级：余云丰(学硕,CIKM'2024,ICMR'2024,重庆工商)、何越(学硕,TBD,ESWA)、廖梓妤(本科生,Entropy,保送重庆大学)、刘韬(本科生,ICMR'2025）、叶之秋(本科生,ESWA) </li>
 
 <li> 23级：欧熙(学硕,TKDE)、李泉澳(专硕,TKDE) </li>
 
