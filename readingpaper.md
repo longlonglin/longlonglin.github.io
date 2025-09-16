@@ -26,7 +26,7 @@ We should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AA
 | https://cs.uwaterloo.ca/~lapchi/index.htm  | Lap Chi Lau |  University of  Waterloo   | Spectral Graph Theory (theory） |
 | http://www.cs.cornell.edu/~arb/#papers  | Austin R. Benson | Cornell University  | Higher-order Clustering (theory）|
 | https://theory.epfl.ch/kapralov/      |  Michael Kapralov |  EPFL |    Spectral Graph Theory (theory） |
-| https://homepages.inf.ed.ac.uk/hsun4/index.html | He Sun | University of Edinburgh | Spectral Graph Theory/Local Clustering (theory|
+| https://homepages.inf.ed.ac.uk/hsun4/index.html |He Sun|University of Edinburgh|Spectral Graph Theory/Local Clustering (theory)|
 | https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering (theory）|
 
 
