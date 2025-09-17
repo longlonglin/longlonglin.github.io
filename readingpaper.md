@@ -19,12 +19,13 @@ We should pay attention to SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML, AA
 | https://xinwangliu.github.io/ | Xinwang Liu| NUDT | Deep Graph Clustering |
 | https://dblp.org/pid/80/5755.html | Feiping Nie| NPU | Deep Graph Clustering |
 | https://dblp.org/pid/l/XuelongLi.html | Xuelong Li |NPU | Deep Graph Clustering |
-| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local Clustering （theory） |
-| https://opallab.ca/publications/  |  Kimon Fountoulakis  | University of  Waterloo |  Local Clustering （theory） |
-| http://cs-www.cs.yale.edu/homes/spielman/ |  Daniel A. Spielman |   Yale  Univeristy  |  Spectral Graph Theory (theory） |
-| http://zeyuan.allen-zhu.com/   |   Zeyuan ALLEN-ZHU  |  Meta FAIR Labs  |  Local Clustering/Improve Cluster (theory） |
-| https://cs.uwaterloo.ca/~lapchi/index.htm  | Lap Chi Lau |  University of  Waterloo   | Spectral Graph Theory (theory） |
-| http://www.cs.cornell.edu/~arb/#papers  | Austin R. Benson | Cornell University  | Higher-order Clustering (theory）|
+| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local Clustering (theory)|
+| https://opallab.ca/publications/  |  Kimon Fountoulakis  | University of  Waterloo |  Local Clustering (theory) |
+| http://cs-www.cs.yale.edu/homes/spielman/ |  Daniel A. Spielman |   Yale  Univeristy  |  Spectral Graph Theory (theory) |
+| http://zeyuan.allen-zhu.com/   |   Zeyuan ALLEN-ZHU  |  Meta FAIR Labs  |  Local Clustering/Improve Cluster (theory) |
+| https://cs.uwaterloo.ca/~lapchi/index.htm  | Lap Chi Lau |  University of  Waterloo   | Spectral Graph Theory (theory) |
+| http://www.cs.cornell.edu/~arb/#papers  | Austin R. Benson | Cornell University  | Higher-order Clustering (theory)|
+| https://veldt.engr.tamu.edu/ | Nate Veldt | Texas A&M University | Hypergraph Clustering (theory) |
 | https://theory.epfl.ch/kapralov/      |  Michael Kapralov |  EPFL |    Spectral Graph Theory (theory） |
 | https://homepages.inf.ed.ac.uk/hsun4/index.html |He Sun|University of Edinburgh|Spectral Graph Theory/Local Clustering (theory)|
 | https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering (theory）|
