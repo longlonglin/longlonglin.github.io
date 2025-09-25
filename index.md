@@ -221,7 +221,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 ## Work Experience
 Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperate with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html).
 
-Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ) and [Prof. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate).
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Pro. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en), [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ) and [Prof. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate).
 
 
 
