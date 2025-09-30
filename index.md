@@ -228,9 +228,9 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperate with [Prof. Hai J
 
 
 ## Academic Services
-(External) Conference Reviewer: SIGMOD (ARI) 2025, VLDB 2024, KDD(2021-2022), KDD 2024 (Session Chair), KDD 2025 (Award [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) and Session Chair), KDD 2026, NIPS 2025, WWW 2022, AAAI(2022-2026), ICMR (2024-2025), WSDM 2022, CIKM 2020
+Conference Reviewer: SIGMOD (ARI) 2025, KDD 2024 (Session Chair), KDD 2025 (Award [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) and Session Chair), KDD 2026, NeurIPS 2025, WWW 2026, AAAI(2022-2026), ICMR (2024-2025)
 
-Invited  Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS
+Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS
 
 Publicity Chairs in 21st [IEEE International Conference on Green Computing and Communications](https://ieee-cybermatics.org/2025/greencom/)
 
