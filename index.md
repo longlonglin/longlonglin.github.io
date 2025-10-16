@@ -40,7 +40,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.lan
 
 <li>
    
-[28] Yichun Yang,  <b>Longlong Lin</b>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+<!-- [28] Yichun Yang,  <b>Longlong Lin</b>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生) -->
 
 </li>	
 
