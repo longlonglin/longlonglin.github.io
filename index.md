@@ -20,7 +20,7 @@ LLM-based Text Attribute Graph Analysis, Graph Machine Learning, Graph Clusterin
 
 **Similarity search**：找出和目标节点相似的节点, 它是上述三个研究方向的根本, 也是提升大模型检索性能的关键. 因此如何设计高质量高效率的算法是我们关注的问题.
 
-欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院二区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
+欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院一区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
 <br><br>
 
 
@@ -29,7 +29,7 @@ LLM-based Text Attribute Graph Analysis, Graph Machine Learning, Graph Clusterin
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.lanfanshu.cn/citations?user=TgqGrv3_ytYC&hl=zh-CN&oi=ao). Please see my research projects/code on [GitHub](https://github.com/longlonglin). 
+A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN). Please see my research projects/code on [GitHub](https://github.com/longlonglin). 
 <br><be>
 
 
