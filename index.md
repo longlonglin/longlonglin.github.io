@@ -244,6 +244,15 @@ Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with </li> [Prof
 
 ## Academic Services
 
+
+<ul>
+   <li>
+      <a href="https://kdd2025.kdd.org/research-track-program-committee/">
+         Outstanding Reviewer at KDD 2025
+      </a>
+   </li>
+</ul>
+
 <li> 
    
 [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) at KDD 2025
