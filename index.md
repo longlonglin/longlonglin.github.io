@@ -226,26 +226,54 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 ## Work Experience
 
-<li> Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperated with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). </li>	
+<li>
+   
+Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperated with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 
-<li> Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en), [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ), and [Prof. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate). </li>	
- 
+</li>	
+
+
+<li>
+   
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with </li> [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en), [Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ), and [Prof. Jin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate). 
+
+</li>	
 
 
 
 
 ## Academic Services
 
-<li> [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) at KDD 2025 </li>	
+<li> 
+   
+[Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) at KDD 2025
 
-<li> Session Chair at KDD 2024 and KDD 2025 </li>	
+</li>	
 
-<li> Publicity Chair for the 21st [IEEE International Conference on Green Computing and Communications](https://ieee-cybermatics.org/2025/greencom/) </li>	
+<li> 
+   
+Session Chair at KDD 2024 and KDD 2025 
+
+</li>	
+
+<li> 
+   
+Publicity Chair for the 21st [IEEE International Conference on Green Computing and Communications](https://ieee-cybermatics.org/2025/greencom/) 
+
+</li>	
 
 
-<li> Conference Reviewer: SIGMOD 2025, KDD (2024-2026), NeurIPS 2025, WWW 2026, AAAI(2022-2026), ICMR (2024-2025) </li>	
+<li> 
+   
+Conference Reviewer: SIGMOD 2025, KDD (2024-2026), NeurIPS 2025, WWW 2026, AAAI(2022-2026), ICMR (2024-2025) 
 
-<li> Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS </li>	
+</li>	
+
+<li> 
+   
+Journal Reviewer: IEEE-TKDE, IEEE-TC, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS 
+
+</li>	
 
 
 
