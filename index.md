@@ -49,7 +49,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>	
-[26] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) (一作为独立指导的本科生)
+[26] Zhiqiu Ye, <b>Longlong Lin</b>#, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) (一作为独立指导的本科生)
 </li>
 
 <li>	
@@ -104,7 +104,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>	
-[16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) (一作为独立指导的本科生)
+[16] Tao Liu, <b>Longlong Lin</b>*, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) (一作为独立指导的本科生)
 </li>	 
 
 
