@@ -140,11 +140,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[10] Yue He, <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)  (一作为独立指导的硕士生)
+[10] Yue He, <b>Longlong Lin</b>*, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024 (中科院1区)  (一作为独立指导的硕士生)
 </li>	
 
 <li>
-[9] Yunfeng Yu, <b>Longlong Lin</b>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral)  (一作为独立指导的硕士生)
+[9] Yunfeng Yu, <b>Longlong Lin</b>*, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024 (CCF-B会议, Oral)  (一作为独立指导的硕士生)
 </li>	
 
 
@@ -197,7 +197,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[3] Yifei Zhang, <b>Longlong Lin</b>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)  (一作为协助指导的硕士士生)
+[3] Yifei Zhang, <b>Longlong Lin</b>#, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. In: Proceedings of Database Systems for Advanced Applications (DASFAA), Virtual Event, April 11–14, 2022:250-258  (CCF-B会议)  (一作为协助指导的硕士士生)
 
 </li>	 
 <li>
