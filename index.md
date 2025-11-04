@@ -29,7 +29,7 @@ LLM-based Text Attribute Graph Analysis, Graph Machine Learning, Graph Clusterin
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN). Please see my research projects/code on [GitHub](https://github.com/longlonglin). 
+A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN). Please see my research projects/code on [GitHub](https://github.com/longlonglin). * indicates corresponding author. # indicates contributed equally.
 <br><be>
 
 
