@@ -44,7 +44,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
+[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
 </li>	
 
 <li>
