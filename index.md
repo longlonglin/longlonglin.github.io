@@ -39,7 +39,15 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-   
+[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+</li>	
+
+
+<li>
+[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
+</li>	
+
+<li>
  [28] Yichun Yang,  <b>Longlong Lin</b>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 
 </li>	
