@@ -4,12 +4,12 @@ title: readingpaper
 ---
 
 
-## You can obtain the following conference from the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/): SIGMOD, VLDB, ICDE, KDD, WWW, NeurIPS, ICLR, ICML. CCF DDL (https://ccfddl.github.io/) <br>
+## You can obtain the following conference from the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/): SIGMOD, VLDB, ICDE, SIGKDD, SIGIR, WWW, NeurIPS, ICLR, ICML, ACM MM, AAAI, IJCAI. <br>
 
 <!--总体建议: 理论的我们需要花时间啃来支撑我们的工作. 但我们不是做数学的,因此需要花非常多的时间来理清理论中的逻辑,然后应用+稍加改动以适应我们的问题, 同时考虑一些数据结构方法技巧，学会分析复杂度和正确性，这样就是数学和计算机两者都结合起来了 -->
 
 
-## Clustering (做这个研究的可以重点关注Renchi Yang、Xinwang Liu和Feiping Nie的工作, 适合本科生和硕士研究生)
+## Graph Clustering (适合本科生和硕士研究生, 标记theory表示作者偏向理论，但都非常有趣)
 
 
 | URLS | Name | Affilication | Toptic |
@@ -31,7 +31,7 @@ title: readingpaper
 
 
 
-## PPR (做这个研究的适合对算法，数据结构这些感兴趣的同学，本科生不一定能行)
+## Similarity Search (做这个研究的适合对算法，数据结构这些感兴趣的同学，本科生不一定能行)
 
 
 | URLS | Name | Affilication | Toptic |
