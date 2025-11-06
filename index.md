@@ -39,7 +39,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (而作为独立指导的研究生)
+[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
 </li>	
 
 
