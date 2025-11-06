@@ -39,7 +39,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (而作为独立指导的研究生)
 </li>	
 
 
@@ -53,7 +53,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[27] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)
+[27] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)  (二作为独立指导的研究生)
 </li>	
 
 <li>	
@@ -144,7 +144,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[11] <b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议) 
+[11] <b>Longlong Lin</b>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024 (CCF-B会议)  (二作为独立指导的研究生)
 </li>	
 
 <li>
