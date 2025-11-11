@@ -39,6 +39,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
+[31] Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <b>Longlong Lin</b>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPOPP, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+</li>	
+
+
+<li>
 [30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
 </li>	
 
