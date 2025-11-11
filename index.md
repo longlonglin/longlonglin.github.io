@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several CCF-A conferences and journals,  including SIGMOD, VLDB, ICDE, KDD, TKDE, AAAI, ASPLOS, and DAC.  
+Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several CCF-A conferences and journals,  including SIGMOD, VLDB, ICDE, KDD, TKDE, AAAI, PPOPP, ASPLOS, and DAC.  
 
 ## Research Interests
 
@@ -39,7 +39,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[31] Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <b>Longlong Lin</b>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPOPP, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[31] Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <b>Longlong Lin</b>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPOPP, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
