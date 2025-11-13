@@ -75,7 +75,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[25] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2026 (TBD, 中科院2区)  (二作为独立指导的研究生)
+[25] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)  (二作为独立指导的研究生)
 </li>	
 
 <li>
