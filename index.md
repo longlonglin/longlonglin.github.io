@@ -67,7 +67,9 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 [26] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
-
+<li>	
+[25] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+</li>	
 
   </ul>
 </font>
@@ -77,44 +79,39 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[25] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)  (二作为独立指导的研究生)
+[24] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)  (二作为独立指导的研究生)
 </li>	
 
 <li>
-[24] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[23] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>	
 
 <li>	
-[23] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[22] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 (一作为协助指导的本科生) 
 </li>	 
 
 <li>	
-[22] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[21] Hongchao Qin, Guang Zeng, Rong-Hua Li, <b>Longlong Lin</b>, Ye Yuan, Guoren Wang.  Truss Decomposition in Hypergraphs. VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>
-[21] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[20] Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <b>Longlong Lin</b>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective?  VLDB, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 <li>	
-[20] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+[19] Xiaoyu Leng, Guang Zeng, Hongchao Qin, <b>Longlong Lin</b>, Rong-Hua Li,  On Temporal-Constraint Subgraph Matching. ICDE, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	 
 
 
 <li>
-[19] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>).
+[18] Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <b>Longlong Lin</b>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU.  ASPLOS, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>).
 </li>	
 
 
 
 <li>	
-[18] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
-</li>	
-
-
-<li>	
-[17] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+[17] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
