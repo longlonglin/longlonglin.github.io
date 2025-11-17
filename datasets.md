@@ -1,10 +1,8 @@
 ---
-layout: archive
+layout: default
 title: datasets
-permalink: /datasets/
 ---
-## Dataset
----
+
 
 
 ### Temporal Graphs
