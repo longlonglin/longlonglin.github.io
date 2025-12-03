@@ -41,7 +41,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[32] Zeli Wang, Tianhao Pu, Shuyin Xia, <b>Longlong Lin</b>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)
+[32] Zeli Wang, Tianhao Pu, Shuyin Xia, <b>Longlong Lin</b>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区)
 </li>	
 
 <li>
@@ -83,7 +83,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[24] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)  (二作为独立指导的研究生)
+[24] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (中科院2区)  (二作为独立指导的研究生)
 </li>	
 
 <li>
@@ -208,7 +208,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[4] <b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (TBD, 中科院2区)
+[4] <b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
 </li>	
 
 
