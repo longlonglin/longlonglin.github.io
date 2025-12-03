@@ -41,17 +41,21 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
+[32] Zeli Wang, Tianhao Pu, Shuyin Xia, <b>Longlong Lin</b>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (TBD, 中科院2区)
+</li>	
+
+<li>
 [31] Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <b>Longlong Lin</b>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPoPP, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
 <li>
-[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
+[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
 </li>	
 
 
 <li>
-[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. TKDE, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
+[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
 </li>	
 
 <li>
@@ -83,7 +87,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[23] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. TKDE, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
+[23] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Qiyu Liu, Hongchao Qin, Jin Zhao. Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches. IEEE Transactions on Knowledge and Data Engineering, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>	
 
 <li>	
