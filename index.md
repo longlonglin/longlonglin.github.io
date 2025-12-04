@@ -41,7 +41,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[32] Zeli Wang, Tianhao Pu, Shuyin Xia, <b>Longlong Lin</b>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区)
+[32] Zeli Wang, Tianhao Pu, Shuyin Xia*, <b>Longlong Lin</b>*, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区)
 </li>	
 
 <li>
@@ -115,12 +115,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>	
-[17] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao and Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[17] Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <b>Longlong Lin</b>, Xiaofei Liao, Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025 (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 </li>	
 
 
 <li>	
-[16] Tao Liu, <b>Longlong Lin</b>*, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) (一作为独立指导的本科生)
+[16] Tao Liu, <b>Longlong Lin</b>*, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia*. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) (一作为独立指导的本科生)
 </li>	 
 
 
