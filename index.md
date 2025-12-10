@@ -50,30 +50,19 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[30] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
-</li>	
-
-
-<li>
-[29] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
+[30] Jiaqi Jiang, Rong-Hua Li, <b>Longlong Lin</b>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) (一作为协助指导的博士生) 
 </li>	
 
 <li>
- [28] Yichun Yang,  <b>Longlong Lin</b>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+ [29] Yichun Yang,  <b>Longlong Lin</b>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 
 </li>	
 
-<li>	
-[27] Zhiqiu Ye, <b>Longlong Lin</b>#, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) (一作为独立指导的本科生)
-</li>
 
 <li>	
-[26] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
+[28] Junjie Zhou, Meihao Liao, Rong-Hua Li, <b>Longlong Lin</b>, Guoren Wang.  One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) (一作为协助指导的博士生)
 </li>	
 
-<li>	
-[25] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
-</li>	
 
   </ul>
 </font>
@@ -81,6 +70,20 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
    <p> <b> <font color="#2554C7">2025:</font> </b> </p>
 <font size="3"> 
 <ul>
+
+
+<li>
+[27] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2025 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
+</li>	
+
+<li>	
+[26] Zhiqiu Ye, <b>Longlong Lin</b>#, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
+</li>
+
+<li>	
+[25] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+</li>	
+
 
 <li>
 [24] <b>Longlong Lin</b>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025 (中科院2区)  (二作为独立指导的研究生)
