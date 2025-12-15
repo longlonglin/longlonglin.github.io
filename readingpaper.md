@@ -52,10 +52,11 @@ title: readingpaper
 
 | URLS | Name | Affilication | Toptic |
 |:----|:-----:|:-----:| ----:|
+| https://fangyixiang.github.io/  |   Yixiang Fang   | CUHK(Shenzhen)  | Community Search/(higher-order) Densest  Subgraph |
+| https://ronghuali.github.io/ | Ronghua Li | BIT | Community Search/Subgraph Counting| 
 | https://users.soe.ucsc.edu/~sesh/index.html |  C. Seshadhri | University of California | Subgraph Counting  |
 | https://sjain12.github.io  | Shweta Jain |  University of Utah | Subgraph Counting(Turan theorem for counting) |
 | https://people.csail.mit.edu/jshun/research.shtml |  Julian Shun  |  MIT  |  Parallel Algorithms for cohesive subgraph |
-| https://fangyixiang.github.io/  |   Yixiang fang   | CUHK(Shenzhen)  | Community Search/(higher-order) Densest  Subgraph |
 | https://sariyuce.com/  |     A. Erdem Sarıyüce  | University at Buffalo | Hierarchical Dense Subgraph/Nucleus Decomposition |
 | https://kijungs.github.io/#research | Kijung Shin  |  KAIST  | Cohesive Subgraph  |
 | https://ronghuali.github.io/ | Ronghua Li | BIT | Kcore/Clique |
