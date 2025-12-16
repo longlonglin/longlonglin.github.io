@@ -10,17 +10,9 @@ Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.e
 ___
 ## Research Interests
 
-LLM-based Text Attribute Graph Analysis, Graph Machine Learning, Graph Clustering, and Similarity Search. 
+LLM-based Graph Analysis, Graph Machine Learning, Graph Clustering, and Similarity Search. 
 
-<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士，研究:
-
-**LLM-based Text Attribute Graph Analysis**: 主要研究Graph Retrieval Augmented Generation (RAG)如何提升LLM的性能
-
-**Graph Machine Learning**: 主要关注可扩展性、时序性、鲁棒性、图增强. 可扩展性是如何保质地快速学习十亿级别的图. 鲁棒性和图增强有很多重叠，他们都是data-centric graph learning, 都是对原始图做改变，以防御攻击或者让学习质量更好.
-
-**AI-empowered Graph Clustering**：社区挖掘目前分为基于规则(Rule-based)的和基于学习的(Learning-based). 我们课题组关注的是如何将两种融合以在质量和效率上达到trade-off，以及如何利用LLM辅助社区的挖掘.
-
-**Similarity search**：找出和目标节点相似的节点, 它是上述三个研究方向的根本, 也是提升大模型检索性能的关键. 因此如何设计高质量高效率的算法是我们关注的问题.
+<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 Graph Clustering for LLM、 LLM for Graph Clustering、Neural Community Mining、Similarity Search.
 
 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院一区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
 <br><br>
