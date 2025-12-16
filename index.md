@@ -12,9 +12,7 @@ ___
 
 LLM-based Graph Analysis, Graph Machine Learning, Graph Clustering, and Similarity Search. 
 
-<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 Graph Clustering for LLM、 LLM for Graph Clustering、Neural Community Mining、Similarity Search.
-
-欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院一区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架。细节和实验由你独立完成但随时随地可讨论. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
+<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 Graph Clustering for LLM、 LLM for Graph Clustering、Neural Community Mining、Similarity Search. 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的(能发CCF B/中科院一区为佳); 2.由我亲自指导并给出具体的研究问题和算法框架. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
 <br><br>
 
 
