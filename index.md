@@ -201,7 +201,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
-[4] <b>Longlong Lin</b>, Pingpeng Yua, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
+[4] <b>Longlong Lin</b>, Pingpeng Yuan, Rong-Hua Li, Hai Jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data, 2022, 8(6): 1537-1549 (中科院2区)
 </li>	
 
 
