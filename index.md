@@ -265,7 +265,7 @@ Publicity Chair for the 21st  <a href="https://ieee-cybermatics.org/2025/greenco
 
 
 <li> 
-Conference Reviewer: SIGMOD 2025, KDD (2024-2026), NeurIPS 2025, WWW 2026, AAAI(2022-2026), ICMR (2024-2025) 
+Conference Reviewer: SIGMOD 2025, KDD (2024-2026), NeurIPS 2025, WWW 2026, AAAI(2022-2026), ICMR (2024-2026) 
 </li>	
 
 <li> 
