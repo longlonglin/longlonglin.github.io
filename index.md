@@ -269,7 +269,7 @@ Conference Reviewer: SIGMOD 2025, KDD (2024-2026), NeurIPS 2025, WWW 2026, AAAI(
 </li>	
 
 <li> 
-Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TC, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS 
+Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TC, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS 
 </li>	
 
 
