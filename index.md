@@ -241,7 +241,6 @@ Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperated with <a
 
 
 <li>
-   
 Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with <a href="https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en">Prof. Hai Jin</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ">Prof. Yu Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate">Prof. Jin Zhao</a>
 </li>	
 
