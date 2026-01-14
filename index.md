@@ -31,6 +31,14 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
+[32] Li Ni, Shuaikang Zeng, Lin Mu, <b>Longlong Lin</b>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+</li>
+
+<li>
+[32] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+</li>
+
+<li>
 [32] Zeli Wang, Tianhao Pu, Shuyin Xia*, <b>Longlong Lin</b>*, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区) (二作为协助指导的研究生)
 </li>	
 
