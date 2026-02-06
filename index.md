@@ -275,7 +275,7 @@ Conference Reviewer: SIGMOD, KDD, NeurIPS, WWW, AAAI, ICMR
 </li>	
 
 <li> 
-Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, KBS 
+Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, KBS 
 </li>	
 
 
