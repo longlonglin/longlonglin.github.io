@@ -29,12 +29,17 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <font size="3"> 
 <ul>
 
+
 <li>
-[32] Li Ni, Shuaikang Zeng, Lin Mu, <b>Longlong Lin</b>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+[35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生)
 </li>
 
 <li>
-[32] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+[34] Li Ni, Shuaikang Zeng, Lin Mu, <b>Longlong Lin</b>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+</li>
+
+<li>
+[33] <b>Longlong Lin</b>, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. WWW, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
 </li>
 
 <li>
