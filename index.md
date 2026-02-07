@@ -72,6 +72,8 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 
+   </ul>
+</font>
 
    <p> <b> <font color="#2554C7">2025:</font> </b> </p>
 <font size="3"> 
@@ -169,10 +171,6 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <li>
 [7] Zeli Wang, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
 </li>	
-
-
-
-
 
 
   
