@@ -64,11 +64,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 [27] <b>Longlong Lin</b>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
 </li>	
 
-[26] Zhiqiu Ye, <b>Longlong Lin</b>#, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025 (中科院一区) (一作为独立指导的本科生)
+[26] Zhiqiu Ye, <b>Longlong Lin</b>#, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) (一作为独立指导的本科生)
 </li>
 
 <li>	
-[25] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2025 (中科院一区)
+[25] <b>Longlong Lin</b>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA Journal of Automatica Sinica, 2026 (中科院一区)
 </li>	
 
   </ul>
