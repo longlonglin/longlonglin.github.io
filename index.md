@@ -31,6 +31,9 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
+
+[36] Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, Longlong Lin, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>) 
+	
 [35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生)
 </li>
 
