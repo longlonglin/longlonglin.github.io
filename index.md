@@ -31,7 +31,10 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
+[37] Zeli Wang, Jie Li, Zhiqiu Ye, <b>Longlong Lin</b>*, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica, 2026 (中科院一区)
+</li>
 
+<li>
 [36] Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, Longlong Lin, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026 (<b> <font color="#FF0000">CCF-A会议</font> </b>) 
 </li>
 
