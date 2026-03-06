@@ -31,6 +31,10 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>
+[38] Xi Ou, <b>Longlong Lin</b>*,  Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE Transactions on Knowledge and Data Engineering, 2026, minor (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (一作为独立指导的研究生)
+</li>	
+
+<li>
 [37] Zeli Wang, Jie Li, Zhiqiu Ye, <b>Longlong Lin</b>*, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica, 2026 (中科院一区) (二作为协助指导的研究生)
 </li>
 
