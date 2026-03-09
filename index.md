@@ -35,7 +35,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[37] Zeli Wang, Jie Li, Zhiqiu Ye, <b>Longlong Lin</b>*, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica, 2026 (中科院一区) (二作为协助指导的研究生)
+[37] Zeli Wang, Jie Li, Zhiqiu Ye, <b>Longlong Lin</b>*, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica, 2026 (中科院一区) (二作为协助指导的研究生) (ACCEPT)
 </li>
 
 <li>
@@ -43,7 +43,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生)
+[35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生) (ACCEPT)
 </li>
 
 <li>
@@ -55,7 +55,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[32] Zeli Wang, Tianhao Pu, Shuyin Xia*, <b>Longlong Lin</b>*, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区) (二作为协助指导的研究生)
+[32] Zeli Wang, Tianhao Pu, Shuyin Xia*, <b>Longlong Lin</b>*, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025 (中科院2区) (二作为协助指导的研究生) (ACCEPT)
 </li>	
 
 <li>
