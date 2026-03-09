@@ -43,7 +43,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生) (ACCEPT)
+[35] Zeli Wang, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026 (中科院一区) (二作为协助指导的研究生) 
 </li>
 
 <li>
