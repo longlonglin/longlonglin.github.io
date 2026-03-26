@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)    🕊️[X](https://x.com/renchiyang)
 
-## Team Members
+### Students
 
-### Current Members
+<li> 25级: 邓海棋（）、何宣伟()、王奕涵（）</li>
 
-| Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
-|:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
-| [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
-| [Mr WANG Hongtao](https://scholar.google.com/citations?user=fFtLwrAAAAAJ) | B.Sc. NKU | RPg student (2024 Spring) |  Text Analytics |          SIGIR'25, CIKM'25, WSDM'26            |  Department RPg Research Performance Award 25🏆                    |
-| [Mr LAI Yurui](https://scholar.google.com/citations?user=LKGkoLcAAAAJ) | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |  Graph Analytics  |        KDD'24, KDD'25               |    Department RPg Research Performance Award 25🏆                  |
-| [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |  Graph Analytics |        KDD'25, SIGMOD'26        |   Department RPg Research Performance Award 25🏆                   |
-| [Mr JIANG Runhao](https://jrunh.github.io) | B.Sc. ZJNU| RPg student (2024 Fall) |  Recommender Systems  |       CIKM'25             |                      |
-| [Mr ZHANG Taiyan](https://scholar.google.com/citations?user=d6-KlDEAAAAJ) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  Recommender Systems  |         SIGIR'25             |                      |
-| [Mr ZHOU Yixi](https://xanderzhou2022.github.io) | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
-| [Mr WU Donghao](https://scholar.google.com/citations?user=WGzwx5UAAAAJ) | B.Sc., M.Sc. CUHK-SZ | Research Intern |   |                       |                      |
-| Mr LIANG Rongguang | B.Sc. DLUT | Research Intern |   |                       |                      |
-| Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
+<li> 24级: 陈为（）、李明鑫()、张佑安（）</li>
 
-<!--
-| Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |  Vector Search |                       |                      |
-| Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
-| Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) |  LLMs  |                       |                      |
-| Mr WANG Songbo | B.Eng. SCUT | Intern |    |                       |                      |
-| Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
--->
+<li> 23级：欧熙(TKDE)、李泉澳(TKDE)、陈智轩(TII) </li>
 
-### Former Members:
+<li> 22级: 余云丰(CIKM,ICMR,重庆工商银行)、何越(TBD,ESWA,绵阳银行)、廖梓妤(本科生,Entropy,保送重庆大学)、刘韬(本科生,ICMR,保送东南大学）、叶之秋(本科生,ESWA) </li>
 
-| Name            | Former Position | Current Placement    |
-|:----------------|:--------:|:--------------------:|
-|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UMich |
-|Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
-|Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
-|Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
-|Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
 
-<!--
-|Mr WANG Songbo   | Intern (Nov, 2024 - Nov, 2025)    |                     |
--->
+### 指导学生获奖情况
+2025年中国研究生数学建模竞赛 张佑安、李明鑫、邓海棋 全国二等奖
 
-<!--
-## Research Grants
-- PI, Industrial Research Grant, HK$330K, 2024/2025
-- PI, [Young Scientists Fund](https://www.nsfc.gov.cn/publish/portal0/tab1418/), CN¥300K, National Natural Science Foundation of China, 2023/2024
-- PI, [Early Career Scheme Grant](https://www.ugc.edu.hk/eng/rgc/funding_opport/ecs/), HK$1.17M, Research Grants Council of Hong Kong SAR, 2023/2024
--->
+2025年CCF大数据与计算智能大赛 全国二等奖
+
+第二十七届中国机器人及人工智能大赛全国总决赛 2025 人工智能创新赛 张新雨、王博中、马旭 全国二等奖
+
+CCF Computility 2025 图计算挑战赛   王奕涵、李泉澳 、何宣伟、邓海棋、欧熙 全国三等奖
+
+CCF Computility 2024 图计算挑战赛   陈为、张佑安、李明鑫  全国三等奖
+
+2024届本科优秀毕业论文   张弛   基于web的学生社团管理系统设计与实现  
+
+
 
