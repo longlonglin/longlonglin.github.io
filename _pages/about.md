@@ -18,6 +18,16 @@ LLM-based Graph Analysis, Graph Machine Learning, Graph Clustering, and Similari
 <b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 <b> <font color="#0000FF">Graph Clustering for LLM、 LLM for Graph Clustering</font> </b>、Neural Community Mining、Similarity Search. 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的; 2.由我亲自指导并给出具体的研究问题和算法框架. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
 <br><br>
 
+##专利
+
+- 一种基于子图电导的社区搜索方法
+- 一种基于多模型伪标签生成与结构特征联合优化的图结构增强方法
+- 一种基于属性二部图相似性搜索的商品推荐方法
+- 一种电子商务网络中用于商品推荐的社区搜索方法
+- 一种基于去偏拓扑属性意识的图神经网络训练方法
+- 一种基于双向协同增强的商品推荐方法
+
+
 
 
 ## Work Experience
