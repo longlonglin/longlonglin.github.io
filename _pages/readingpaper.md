@@ -2,6 +2,8 @@
 ---
 layout: archive
 title: "Reading"
+permalink: /reading/
+author_profile: true
 ---
 
 ## You can obtain the following conferences from the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/): SIGMOD, VLDB, ICDE, SIGKDD, SIGIR, WWW, NeurIPS, ICLR, ICML, ACM MM, AAAI. <br>
