@@ -16,7 +16,7 @@ redirect_from:
 
 <li> 24级: 陈为（）、李明鑫()、张佑安（）</li>
 
-<li> 23级：欧熙(TKDE)、李泉澳(TKDE)、陈智轩(TII) </li>
+<li> 23级：欧熙(TKDE)、李泉澳(TKDE)、陈智轩(本科生，TII) </li>
 
 <li> 22级: 余云丰(CIKM,ICMR,重庆工商银行)、何越(TBD,ESWA,绵阳银行)、廖梓妤(本科生,Entropy,保送重庆大学)、刘韬(本科生,ICMR,保送东南大学）、叶之秋(本科生,ESWA) </li>
 
