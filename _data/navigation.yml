@@ -26,8 +26,8 @@ main:
   # - title: "Codes"
   #  url: /code/
 
-  - title: "Reading"
-    url: /reading/
+  - title: "ReadingPaper"
+    url: /readingpaper/
 
   # - title: "Visitors"
   #  url: /visitors/
