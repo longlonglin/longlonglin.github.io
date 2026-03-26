@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Renchi Yang"
-description              : &description "Assistant Professor at HKBU"
-url                      : https://anryyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Longlong Lin"
+description              : &description "Associate Professor at SWU"
+url                      : https://longlonglin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anryyang/anryyang.github.io"
+repository               : "longlonglin/longlonglin.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : renchiyang
+  username               : longlonglin
 facebook:
   username               :
   app_id                 :
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Renchi Yang"
-  avatar           : "avatar.jpg"
-  bio              : "Assistant Professor"
+  name             : "Longlong Lin"
+  avatar           : "https://avatars.githubusercontent.com/u/24956596?s=400&u=3cfb7a15a6962dd396522cbd0a9eb3d41ae33b51&v=4"
+  bio              : "Associate Professor"
 #  location         : ""
-  employer         : "Hong Kong Baptist University"
+  employer         : "Southwest University"
   pubmed           :
-  orcid            : "https://orcid.org/0000-0002-7284-3096"
-  googlescholar    : "https://scholar.google.com/citations?user=eI1rzdIAAAAJ"
-  email            : "renchi@hkbu.edu.hk"
+  orcid            : "https://orcid.org/0000-0002-2194-8146"
+  googlescholar    : "https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN"
+  email            : "longlonglin@swu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,28 +99,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#   github           : "AnryYang"
   gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-#   linkedin         : "anryyang"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "renchiyang"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pid/204/3387.html"
-#   cv               : "https://renchi.ac.cn/files/CV.pdf"  
-  tidbit           : "https://renchi.ac.cn/academic-roots"
+  dblp             : "https://dblp.uni-trier.de/pid/241/0215.html"
+
+
 
 
 # Reading Files
