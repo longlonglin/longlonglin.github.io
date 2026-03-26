@@ -1,0 +1,36 @@
+# main links links
+main:
+  #- title: "Honors & Services"
+  #  url: /experiences/
+  - title: "Publications"
+    url: /publications/ 
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  - title: "Team"
+    url: /team/
+
+  - title: "Datasets"
+    url: /datasets/
+  
+#   - title: "Talks"
+#     url: /talks/   
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Codes"
+  #  url: /code/
+
+  - title: "Miscellaneous"
+    url: /misc/
+
+  # - title: "Visitors"
+  #  url: /visitors/
+    
+  # - title: "Guide"
+  #   url: /markdown/
