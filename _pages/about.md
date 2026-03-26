@@ -7,81 +7,55 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D.👨🏻‍🎓 from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several CCF-A conferences and journals,  including SIGMOD, VLDB, ICDE, KDD, WWW, TKDE, AAAI, PPoPP, ASPLOS, and DAC.  If you are interested in collaborating with me or would like to have a chat, please feel free to email me.
 
-I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D.👨🏻‍🎓 in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award🏆 and the 2022 SIGMOD Research Highlight Award🏆. Broadly speaking, my research focuses on big data science and engineering, which involves developing effective and/or efficient algorithms, models, and systems for large-scale data management, mining, and analysis. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
-
-<!-- > I have two Ph.D. openings starting from 2026 Spring/Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 
 
 ### Research Interests
-- 🗃️Databases and data management: graph databases, vector databases
-- 🌍Web and information retrieval: web/e-commerce search & ranking, recommender systems, social networks and media, dialogue systems
-- 📊Data mining and analytics: graph, text, tabular, multimodal data mining and analytics
-- 🤖Machine learning: data-centric machine learning, graph learning, efficient LLMs, AI4X
+LLM-based Graph Analysis, Graph Machine Learning, Graph Clustering, and Similarity Search. 
 
-<!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email if you are interested. -->
-
-<!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
-
-<!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
+<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 <b> <font color="#0000FF">Graph Clustering for LLM、 LLM for Graph Clustering</font> </b>、Neural Community Mining、Similarity Search. 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的; 2.由我亲自指导并给出具体的研究问题和算法框架. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
+<br><br>
 
 News
 ======
-- Nov 23, 2025: 3 papers were accepted to KDD 2026🎉🎉🎉
-- Aug 23, 2025: 1 paper was accepted to SIGMOD 2026🎉
-
-<!-- 
-- Aug 5, 2025: 3 papers were accepted to CIKM 2025🎉🎉🎉
-- May 15, 2025: 2 papers were accepted to KDD 2025🎉🎉
-- Apr 5, 2025: 2 papers were accepted to SIGIR 2025🎉🎉
-- Mar 25, 2025: 1 paper was accepted to ICDE 2025🎉
-- Jan 20, 2025: 1 paper was accepted to WWW 2025🎉
-- Nov 17, 2024: 1 paper was accepted to KDD 2025
-- May 17, 2024: 3 papers were accepted to KDD 2024
-- Nov 20, 2023: 1 research paper was accepted to SIGMOD 2024
-- May 16, 2023: 2 research papers were accepted to KDD 2023
-- Feb 23, 2023: 3 research papers were accepted to SIGMOD 2023
-- Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
-- Mar 20, 2022: Our paper "No PANE, No Gain: Scaling Attributed Network Embedding in a Single Server" was selected for the 2022 ACM SIGMOD Research Highlight Award
-- Apr 29, 2022: My paper "Efficient and Effective Similarity Search over Bipartite Graphs" was nominated for the best paper award in TheWebConf 2022
-- Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021 -->
-
-Selected Honors
-======
-- 🏆[Honorable mention as one of the best PC members in WWW 2022](https://www2022.thewebconf.org/awards/)
-- 🏆[Best Paper Award Nominee in WWW 2022](https://www2022.thewebconf.org/accepted-papers/)
-- 🏆[2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/)
-- 🏆[Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards)
-<!-- - [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants) -->
-<!-- - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020) -->
-
-Academic Services
-======
-- 👨🏻‍⚖️Proceedings co-chair: MDM 2024-2025
-- 👨🏻‍⚖️Session chair: ICDE 2025
-- 👨🏻‍💻Program committee member for the following conferences/workshops:
-  - DB: SIGMOD 2027, VLDB 2026-2027, ICDE 2024-2026
-  - DM&IR: KDD 2022-2025, 2026 (Area Chair), WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
-  - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026, ECAI 2025 
-- 👨🏻‍💻Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
-<!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
-
-<!-- Invited Talks -->
-<!-- ====== -->
-<!-- - [Efficient Network Embedding for Large-Scale Graph Analysis](). The Hong Kong University of Science and Technology, September 26, 2022. -->
-<!-- - [Efficient Network Embeddings for Big Graph Analytics](). Hong Kong Baptist University, August 10, 2022. -->
-<!-- - [Efficient Relevance Search over Large Graphs](). The Hong Kong University of Science and Technology (Guangzhou), May 04, 2022. -->
-<!-- - [Scaling Attributed Network Embedding to Massive Graphs](). Renmin University of China, August 30, 2021. -->
-
-Teaching
-======
-- 👨🏻‍🏫HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025
-- 👨🏻‍🏫HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
-- 👨🏻‍🏫HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
+- March, 2026: one paper is accepted to TKDE 2026🎉🎉🎉
+- March, 2026: one paper is accepted to TKDE 2026🎉🎉🎉
 
 
-<!-- Doctoral Thesis
-======
-[Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang\\
-Thesis Committee: [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng), [George Fletcher](https://www.win.tue.nl/~gfletche) and [Ying Zhang](https://profiles.uts.edu.au/ying.zhang) -->
+## Work Experience
+
+<li>
+Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperated with <a href="ps://ronghuali.github.io/ronghuali.html">Prof. Rong-Hua Li</a>. 
+</li>	
+
+
+<li>
+Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with <a href="https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en">Prof. Hai Jin</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ">Prof. Yu Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate">Prof. Jin Zhao</a>
+</li>	
+
+
+## Academic Services
+
+<li>
+   <a href="https://kdd2025.kdd.org/research-track-program-committee/">Outstanding Reviewer</a> at KDD 2025
+</li>
+
+
+<li> 
+Session Chair at KDD 2024 and KDD 2025 
+</li>	
+
+<li> 
+Publicity Chair for the 21st  <a href="https://ieee-cybermatics.org/2025/greencom/">IEEE International Conference on Green Computing and Communications</a>
+</li>	
+
+
+<li> 
+Conference Reviewer: SIGMOD, KDD, NeurIPS, WWW, AAAI, ICMR
+</li>	
+
+<li> 
+Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, Information Processing and Management, KBS 
+</li>	
