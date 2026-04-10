@@ -1,86 +1,79 @@
 ---
 layout: archive
-title: ""
+title: "📚 Academic Resources & Reading"
 permalink: /readingpaper/
 author_profile: true
 redirect_from:
   - /readingpaper
 ---
 
+{% include base_path %}
 
-## You can obtain the following conferences from the corresponding homepage or DBLP search engine (i.e., https://dblp.uni-trier.de/): SIGMOD, VLDB, ICDE, SIGKDD, SIGIR, WWW, NeurIPS, ICLR, ICML, ACM MM, AAAI. <br>
+<style>
+  /* 自定义标签样式 */
+  .theory-badge { background-color: #fce4ec; color: #c2185b; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
+  .research-card { border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+  .suggestion-box { background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 4px; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+  th { background-color: #f8f9fa; text-align: left !important; }
+  td { font-size: 0.95em; }
+</style>
 
+## 🌐 Conference Access
+You can obtain the following conferences from the corresponding homepage or [DBLP Search Engine](https://dblp.uni-trier.de/):
+`SIGMOD` · `VLDB` · `ICDE` · `SIGKDD` · `SIGIR` · `WWW` · `NeurIPS` · `ICLR` · `ICML` · `ACM MM` · `AAAI`
 
-<!--总体建议: 理论的我们需要花时间啃来支撑我们的工作. 但我们不是做数学的,因此需要花非常多的时间来理清理论中的逻辑,然后应用+稍加改动以适应我们的问题, 同时考虑一些数据结构方法技巧，学会分析复杂度和正确性，这样就是数学和计算机两者都结合起来了 -->
+---
 
+## 💡 科研寄语 (Advice for Students)
 
-## Graph Clustering (适合本科生和硕士研究生, 标记theory表示作者偏向理论，但都非常有趣)
+<div class="suggestion-box">
+  <strong>总体建议:</strong> 理论研究需要花时间“啃”下来作为支撑。我们虽然不是纯数学专业，但需要理清其中的<strong>数学逻辑</strong>，然后将其<strong>应用并改动</strong>以适应实际问题。同时，结合高效的<strong>数据结构与算法技巧</strong>，学会分析复杂度和正确性。这种数学与计算机的结合，才是我们工作的精髓。
+</div>
 
+---
 
-| URLS | Name | Affilication | Toptic |
-|:----|:-----:|:-----:| ----:|
-| https://renchi.ac.cn/#publications  |  Renchi Yang  |    HKBU  | Graph Clustering |
-| https://xinwangliu.github.io/ | Xinwang Liu| NUDT | Graph Clustering |
-| https://dblp.org/pid/80/5755.html | Feiping Nie| NPU | Graph Clustering |
-| https://dblp.org/pid/l/XuelongLi.html | Xuelong Li |NPU | Graph Clustering |
-| https://dongqifu.github.io/ | Dongqi Fu | UIUC | Higher-order Clustering |
-| https://veldt.engr.tamu.edu/ | Nate Veldt | Texas A&M University | Hypergraph Clustering (theory) |
-| https://www.cs.purdue.edu/homes/dgleich/ | dgleich | Purdue University | Local Clustering (theory)|
-| https://opallab.ca/publications/  |  Kimon Fountoulakis  | University of  Waterloo |  Local Clustering (theory) |
-| http://cs-www.cs.yale.edu/homes/spielman/ |  Daniel A. Spielman |   Yale  Univeristy  |  Spectral Graph Theory (theory) |
-| http://zeyuan.allen-zhu.com/   |   Zeyuan ALLEN-ZHU  |  Meta FAIR Labs  |  Local Clustering/Improve Cluster (theory) |
-| https://cs.uwaterloo.ca/~lapchi/index.htm  | Lap Chi Lau |  University of  Waterloo   | Spectral Graph Theory (theory) |
-| http://www.cs.cornell.edu/~arb/#papers  | Austin R. Benson | Cornell University  | Higher-order Clustering (theory)|
-| https://theory.epfl.ch/kapralov/      |  Michael Kapralov |  EPFL |    Spectral Graph Theory (theory） |
-| https://homepages.inf.ed.ac.uk/hsun4/index.html |He Sun|University of Edinburgh|Local Clustering (theory)|
+## 🏗️ Research Directions
 
+### 1. Graph Clustering
+> 适合本科生和硕士研究生。标记 <span class="theory-badge">Theory</span> 表示作者偏向理论，具有极高的学术美感。
 
+| Scholar | Affiliation | Primary Topics | Resource |
+| :--- | :--- | :--- | :---: |
+| **Renchi Yang** | HKBU | Graph Clustering | [🔗 Link](https://renchi.ac.cn/#publications) |
+| **Xinwang Liu** | NUDT | Graph Clustering | [🔗 Link](https://xinwangliu.github.io/) |
+| **Dongqi Fu** | UIUC | Higher-order Clustering | [🔗 Link](https://dongqifu.github.io/) |
+| **Nate Veldt** | Texas A&M | Hypergraph Clustering <span class="theory-badge">Theory</span> | [🔗 Link](https://veldt.engr.tamu.edu/) |
+| **dgleich** | Purdue | Local Clustering <span class="theory-badge">Theory</span> | [🔗 Link](https://www.cs.purdue.edu/homes/dgleich/) |
+| **Daniel A. Spielman** | Yale | Spectral Graph Theory <span class="theory-badge">Theory</span> | [🔗 Link](http://cs-www.cs.yale.edu/homes/spielman/) |
+| **Zeyuan ALLEN-ZHU** | Meta FAIR | Local/Improve Cluster <span class="theory-badge">Theory</span> | [🔗 Link](http://zeyuan.allen-zhu.com/) |
+| **Austin R. Benson** | Cornell | Higher-order Clustering <span class="theory-badge">Theory</span> | [🔗 Link](http://www.cs.cornell.edu/~arb/#papers) |
 
-## Similarity Search (做这个研究的适合对算法，数据结构这些感兴趣的同学，本科生不一定能行)
+<br>
 
+### 2. Similarity Search & Community Search
+> 适合对算法、数据结构有浓厚兴趣的同学。
 
-| URLS | Name | Affilication | Toptic |
-|:----|:-----:|:-----:| ----:|
-| https://mhliao516.github.io/ | Meihao Liao | BIT | PPR |
-| https://wanghzccls.github.io/  |  Hanzhi Wang  | RUC  |   PPR and GNN  |
-| https://www1.se.cuhk.edu.hk/~swang/ |    Sibo Wang   |       Chinese University of Hong Kong(CUHK)  |  PPR and GNN |
-| https://sites.google.com/view/panli-purdue/publications        |          Pan Li  |  Purdue University   |  PPR and GNN |
-| https://jinhongjung.github.io/  |  Jinhong Jung   |  Jeonbuk National University   | PPR |
-| https://weizhewei.com/ | Zhewei Wei | RUC | PPR and GNN |
-| https://ronghuali.github.io/ | Ronghua Li | BIT | PPR and GNN | 
-| https://dongqifu.github.io/ | Dongqi Fu | UIUC | PPR and GNN | 
+| Scholar | Affiliation | Focus | Resource |
+| :--- | :--- | :--- | :---: |
+| **Sibo Wang** | CUHK | PPR and GNN | [🔗 Link](https://www1.se.cuhk.edu.hk/~swang/) |
+| **Zhewei Wei** | RUC | PPR and GNN | [🔗 Link](https://weizhewei.com/) |
+| **Ronghua Li** | BIT | PPR / Community Search / K-Core | [🔗 Link](https://ronghuali.github.io/) |
+| **Yixiang Fang** | CUHK(SZ) | Community Search / Densest Subgraph | [🔗 Link](https://fangyixiang.github.io/) |
+| **Julian Shun** | MIT | Parallel Algorithms | [🔗 Link](https://people.csail.mit.edu/jshun/research.shtml) |
+| **Kijung Shin** | KAIST | Cohesive Subgraph | [🔗 Link](https://kijungs.github.io/#research) |
+| **Lijun Chang** | USYD | Cohesive Subgraph | [🔗 Link](https://lijunchang.github.io/publication.html) |
 
+---
 
+## 📚 Online Learning Resources
 
-## Community Search/Cohesive Subgraph (做这个研究的适合对算法，数据结构这些感兴趣的同学，本科生不一定能行)
+| Course / Book | Topics | Instructor |
+| :--- | :--- | :--- |
+| [**CS224W: ML with Graphs**](http://web.stanford.edu/class/cs224w/) | Graph Machine Learning | Jure Leskovec (Stanford) |
+| [**Advanced Data Structures**](https://www.cse.cuhk.edu.hk/~taoyf/course/5610/20-spring/) | Data Structures | Yufei Tao (CUHK) |
+| [**Graph Partitioning**](https://theory.stanford.edu/~trevisan/cs359g/) | Graph Theory | Luca Trevisan (Stanford) |
+| [**动手学习深度学习**](https://zh-v2.d2l.ai/index.html) | Deep Learning | Mu Li |
+| [**Mining of Massive Datasets**](http://www.mmds.org/) | Big Data Mining | Jure Leskovec |
 
-| URLS | Name | Affilication | Toptic |
-|:----|:-----:|:-----:| ----:|
-| https://fangyixiang.github.io/  |   Yixiang Fang   | CUHK(Shenzhen)  | Community Search/(higher-order) Densest  Subgraph |
-| https://ronghuali.github.io/ | Ronghua Li | BIT | Community Search/Subgraph Counting| 
-| https://users.soe.ucsc.edu/~sesh/index.html |  C. Seshadhri | University of California | Subgraph Counting  |
-| https://sjain12.github.io  | Shweta Jain |  University of Utah | Subgraph Counting(Turan theorem for counting) |
-| https://people.csail.mit.edu/jshun/research.shtml |  Julian Shun  |  MIT  |  Parallel Algorithms for cohesive subgraph |
-| https://sariyuce.com/  |     A. Erdem Sarıyüce  | University at Buffalo | Hierarchical Dense Subgraph/Nucleus Decomposition |
-| https://kijungs.github.io/#research | Kijung Shin  |  KAIST  | Cohesive Subgraph  |
-| https://ronghuali.github.io/ | Ronghua Li | BIT | Kcore/Clique |
-| https://www.comp.hkbu.edu.hk/~xinhuang/index.html | Xin Huang | HKBU | ktruss Community Search by Index  |
-| https://users.ics.aalto.fi/gionis/ |   Aristides Gionis | KTH | Densest Subgraph  |
-| https://lijunchang.github.io/publication.html  | Lijun Chang | USYD  | Cohesive Subgraph book |
-| https://tsourakakis.com/  | Charalampos E. Tsourakakis  | Boston University | (Higher-order)Densest subgraph |
-
-
-
-## Some learning websites
-
-
-| URLS | Topic| Author |
-|:----|:-----:|:-----:|
-http://web.stanford.edu/class/cs224w/| CS224W: Machine Learning with Graphs| By Jure Leskovec|
-https://tcs.nju.edu.cn/| Theoretical Computer Science at Nanjing University| Yitong Yin
-https://yufeizhao.com/gtacbook/| Graph Theory and Additive Combinatorics| Yufei Zhao|
-https://theory.stanford.edu/~trevisan/cs359g/ | Graph Partitioning | Luca Trevis|
-|https://www.cse.cuhk.edu.hk/~taoyf/course/5610/20-spring/ |   《Advanced Data Structures》| Yufei Tao|
-|http://courses.csail.mit.edu/6.851/spring14/lectures/ |  《Advanced Data Structures》| Erik Demaine |
-|https://zh-v2.d2l.ai/index.html|  《动手学习深度学习》| Mu Li|
-|http://www.mmds.org/  | 《Mining of Massive Datasets》 | Jure Leskovec|
+---
