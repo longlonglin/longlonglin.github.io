@@ -84,7 +84,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
   <li>
     <span class="pub-id">[37]</span>
-    Zeli Wang, Jie Li, Zhiqiu Ye, Longlong Lin, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA JAS, 2026.
+    Zeli Wang, Jie Li, Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA JAS, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <span class="badge badge-info">ACCEPT</span>
   </li>
@@ -102,6 +102,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[34]</span>
     Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">Oral</span>
   </li>
   <li>
     <span class="pub-id">[33]</span>
@@ -196,7 +197,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
   <li>
     <span class="pub-id">[16]</span>
-    Tao Liu, <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia*. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
+    Tao Liu, <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
     <span class="badge">CCF-B会议</span>
   </li>
 </ul>
