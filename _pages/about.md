@@ -18,12 +18,13 @@ Longlong Lin is an **Associate Professor** at [Southwest University](http://cis.
 
 ---
 
-## 🔍 Research Interests (CD/CS menas Community Detection (i.e., Graph Clustering)/Community Search)
+## 🔍 Research Interests  
 * **LLM-based Graph Analysis** (G-RAG, LLM4CD&CS, CD&CS4LLM)
 * **Graph Machine Learning** (GNN4CD&CS)
 * **Graph Clustering** (Design Scalable and Provable Graph Clustering Algorithms)
 * **Similarity Search** (Design Scalable and Provable Similarity Search Algorithms)
 
+ps: CD/CS means Community Detection (i.e., Graph Clustering)/Community Search
 ---
 
 ## 📢 招生信息 (Recruitment)
