@@ -12,7 +12,8 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <br><be>
 
 
-
+   </ul>
+</font>
    <p> <b> <font color="#2554C7">2026:</font> </b> </p>
 <font size="3"> 
 <ul>
