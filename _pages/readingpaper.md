@@ -12,20 +12,25 @@ redirect_from:
 <style>
   /* 页面核心美化样式 */
   .advice-box { background: #f8fbff; border-left: 6px solid #1a73e8; padding: 20px; margin: 25px 0; border-radius: 0 8px 8px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
-  .advice-title { color: #1a73e8; font-size: 1.1em; font-weight: bold; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .advice-title { color: #1a73e8; font-size: 1.1em; font-weight: bold; margin-bottom: 10px; }
   .advice-text { color: #444; line-height: 1.7; font-size: 0.95em; margin: 0; }
+  
   .theory-badge { background-color: #fce4ec; color: #c2185b; padding: 3px 8px; border-radius: 12px; font-size: 0.75em; font-weight: 600; vertical-align: middle; margin-left: 5px; border: 1px solid #f8bbd0; }
   .link-btn { display: inline-block; background: #24292e; color: #ffffff !important; padding: 4px 10px; border-radius: 5px; font-size: 0.85em; text-decoration: none !important; transition: all 0.2s; }
   .link-btn:hover { background: #0366d6; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
-  .table-wrapper table { width: 100%; border-collapse: collapse; margin-bottom: 30px; font-size: 0.95em; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
-  .table-wrapper th { background-color: #f6f8fa; color: #24292e; font-weight: 600; padding: 12px; text-align: left !important; border-bottom: 2px solid #e1e4e8; }
-  .table-wrapper td { padding: 12px; border-bottom: 1px solid #e1e4e8; vertical-align: middle; }
-  .table-wrapper tr:hover { background-color: #f1f8ff; }
+  
+  /* 直接针对全局表格进行美化，避免使用 div 包裹破坏 Markdown 解析 */
+  table { width: 100%; border-collapse: collapse; margin-bottom: 30px; font-size: 0.95em; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  th { background-color: #f6f8fa; color: #24292e; font-weight: 600; padding: 12px; text-align: left !important; border-bottom: 2px solid #e1e4e8; }
+  td { padding: 12px; border-bottom: 1px solid #e1e4e8; vertical-align: middle; }
+  tr:hover { background-color: #f1f8ff; }
+  
   .section-desc { color: #6a737d; font-size: 0.9em; margin-top: -10px; margin-bottom: 15px; font-style: italic; }
   .venue-tag { background: #e1e4e8; color: #24292e; padding: 3px 8px; border-radius: 4px; font-family: Consolas, monospace; font-size: 0.85em; margin-right: 6px; display: inline-block; margin-bottom: 6px; }
 </style>
 
 ## 🏛️ Top Conferences
+
 You can obtain the following conferences from their corresponding homepages or the [DBLP search engine](https://dblp.uni-trier.de/):
 
 <div>
@@ -33,7 +38,7 @@ You can obtain the following conferences from their corresponding homepages or t
 </div>
 
 <div class="advice-box">
-  <div class="advice-title"><i class="fas fa-lightbulb"></i> 导师寄语 (General Advice)</div>
+  <div class="advice-title">💡 导师寄语 (General Advice)</div>
   <p class="advice-text">
     在科研探索中，<strong>扎实的理论基础是支撑高质量工作的基石</strong>，我们需要沉下心来去“啃”透这些理论。当然，作为计算机领域的学者，我们并非纯粹为了证明数学定理；真正的难点与核心在于：<strong>理清理论背后的逻辑脉络，并将其灵活应用、适当改造</strong>，以解决我们的实际问题。<br><br>
     同时，切记不要忽视底层的数据结构与算法技巧，要养成严谨分析时间复杂度与正确性的习惯。只有当你将<strong>数学的严密性与计算机的工程/算法思维完美结合</strong>时，才能做出极具穿透力的研究成果。
@@ -42,9 +47,8 @@ You can obtain the following conferences from their corresponding homepages or t
 
 ---
 
-<div class="table-wrapper">
-
 ## 📌 Graph Clustering
+
 <div class="section-desc">👨‍🎓 适合群体：本科生和硕士研究生。 标记 <span class="theory-badge">Theory</span> 表示该作者的研究偏向理论基础，硬核且非常有趣。</div>
 
 | Scholar | Affiliation | Research Topic | Homepage |
@@ -67,6 +71,7 @@ You can obtain the following conferences from their corresponding homepages or t
 <br>
 
 ## 📌 Similarity Search
+
 <div class="section-desc">🚀 适合群体：对算法与数据结构有浓厚兴趣的同学（门槛稍高，本科生需量力而行）。</div>
 
 | Scholar | Affiliation | Research Topic | Homepage |
@@ -83,6 +88,7 @@ You can obtain the following conferences from their corresponding homepages or t
 <br>
 
 ## 📌 Community Search / Cohesive Subgraph
+
 <div class="section-desc">🚀 适合群体：对复杂图算法与底层数据结构有浓厚兴趣的同学。</div>
 
 | Scholar | Affiliation | Research Topic | Homepage |
@@ -109,4 +115,8 @@ You can obtain the following conferences from their corresponding homepages or t
 | **CS224W: Machine Learning with Graphs** | Jure Leskovec (Stanford) | [🔗 Course](http://web.stanford.edu/class/cs224w/){: .link-btn } |
 | **Theoretical Computer Science at NJU** | Yitong Yin (NJU) | [🔗 Course](https://tcs.nju.edu.cn/){: .link-btn } |
 | **Graph Theory and Additive Combinatorics** | Yufei Zhao | [🔗 Book](https://yufeizhao.com/gtacbook/){: .link-btn } |
-| **Graph Partitioning** | Luca Trevisan (Stanford) | [🔗 Course](
+| **Graph Partitioning** | Luca Trevisan (Stanford) | [🔗 Course](https://theory.stanford.edu/~trevisan/cs359g/){: .link-btn } |
+| **Advanced Data Structures (CUHK)** | Yufei Tao (CUHK) | [🔗 Course](https://www.cse.cuhk.edu.hk/~taoyf/course/5610/20-spring/){: .link-btn } |
+| **Advanced Data Structures (MIT)** | Erik Demaine (MIT) | [🔗 Course](http://courses.csail.mit.edu/6.851/spring14/lectures/){: .link-btn } |
+| **动手学深度学习 (Dive into Deep Learning)** | Mu Li | [🔗 Book](https://zh-v2.d2l.ai/index.html){: .link-btn } |
+| **Mining of Massive Datasets** | Jure Leskovec | [🔗 Book](http://www.mmds.org/){: .link-btn } |
