@@ -72,7 +72,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[26] Zhiqiu Ye <font color="#FF0000">本科生</font>, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) 
+[26] Zhiqiu Ye, <b>Longlong Lin</b>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026 (中科院一区) 
 </li>
 
 <li>	
@@ -98,7 +98,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>	
-[22] Yalong Zhang <font color="#FF0000">本科生</font>, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
+[22] Yalong Zhang, Rong-Hua Li, <b>Longlong Lin</b>, Qi Zhang, Guoren Wang.  Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025  (<b> <font color="#FF0000">CCF-A会议</font> </b>)
 
 </li>	 
 
@@ -127,7 +127,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 
 <li>	
-[16] Tao Liu <font color="#FF0000">本科生</font>, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia*. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) 
+[16] Tao Liu, <b>Longlong Lin</b>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia*. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025 (CCF-B会议) 
 </li>	 
 
 
