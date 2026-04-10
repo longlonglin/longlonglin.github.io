@@ -20,21 +20,20 @@ Since 2018, he has been co-supervised by [Prof. Rong-Hua Li](https://ronghuali.g
 
 ---
 
-## 🔍 Research Interests
-* **LLM-based Graph Analysis** (LLM + Graph)
-* **Graph Machine Learning** & Neural Community Mining
-* **Graph Clustering** & Structural Analysis
-* **Similarity Search** in Large-scale Networks
+## 🔍 Research Interests (CD/CS menas Community Detection (i.e., Graph Clustering)/Community Search)
+* **LLM-based Graph Analysis** (G-RAG, LLM4CD&CS, CD&CS4LLM)
+* **Graph Machine Learning** (GNN4CD&CS)
+* **Graph Clustering** (Design Scalable and Provable Graph Clustering Algorithms)
+* **Similarity Search** (Design Scalable and Provable Similarity Search Algorithms)
 
 ---
 
 ## 📢 招生信息 (Recruitment)
 
 <div style="background-color: #fcf8e3; border-left: 5px solid #8a6d3b; padding: 15px; margin: 20px 0;">
-    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 每年计划招收 3-5 名硕士生。<br>
-    <strong>研究方向:</strong> <code style="color: #c7254e;">Graph Clustering for LLM</code>、 <code style="color: #c7254e;">LLM for Graph Clustering</code>、神经网络社区挖掘等。<br>
-    <strong>本科生科研:</strong> 长期招收大一/大二优秀本科生（需满足：以科研方法论为目的、不追求短平快、接受亲自指导）。<br>
-    <strong>未来发展:</strong> 优秀学生可推荐至阿里、华为等大厂实习，或国内外 Top 高校深造。
+    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 每年计划招收 3-5 名硕士生,如果你动手强那么就推荐LLM-based Graph Analysis和Graph Machine Learning；如果你偏爱算法设计、理论证明那么就推荐Graph Clustering和Similarity Search。<br>
+    <strong>本科生科研:</strong> 长期招收大一/大二优秀本科生（需满足：以科研方法论为目的、不过分功利化、不追求短平快）。<br>
+    <strong>未来发展:</strong> 优秀本硕学生可推荐至阿里、华为等大厂实习，或国内外 Top 高校深造。
 </div>
 
 ---
@@ -47,7 +46,7 @@ Since 2018, he has been co-supervised by [Prof. Rong-Hua Li](https://ronghuali.g
 
 * **Zhejiang Lab**, Hangzhou, China  
     *Research Fellow* | July 2023 - Sep 2023  
-    *Cooperated with Prof. Hai Jin, Prof. Yu Zhang, and Prof. Jin Zhao*
+    *Cooperated with [Prof. Hai Jin](https://scholar.google.com/citations?hl=zh-CN&user=o02W0aEAAAAJ),[Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ), and [Prof. Jin Zhao](https://zjin-hust.github.io/)*
 
 ---
 
