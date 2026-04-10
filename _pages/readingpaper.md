@@ -41,7 +41,7 @@ You can obtain the following conferences from their corresponding homepages or t
   <div class="advice-title">💡 导师寄语 (General Advice)</div>
   <p class="advice-text">
     在科研探索中，<strong>扎实的理论基础是支撑高质量工作的基石</strong>，我们需要沉下心来去“啃”透这些理论。当然，作为计算机领域的学者，我们并非纯粹为了证明数学定理；真正的难点与核心在于：<strong>理清理论背后的逻辑脉络，并将其灵活应用、适当改造</strong>，以解决我们的实际问题。<br><br>
-    同时，切记不要忽视底层的数据结构与算法技巧，要养成严谨分析时间复杂度与正确性的习惯。只有当你将<strong>数学的严密性与计算机的工程/算法思维完美结合</strong>时，才能做出极具穿透力的研究成果。
+    同时，切记不要忽视底层的数据结构与算法技巧，要养成严谨分析时间复杂度与正确性的习惯。只有当你将<strong>数学的严密性与计算机的工程/算法思维完美结合</strong>时，才能做出好的研究成果。
   </p>
 </div>
 
