@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
- (整理不完整,后续完善)
+ (未完待续)
+
+<!-- 
 ### Temporal Graphs
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
@@ -33,7 +35,7 @@ redirect_from:
 |Reddit| undirected|  232,965 |  11,606,919 | 602 | 41 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) |
 |Ogbn-ArXiv| undirected| 169,343 | 1,157,799 | 128 | 40 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) |
 
-<!--
+
 |Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) |
 |Yelp| undirected|  716847 | 6,977,410 | 300 | 100 | [[raw]](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz)|
 |Twitter| directed|81306|1768149|216839| 4065| [[raw]](https://snap.stanford.edu/data/ego-Twitter.html)|
@@ -43,7 +45,8 @@ redirect_from:
 |MAG| directed| 59249719| 978147253| 2000| 100| [[raw]](http://ma-graph.org/rdf-dumps/) |
 |MAG-SC| directed|10541560| 265219994 |2784240 | 8 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653)|
 |Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki)|
-!-->
+
+
 
 These datasets are also available in [Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.AttributedGraphDataset). Node attributes can be loaded as a sparse matrix using the following code
 ```python
@@ -69,7 +72,7 @@ features = sparse.load_npz("attrs.npz")
 |LiveJournal  | 4,847,571 | 68,475,391 |  -    |  directed  |  [[raw]](https://snap.stanford.edu/data/soc-LiveJournal1.html)          | 
 
 
-<!--
+
 | PPI |  3,890  |   76,584 | 50  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://snap.stanford.edu/node2vec/) | 
 | Blogcatalog3 |  10,312  |  333,983   | 39  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/blogcatalog.mat) | 
 | Flickr |  80,513 |  5,899,882  |   195    | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/flickr.mat) | 
@@ -82,11 +85,11 @@ features = sparse.load_npz("attrs.npz")
 |UK-union | 133,633,040 | 5,475,109,924|    -    |   directed  |  [[raw]](http://law.di.unimi.it/webdata/uk-union-2006-06-2007-05/)     | 
 |ClueWeb12| 978,408,098 | 42,574,107,469 | - | directed | [[raw]](http://law.di.unimi.it/webdata/clueweb12/) |
 |ClueWeb09| 1,684,868,322| 7,939,635,651|    -    |  directed  |   [[raw]](http://www.lemurproject.org/clueweb09.php/)       | 
-!-->
 
 
 
-<!--
+
+
 
 ### Bipartite Graphs (http://konect.cc/)
 
@@ -111,7 +114,7 @@ features = sparse.load_npz("attrs.npz")
 |   Orkut   | 2,783,196  | 8,730,857  | 327,037,487  | [[raw]](https://networkrepository.com/aff-orkut-user2groups.php) |
 |  MAG    | 10,541,560  | 2,784,240  |  1,095,315,106 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) |
 
-!-->
+
 
 
 
@@ -148,7 +151,11 @@ features = sparse.load_npz("attrs.npz")
 |[AOL DS](http://www.ccc.ipt.pt/~ricardo/experiments/AOL_DS.html)                            |query logs                              | Ricardo Campos           |
 |[AWS](https://registry.opendata.aws/)                            |-                             | Amazon           |
 |[Kaggle Datasets](https://www.kaggle.com/datasets)                            |-                             | Kaggle           |
+
+
 |[OpenML](https://www.openml.org/search?type=data&sort=runs&status=active) | - | OpenML |
 |[Datasets](https://courses.cs.washington.edu/courses/cse547/19sp/data.html) | - | - |
 |[Netzschleuder](https://networks.skewed.de/) | - | - |
 !-->
+
+
