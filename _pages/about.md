@@ -7,61 +7,72 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Longlon Lin is an Associate Professor at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received  a Ph.D.👨🏻‍🎓 from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Besides, from 2018 to now, his co-supervisor is [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His work has been published in several CCF-A conferences and journals,  including SIGMOD, VLDB, ICDE, KDD, WWW, TKDE, AAAI, PPoPP, ASPLOS, and DAC.  If you are interested in collaborating with me or would like to have a chat, please feel free to email me.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
+# 👨‍🏫 About Me
 
+Longlong Lin is an **Associate Professor** at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received his Ph.D. from Huazhong University of Science and Technology (HUST) in 2022, under the supervision of [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). 
 
-## Research Interests
-LLM-based Graph Analysis, Graph Machine Learning, Graph Clustering, and Similarity Search. 
+Since 2018, he has been co-supervised by [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His research results are regularly published in top-tier venues (CCF-A) including **SIGMOD, VLDB, ICDE, KDD, WWW, TKDE, AAAI, PPoPP, ASPLOS, and DAC**.
 
-<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生，研究 <b> <font color="#0000FF">Graph Clustering for LLM、 LLM for Graph Clustering</font> </b>、Neural Community Mining、Similarity Search. 欢迎保研或者考研的学生给我发email (longlonglin@swu.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的; 2.由我亲自指导并给出具体的研究问题和算法框架. 3.科研的周期较长，不做短平快的工作. 优秀的本硕学生可推荐到阿里，华为等大厂实习或国内外top高校继续深造。
-<br><br>
+> 📧 **Open for Collaboration**: If you are interested in collaborating or would like to have a chat, please feel free to [email me](mailto:longlonglin@swu.edu.cn).
 
-## 专利
+---
 
-- 一种基于子图电导的社区搜索方法 (授权)
-- 一种电子商务网络中用于商品推荐的社区搜索方法 (授权)
-- 一种基于多模型伪标签生成与结构特征联合优化的图结构增强方法 (实审)
-- 一种基于属性二部图相似性搜索的商品推荐方法 (实审)
-- 一种基于去偏拓扑属性意识的图神经网络训练方法 (实审)
-- 一种基于双向协同增强的商品推荐方法 (实审)
+## 🔍 Research Interests
+* **LLM-based Graph Analysis** (LLM + Graph)
+* **Graph Machine Learning** & Neural Community Mining
+* **Graph Clustering** & Structural Analysis
+* **Similarity Search** in Large-scale Networks
 
+---
 
+## 📢 招生信息 (Recruitment)
 
+<div style="background-color: #fcf8e3; border-left: 5px solid #8a6d3b; padding: 15px; margin: 20px 0;">
+    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 每年计划招收 3-5 名硕士生。<br>
+    <strong>研究方向:</strong> <code style="color: #c7254e;">Graph Clustering for LLM</code>、 <code style="color: #c7254e;">LLM for Graph Clustering</code>、神经网络社区挖掘等。<br>
+    <strong>本科生科研:</strong> 长期招收大一/大二优秀本科生（需满足：以科研方法论为目的、不追求短平快、接受亲自指导）。<br>
+    <strong>未来发展:</strong> 优秀学生可推荐至阿里、华为等大厂实习，或国内外 Top 高校深造。
+</div>
 
-## Work Experience
+---
 
-<li>
-Beijing Institute of Technology, China, July 2024 - Sep 2024, cooperated with <a href="ps://ronghuali.github.io/ronghuali.html">Prof. Rong-Hua Li</a>. 
-</li>	
+## 💼 Work Experience
 
+* **Beijing Institute of Technology**, China  
+    *Visiting Scholar* | July 2024 - Sep 2024  
+    *Cooperated with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html)*
 
-<li>
-Zhejiang Lab, Hangzhou, China, July 2023 - Sep 2023, cooperated with <a href="https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en">Prof. Hai Jin</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ">Prof. Yu Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=v2z02IgAAAAJ&view_op=list_works&sortby=pubdate">Prof. Jin Zhao</a>
-</li>	
+* **Zhejiang Lab**, Hangzhou, China  
+    *Research Fellow* | July 2023 - Sep 2023  
+    *Cooperated with Prof. Hai Jin, Prof. Yu Zhang, and Prof. Jin Zhao*
 
+---
 
-## Academic Services
+## 🏆 Academic Services
 
-<li>
-   <a href="https://kdd2025.kdd.org/research-track-program-committee/">Outstanding Reviewer</a> at KDD 2025
-</li>
+### 🏅 Honors
+* **Outstanding Reviewer** at KDD 2025
 
+### 🎤 Chairs
+* **Session Chair**: KDD 2024, KDD 2025
+* **Publicity Chair**: The 21st [IEEE GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/)
 
-<li> 
-Session Chair at KDD 2024 and KDD 2025 
-</li>	
+### 📝 Professional Reviews
+* **Conferences**: SIGMOD, KDD, NeurIPS, WWW, AAAI, ICMR
+* **Journals**: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, IPM, KBS
 
-<li> 
-Publicity Chair for the 21st  <a href="https://ieee-cybermatics.org/2025/greencom/">IEEE International Conference on Green Computing and Communications</a>
-</li>	
+---
 
+## 📜 专利 (Selected Patents)
 
-<li> 
-Conference Reviewer: SIGMOD, KDD, NeurIPS, WWW, AAAI, ICMR
-</li>	
-
-<li> 
-Journal Reviewer: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, Information Processing and Management, KBS 
-</li>	
+| 状态 | 专利名称 |
+| :--- | :--- |
+| **授权** | 一种基于子图电导的社区搜索方法 |
+| **授权** | 一种电子商务网络中用于商品推荐的社区搜索方法 |
+| **实审** | 一种基于多模型伪标签生成与结构特征联合优化的图结构增强方法 |
+| **实审** | 一种基于属性二部图相似性搜索的商品推荐方法 |
+| **实审** | 一种基于去偏拓扑属性意识的图神经网络训练方法 |
+| **实审** | 一种基于双向协同增强的商品推荐方法 |
