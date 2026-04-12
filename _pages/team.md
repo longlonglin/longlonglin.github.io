@@ -44,7 +44,7 @@ redirect_from:
       <li>何越 <span class="pub-tag">TBD</span> <span class="pub-tag">ESWA</span> <span class="destination">→ 中国农业银行</span></li>
       <li>廖梓妤 <span class="pub-tag">Entropy (Undergrad)</span> <span class="destination">→ 保送重庆大学</span></li>
       <li>刘韬 <span class="pub-tag">ICMR (Undergrad)</span> <span class="destination">→ 保送东南大学</span></li>
-      <li>叶之秋 <span class="pub-tag">ESWA (Undergrad)</span> <span class="destination">→ 贵州移动</span></li>
+      <li>叶知秋 <span class="pub-tag">ESWA (Undergrad)</span> <span class="destination">→ 贵州移动</span></li>
     </ul>
   </div>
 
