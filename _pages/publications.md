@@ -138,16 +138,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
   <li>
     <span class="pub-id">[27]</span>
-    <span class="author-self">Longlong Lin</span>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li, Xin Luo, Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE TKDE, 2026.
-    <span class="badge badge-ccfa">CCF-A期刊</span>
-  </li>
-  <li>
-    <span class="pub-id">[26]</span>
-    Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2026.
-    <span class="badge badge-cas1">中科院一区</span>
-  </li>
-  <li>
-    <span class="pub-id">[25]</span>
     <span class="author-self">Longlong Lin</span>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA JAS, 2026.
     <span class="badge badge-cas1">中科院一区</span>
   </li>
@@ -155,6 +145,16 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
 <h3 class="year-title">2025</h3>
 <ul class="pub-list">
+  <li>
+    <span class="pub-id">[26]</span>
+    <span class="author-self">Longlong Lin</span>, Quanao Li, Miao Qiao, Zeli Wang, Jin Zhao, Rong-Hua Li, Xin Luo, Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE TKDE, 2025.
+    <span class="badge badge-ccfa">CCF-A期刊</span>
+  </li>
+  <li>
+    <span class="pub-id">[25]</span>
+    Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025.
+    <span class="badge badge-cas1">中科院一区</span>
+  </li>
   <li>
     <span class="pub-id">[24]</span>
     <span class="author-self">Longlong Lin</span>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025.
