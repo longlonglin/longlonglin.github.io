@@ -76,6 +76,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
 <h3 class="year-title">2026</h3>
 <ul class="pub-list">
+
+  <li>
+    <span class="pub-id">[39]</span>
+   Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia.   Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
+    <span class="badge badge-cas1">中科院一区</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
+
+
   <li>
     <span class="pub-id">[38]</span>
     Xi Ou, <span class="author-self">Longlong Lin</span>, Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE TKDE, 2026.
