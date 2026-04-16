@@ -89,7 +89,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[38]</span>
     Xi Ou, <span class="author-self">Longlong Lin</span>, Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE TKDE, 2026.
     <span class="badge badge-ccfa">CCF-A期刊</span>
-    <span class="badge badge-info">ACCEPT</span>
   </li>
   <li>
     <span class="pub-id">[37]</span>
