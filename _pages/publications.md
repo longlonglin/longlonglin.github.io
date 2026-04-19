@@ -69,6 +69,42 @@ author_profile: true
     border: 1px solid #a5d6a7;
     font-style: italic;
   }
+/* 引用按钮样式 */
+  .cite-btn {
+    display: inline-block;
+    padding: 1px 6px;
+    font-size: 0.75em;
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 10px;
+    text-decoration: none;
+    background: #f9f9f9;
+  }
+  .cite-btn:hover {
+    background: #eee;
+    color: #2554C7;
+  }
+  /* BibTeX 内容框 */
+  .bibtex-box {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-left: 3px solid #2554C7;
+    font-family: monospace;
+    font-size: 0.85em;
+    white-space: pre-wrap; /* 保持换行 */
+    color: #333;
+  }
+  /* 移除 details 默认箭头（可选） */
+  details summary {
+    list-style: none;
+    outline: none;
+  }
+  details summary::-webkit-details-marker {
+    display: none;
+  }
 </style>
 
 ## Selected Publications
@@ -77,12 +113,26 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 <h3 class="year-title">2026</h3>
 <ul class="pub-list">
 
-  <li>
-    <span class="pub-id">[39]</span>
-   Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia.   Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
-    <span class="badge badge-cas1">中科院一区</span>
-    <span class="badge badge-info">ACCEPT</span>
-  </li>
+
+<li>
+  <span class="pub-id">[39]</span>
+  Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. 
+  Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
+  <span class="badge badge-cas1">中科院一区</span>
+  <span class="badge badge-info">ACCEPT</span>
+
+  <details style="display: inline-block;">
+    <summary class="cite-btn"><i class="fa fa-quote-left"></i> BibTeX</summary>
+    <div class="bibtex-box">
+@article{chen2026effective,
+  title={Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification},
+  author={Chen, Zhixuan and Liu, Xinyu and Lin, Longlong and Jia, Tao},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2026},
+  publisher={IEEE}
+}</div>
+  </details>
+</li>
 
 
   <li>
