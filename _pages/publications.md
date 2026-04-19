@@ -107,6 +107,16 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <span class="badge badge-info">ACCEPT</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@article{chen2026effective,
+  title={Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification},
+  author={Chen, Zhixuan and Liu, Xinyu and Lin, Longlong and Jia, Tao},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2026},
+  publisher={IEEE}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -138,6 +148,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[36]</span>
     Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, <span class="author-self">Longlong Lin</span>, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026locality,
+  title={A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion},
+  author={Hou, Yinbo and Qi, Hao and Zhao, Jin and Zhang, Yu and Lu, Yiling and Yu, Hui and Lin, Longlong and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
+  booktitle={Proceedings of the 63rd IEEE/ACM Design Automation Conference},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -162,6 +181,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <span class="badge badge-info">Oral</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
+  title={From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
+  author={Ni, Li and Zeng, Shuaikang and Mu, Lin and Lin, Longlong},
+  booktitle={Proceedings of the ACM Web Conference 2026 (WWW '26)},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -203,6 +231,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[31]</span>
     Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <span class="author-self">Longlong Lin</span>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPoPP, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026dtminer,
+  title={DTMiner: A Data-centric System for Efficient Temporal Motif Mining},
+  author={Hou, Yinbo and Qi, Hao and He, Ligang and Zhao, Jin and Zhang, Yu and Yu, Hui and Lin, Longlong and Gu, Lin and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
+  booktitle={Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -212,7 +249,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@ARTICLE{11237000,
-  author={Jiang, Jiaqi and Li, Rong-Hua and Lin, Longlong and Zhang, Yalong and Zeng, Yue bit and Ye, Xiaowei and Wang, Guoren},
+  author={Jiang, Jiaqi and Li, Rong-Hua and Lin, Longlong and Zhang, Yalong and Zeng, Yue and Ye, Xiaowei and Wang, Guoren},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Pseudoarboricity-Based Skyline Important Community Search in Large Networks}, 
   year={2026},
@@ -243,6 +280,18 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[28]</span>
     Junjie Zhou, Meihao Liao, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Guoren Wang. One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@article{zhou2025one,
+  title={One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor},
+  author={Zhou, Junjie and Liao, Meihao and Li, Rong-Hua and Lin, Longlong and Wang, Guoren},
+  journal={Proceedings of the ACM on Management of Data},
+  volume={3},
+  number={4},
+  pages={1--26},
+  year={2025}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -257,8 +306,8 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   journal={IEEE/CAA Journal of Automatica Sinica}, 
   volume={13},  
   number={1},
-  pages={1-3},
-  year={2025},
+  pages={221-223},
+  year={2026},
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -377,6 +426,16 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[20]</span>
     Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <span class="author-self">Longlong Lin</span>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective? VLDB, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@article{liu2025learned,
+  title={Why Are Learned Indexes So Effective but Sometimes Ineffective?},
+  author={Liu, Qiyu and Han, Siyuan and Qi, Yanlin and Peng, Jingshu and Li, Jin and Lin, Longlong and Chen, Lei},
+  journal={Proceedings of the VLDB Endowment},
+  volume={18},
+  year={2025}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
@@ -399,12 +458,30 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[18]</span>
     Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <span class="author-self">Longlong Lin</span>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU. ASPLOS, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{zhao2025tempgraph,
+  title={TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU},
+  author={Zhao, Jin and Wang, Qian and He, Ligang and Zhang, Yu and Di, Sheng and He, Bingsheng and Wang, Xinlei and Yu, Hui and Qi, Hao and Lin, Longlong and Yu, Linchen and Liao, Xiaofei and Jin, Hai},
+  booktitle={Proceedings of the 30th International Conference on Architectural Support for Programming Languages and Operating Systems},
+  year={2025}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
     <span class="pub-id">[17]</span>
     Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <span class="author-self">Longlong Lin</span>, Xiaofei Liao, Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{zhao2025datacentric,
+  title={A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree},
+  author={Zhao, Jin and Zhang, Yu and Huang, Jun and Yin, Weihang and Yu, Hui and Qi, Hao and Wang, Zixiao and Lin, Longlong and Liao, Xiaofei and Jin, Hai},
+  booktitle={Proceedings of the 62th ACM/IEEE Design Automation Conference},
+  year={2025}
+}{% endraw %}</pre></div>
+    </details>
   </li>
 
   <li>
