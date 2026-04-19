@@ -163,6 +163,7 @@ pages = {559–570},
 </details>
 </li>
 
+
 <li>
 <span class="pub-id">[30]</span>
 Jiaqi Jiang, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. IEEE TKDE, 2026.
