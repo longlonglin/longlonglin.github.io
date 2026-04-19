@@ -103,6 +103,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 <h3 class="year-title">2026</h3>
 <ul class="pub-list">
   <li>
+    <span class="pub-id">[39]</span>
+    Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
+    <span class="badge badge-cas1">中科院一区</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
+
+  <li>
     <span class="pub-id">[38]</span>
     Xi Ou, <span class="author-self">Longlong Lin</span>, Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE TKDE, 2026.
     <span class="badge badge-ccfa">CCF-A期刊</span>
@@ -118,6 +125,19 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   pages={3080-3094}
 }{% endraw %}</pre></div>
     </details>
+  </li>
+
+  <li>
+    <span class="pub-id">[37]</span>
+    Zeli Wang, Jie Li, Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA JAS, 2026.
+    <span class="badge badge-cas1">中科院一区</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
+
+  <li>
+    <span class="pub-id">[36]</span>
+    Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, <span class="author-self">Longlong Lin</span>, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
   </li>
 
   <li>
@@ -138,6 +158,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
   <li>
+    <span class="pub-id">[34]</span>
+    Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">Oral</span>
+  </li>
+
+  <li>
     <span class="pub-id">[33]</span>
     <span class="author-self">Longlong Lin</span>, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. WWW, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
@@ -154,13 +181,38 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
   <li>
+    <span class="pub-id">[32]</span>
+    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025.
+    <span class="badge">中科院2区</span>
+    <span class="badge badge-info">ACCEPT</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@ARTICLE{11300948,
+  author={Wang, Zeli and Pu, Tianhao and Xia, Shuyin and Lin, Longlong and Liu, Linpin and Wang, Guoyin},
+  journal={IEEE Transactions on Big Data}, 
+  title={GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TBDATA.2025.3644670}}{% endraw %}</pre></div>
+    </details>
+  </li>
+
+  <li>
+    <span class="pub-id">[31]</span>
+    Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <span class="author-self">Longlong Lin</span>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPoPP, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+  </li>
+
+  <li>
     <span class="pub-id">[30]</span>
     Jiaqi Jiang, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Yalong Zhang, Yue Zeng, Xiaowei Ye, Guoren Wang. Pseudoarboricity-Based Skyline Important Community Search in Large Networks. IEEE TKDE, 2026.
     <span class="badge badge-ccfa">CCF-A期刊</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@ARTICLE{11237000,
-  author={Jiang, Jiaqi and Li, Rong-Hua and Lin, Longlong and Zhang, Yalong and Zeng, Yue and Ye, Xiaowei and Wang, Guoren},
+  author={Jiang, Jiaqi and Li, Rong-Hua and Lin, Longlong and Zhang, Yalong and Zeng, Yue bit and Ye, Xiaowei and Wang, Guoren},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Pseudoarboricity-Based Skyline Important Community Search in Large Networks}, 
   year={2026},
@@ -175,6 +227,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id">[29]</span>
     Yichun Yang, <span class="author-self">Longlong Lin</span>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{yang2026theoretically,
@@ -182,6 +235,30 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   author={Yang, Yichun and Lin, Longlong and Li, Rong-Hua and Liao, Meihao and Wang, Guoren},
   journal={arXiv preprint arXiv:2601.11159},
   year={2026}
+}{% endraw %}</pre></div>
+    </details>
+  </li>
+
+  <li>
+    <span class="pub-id">[28]</span>
+    Junjie Zhou, Meihao Liao, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Guoren Wang. One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor. SIGMOD, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+  </li>
+
+  <li>
+    <span class="pub-id">[27]</span>
+    <span class="author-self">Longlong Lin</span>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA JAS, 2026.
+    <span class="badge badge-cas1">中科院一区</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@article{JAS-2024-1582,
+  author={Longlong Lin and Xin Luo},
+  title={Dual Channel Graph Convolutional Networks via Personalized PageRank},
+  journal={IEEE/CAA Journal of Automatica Sinica}, 
+  volume={13},  
+  number={1},
+  pages={1-3},
+  year={2025},
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -227,6 +304,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   <li>
     <span class="pub-id">[24]</span>
     <span class="author-self">Longlong Lin</span>, Yue He, Wei Chen, Pingpeng Yuan, Rong-Hua Li, Tao Jia. Effective and Efficient Conductance-based Community Search at Billion Scale. IEEE Transactions on Big Data, 2025.
+    <span class="badge">中科院2区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tbd/LinHCYLJ25,
@@ -296,6 +374,12 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
   <li>
+    <span class="pub-id">[20]</span>
+    Qiyu Liu, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, <span class="author-self">Longlong Lin</span>, Lei Chen. Why Are Learned Indexes So Effective but Sometimes Ineffective? VLDB, 2025.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+  </li>
+
+  <li>
     <span class="pub-id">[19]</span>
     Xiaoyu Leng, Guang Zeng, Hongchao Qin, <span class="author-self">Longlong Lin</span>, Rong-Hua Li. On Temporal-Constraint Subgraph Matching. ICDE, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
@@ -309,6 +393,18 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   year = {2025},
 }{% endraw %}</pre></div>
     </details>
+  </li>
+
+  <li>
+    <span class="pub-id">[18]</span>
+    Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, <span class="author-self">Longlong Lin</span>, Linchen Yu, Xiaofei Liao, Hai Jin. TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU. ASPLOS, 2025.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+  </li>
+
+  <li>
+    <span class="pub-id">[17]</span>
+    Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, <span class="author-self">Longlong Lin</span>, Xiaofei Liao, Hai Jin. A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree. DAC, 2025.
+    <span class="badge badge-ccfa">CCF-A会议</span>
   </li>
 
   <li>
