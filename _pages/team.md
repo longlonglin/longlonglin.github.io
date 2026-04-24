@@ -20,8 +20,10 @@ redirect_from:
 
 ## 👥 Students
 
-<div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
 
+<div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+  
+<!--
   <div>
     <span class="student-year">2025级</span> 
     邓海棋、何宣伟、王奕涵
@@ -31,6 +33,7 @@ redirect_from:
     <span class="student-year">2024级</span> 
     陈为、李明鑫、张佑安
   </div>
+-->
 
   <div>
     <span class="student-year">2023级</span> 
