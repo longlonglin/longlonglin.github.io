@@ -59,7 +59,7 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 * **Publicity Chair**: The 21st [IEEE GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/)
 
 ### 📝 Professional Reviews
-* **Conferences**: SIGMOD, KDD, NeurIPS, WWW, AAAI, ICMR
+* **Conferences**: SIGMOD, KDD, NeurIPS, WWW, ACM-MM, AAAI, ICMR
 * **Journals**: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, IPM, KBS
 
 ---
