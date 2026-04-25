@@ -15,16 +15,15 @@ author_profile: true
   .pub-list li {
     margin-bottom: 20px;
     line-height: 1.6;
+    position: relative;
+    padding-left: 35px;
   }
-  
-  /* 自动编号样式（改为普通排版，防止被主题遮挡） */
   .pub-id {
-    display: inline-block;
+    position: absolute;
+    left: 0;
     font-weight: bold;
-    color: #2554C7;
-    margin-right: 8px;
+    color: #666;
   }
-  
   .author-self {
     font-weight: bold;
     border-bottom: 1px solid #2554C7;
@@ -622,6 +621,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 }{% endraw %}</pre></div>
     </details>
   </li>
+</ul>
 
 <h3 class="year-title">2023</h3>
 <ul class="pub-list">
@@ -716,42 +716,21 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 </ul>
 
-<script type="text/javascript">
-  (function() {
-    function injectPaperNumbers() {
-      // 获取所有的 span.pub-id
-      var spans = document.querySelectorAll('.pub-list .pub-id');
-      if (spans.length === 0) return false; // 还没加载出来
-      
-      var total = spans.length;
-      var hasUpdated = false;
-      
-      for (var i = 0; i < total; i++) {
-        // 只有在空的时候才写入，防止重复触发
-        if (spans[i].innerHTML.trim() === "") {
-          spans[i].innerHTML = "[" + (total - i) + "]";
-          hasUpdated = true;
-        }
-      }
-      return hasUpdated;
-    }
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const pubs = document.querySelectorAll(".pub-list li");
+    const total = pubs.length;
 
-    // 1. 脚本执行时立刻尝试一次
-    injectPaperNumbers();
-    
-    // 2. 挂载到标准 DOM 加载事件
-    document.addEventListener("DOMContentLoaded", injectPaperNumbers);
-    window.addEventListener("load", injectPaperNumbers);
-    
-    // 3. 轮询监控（对抗大部分博客主题的异步渲染或懒加载）
-    var attempts = 0;
-    var timer = setInterval(function() {
-      var success = injectPaperNumbers();
-      attempts++;
-      // 如果成功注入，或者超过 10 次（5秒）还没找到，就停止轮询
-      if (success || attempts > 10) {
-        clearInterval(timer);
+    pubs.forEach(function (pub, index) {
+      let id = pub.querySelector(".pub-id");
+
+      if (!id) {
+        id = document.createElement("span");
+        id.className = "pub-id";
+        pub.insertBefore(id, pub.firstChild);
       }
-    }, 500);
-  })();
+
+      id.textContent = "[" + (total - index) + "]";
+    });
+  });
 </script>
