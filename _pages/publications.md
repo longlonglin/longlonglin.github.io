@@ -715,16 +715,36 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 </ul>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // 获取页面中所有的编号容器
-    const pubIds = document.querySelectorAll('.pub-list .pub-id');
-    // 总论文数量
-    const totalPubs = pubIds.length;
+
+
+
+
+
+
+ <script>
+  function initPaperNumbers() {
+    var pubIds = document.querySelectorAll('.pub-list .pub-id');
+    if (!pubIds || pubIds.length === 0) return;
+    var totalPubs = pubIds.length;
     
-    // 遍历每一个容器，自动赋予降序编号 [N], [N-1], ... [1]
     pubIds.forEach(function(span, index) {
-      span.textContent = '[' + (totalPubs - index) + ']';
+      // 防止多次触发重复写入
+      if (!span.textContent || span.textContent.trim() === "") {
+        span.textContent = '[' + (totalPubs - index) + ']';
+      }
     });
+  }
+
+  // 1. 立即执行（应对脚本在 DOM 之后加载的情况）
+  initPaperNumbers();
+  
+  // 2. 监听标准网页加载完成
+  document.addEventListener("DOMContentLoaded", initPaperNumbers);
+  
+  // 3. 兼容 GitHub Pages 常见主题的无刷新路由 (如 Minimal Mistakes, Academic 等)
+  document.addEventListener("turbolinks:load", initPaperNumbers);
+  document.addEventListener("pjax:end", initPaperNumbers);
+  document.addEventListener("pjax:success", initPaperNumbers);
+</script>
   });
 </script>
