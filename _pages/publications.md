@@ -746,5 +746,3 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   document.addEventListener("pjax:end", initPaperNumbers);
   document.addEventListener("pjax:success", initPaperNumbers);
 </script>
-  });
-</script>
