@@ -15,15 +15,16 @@ author_profile: true
   .pub-list li {
     margin-bottom: 20px;
     line-height: 1.6;
-    position: relative;
-    padding-left: 35px;
   }
+  
+  /* 自动编号样式（改为普通排版，防止被主题遮挡） */
   .pub-id {
-    position: absolute;
-    left: 0;
+    display: inline-block;
     font-weight: bold;
-    color: #666;
+    color: #2554C7;
+    margin-right: 8px;
   }
+  
   .author-self {
     font-weight: bold;
     border-bottom: 1px solid #2554C7;
@@ -715,28 +716,42 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 </ul>
 
-<script>
-  function initPaperNumbers() {
-    var pubIds = document.querySelectorAll('.pub-list .pub-id');
-    if (!pubIds || pubIds.length === 0) return;
-    var totalPubs = pubIds.length;
-    
-    pubIds.forEach(function(span, index) {
-      // 防止多次触发重复写入
-      if (!span.textContent || span.textContent.trim() === "") {
-        span.textContent = '[' + (totalPubs - index) + ']';
+<script type="text/javascript">
+  (function() {
+    function injectPaperNumbers() {
+      // 获取所有的 span.pub-id
+      var spans = document.querySelectorAll('.pub-list .pub-id');
+      if (spans.length === 0) return false; // 还没加载出来
+      
+      var total = spans.length;
+      var hasUpdated = false;
+      
+      for (var i = 0; i < total; i++) {
+        // 只有在空的时候才写入，防止重复触发
+        if (spans[i].innerHTML.trim() === "") {
+          spans[i].innerHTML = "[" + (total - i) + "]";
+          hasUpdated = true;
+        }
       }
-    });
-  }
+      return hasUpdated;
+    }
 
-  // 1. 立即执行（应对脚本在 DOM 之后加载的情况）
-  initPaperNumbers();
-  
-  // 2. 监听标准网页加载完成
-  document.addEventListener("DOMContentLoaded", initPaperNumbers);
-  
-  // 3. 兼容 GitHub Pages 常见主题的无刷新路由 (如 Minimal Mistakes, Academic 等)
-  document.addEventListener("turbolinks:load", initPaperNumbers);
-  document.addEventListener("pjax:end", initPaperNumbers);
-  document.addEventListener("pjax:success", initPaperNumbers);
+    // 1. 脚本执行时立刻尝试一次
+    injectPaperNumbers();
+    
+    // 2. 挂载到标准 DOM 加载事件
+    document.addEventListener("DOMContentLoaded", injectPaperNumbers);
+    window.addEventListener("load", injectPaperNumbers);
+    
+    // 3. 轮询监控（对抗大部分博客主题的异步渲染或懒加载）
+    var attempts = 0;
+    var timer = setInterval(function() {
+      var success = injectPaperNumbers();
+      attempts++;
+      // 如果成功注入，或者超过 10 次（5秒）还没找到，就停止轮询
+      if (success || attempts > 10) {
+        clearInterval(timer);
+      }
+    }, 500);
+  })();
 </script>
