@@ -715,13 +715,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 </ul>
 
-
-
-
-
-
-
- <script>
+<script>
   function initPaperNumbers() {
     var pubIds = document.querySelectorAll('.pub-list .pub-id');
     if (!pubIds || pubIds.length === 0) return;
