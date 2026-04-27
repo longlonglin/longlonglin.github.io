@@ -97,7 +97,7 @@ author_profile: true
   details summary::-webkit-details-marker { display: none; }
 </style>
 
-## Selected Publications
+## Selected Publications 
 A full list of publications can be found at [<i class="fa fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN).
 
 <h3 class="year-title">2026</h3>
@@ -681,39 +681,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-  <li>
-    <span class="pub-id"></span>
-    Yifei Zhang, <span class="author-self">Longlong Lin</span>, Pingpeng Yuan, Hai Jin. Significant Engagement Community Search on Temporal Networks. DASFAA, 2022.
-    <span class="badge">CCF-B会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/dasfaa/ZhangLYJ22,
-  author = {Yifei Zhang and Longlong Lin and Pingpeng Yuan and Hai Jin},
-  title = {Significant Engagement Community Search on Temporal Networks},
-  booktitle = {DASFAA},
-  pages = {250--258},
-  year = {2022},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
-
-  <li>
-    <span class="pub-id"></span>
-    Chunxue Zhu, <span class="author-self">Longlong Lin</span>, Pingpeng Yuan, Hai Jin. Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration. JCST, 2022.
-    <span class="badge">中科院2区</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/jcst/ZhuLYJ22,
-  author = {Chun-Xue Zhu and Longlong Lin and Pingpeng Yuan and Hai Jin},
-  title = {Discovering Cohesive Temporal Subgraphs with Temporal Density Aware Exploration},
-  journal = {J. Comput. Sci. Technol.},
-  volume = {37},
-  number = {5},
-  pages = {1068--1085},
-  year = {2022},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
 </ul>
 
 <script>
