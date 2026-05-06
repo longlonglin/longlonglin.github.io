@@ -60,7 +60,7 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 
 ### 📝 Professional Reviews
 * **Conferences**: SIGMOD, KDD, NeurIPS, WWW, ACM-MM, AAAI, ICMR
-* **Journals**: ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, IPM, KBS
+* **Journals**: IEEE-TPAMI, ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, IPM, KBS
 
 ---
 
