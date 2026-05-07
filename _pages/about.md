@@ -30,7 +30,7 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 ## 📢 招生信息 (Recruitment)
 
 <div style="background-color: #fcf8e3; border-left: 5px solid #8a6d3b; padding: 15px; margin: 20px 0;">
-    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 每年计划招收3-5名硕士研究生。<span style="color:red; font-weight:bold;">26年还剩一个非项目制专硕名额</span> <br>
+    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 每年计划招收3-5名硕士研究生。<span style="color:red; font-weight:bold;">26年还剩一个非项目制专硕名额，欢迎自荐或者推荐</span> <br>
     <strong>本科生科研:</strong> 长期招收大一/大二优秀本科生（需满足：以发表高水平论文为目的、不过分功利化、不追求短平快）。<br>
     <strong>未来发展:</strong> 优秀本硕学生可推荐至阿里、华为等大厂实习，或国内外 Top 高校深造。
 </div>
