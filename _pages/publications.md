@@ -186,7 +186,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
       <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
   title={From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
   author={Ni, Li and Zeng, Shuaikang and Mu, Lin and Lin, Longlong},
-  booktitle={Proceedings of the ACM Web Conference 2026 (WWW '26)},
+  booktitle={WWW},
   year={2026}
 }{% endraw %}</pre></div>
     </details>
@@ -263,13 +263,12 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Yichun Yang, <span class="author-self">Longlong Lin</span>, Rong-Hua Li, Meihao Liao, Guoren Wang. Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs. VLDB, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">ACCEPT</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{yang2026theoretically,
   title={Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs},
   author={Yang, Yichun and Lin, Longlong and Li, Rong-Hua and Liao, Meihao and Wang, Guoren},
-  journal={arXiv preprint arXiv:2601.11159},
+  booktitle={VLDB},
   year={2026}
 }{% endraw %}</pre></div>
     </details>
