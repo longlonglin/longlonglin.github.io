@@ -210,9 +210,8 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2025.
+    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2026.
     <span class="badge">中科院2区</span>
-    <span class="badge badge-info">ACCEPT</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@ARTICLE{11300948,
@@ -220,10 +219,10 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   journal={IEEE Transactions on Big Data}, 
   title={GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TBDATA.2025.3644670}}{% endraw %}</pre></div>
+  volume={12},
+  number={3},
+  pages={1-12}
+        }{% endraw %}</pre></div>
     </details>
   </li>
 
