@@ -35,6 +35,13 @@ redirect_from:
   </div>
 -->
 
+
+
+  <div>
+    <span class="student-year">2024级</span> 
+    张佑安 <span class="pub-tag">KDD</span>
+  </div>
+
   <div>
     <span class="student-year">2023级</span> 
     欧熙 <span class="pub-tag">TKDE</span>、李泉澳 <span class="pub-tag">TKDE</span>、陈智轩 <span class="pub-tag">TII (Undergrad)</span>
