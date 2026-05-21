@@ -219,21 +219,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
 
-  <li>
-    <span class="pub-id"></span>
-    Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
-    <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
-  title={From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
-  author={Ni, Li and Zeng, Shuaikang and Mu, Lin and Lin, Longlong},
-  booktitle={WWW},
-  year={2026}
-}{% endraw %}</pre></div>
-    </details>
-  </li>
 
   <li>
     <span class="pub-id"></span>
@@ -251,6 +236,23 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
+
+
+  <li>
+    <span class="pub-id"></span>
+    Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">Oral</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
+  title={From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
+  author={Ni, Li and Zeng, Shuaikang and Mu, Lin and Lin, Longlong},
+  booktitle={WWW},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
+  </li>
 
   <li>
     <span class="pub-id"></span>
