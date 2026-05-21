@@ -426,7 +426,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 }{% endraw %}</pre></div>
     </details>
   </li>
-</ul>
+
 
   <li>
     <span class="pub-id"></span>
@@ -526,7 +526,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-
+</ul>
 
 <h3 class="year-title">2024</h3>
 <ul class="pub-list">
