@@ -162,17 +162,23 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-info">ACCEPT</span>
   </li>
 
+
+
+  
   <li>
     <span class="pub-id"></span>
-    Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, <span class="author-self">Longlong Lin</span>, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026.
-    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="author-self">Longlong Lin</span>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA JAS, 2026.
+    <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026locality,
-  title={A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion},
-  author={Hou, Yinbo and Qi, Hao and Zhao, Jin and Zhang, Yu and Lu, Yiling and Yu, Hui and Lin, Longlong and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
-  booktitle={Proceedings of the 63rd IEEE/ACM Design Automation Conference},
-  year={2026}
+      <div class="bib-container"><pre>{% raw %}@article{JAS-2024-1582,
+  author={Longlong Lin and Xin Luo},
+  title={Dual Channel Graph Convolutional Networks via Personalized PageRank},
+  journal={IEEE/CAA Journal of Automatica Sinica}, 
+  volume={13},  
+  number={1},
+  pages={221-223},
+  year={2026},
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -193,6 +199,25 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 }{% endraw %}</pre></div>
     </details>
   </li>
+
+  <li>
+    <span class="pub-id"></span>
+    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2026.
+    <span class="badge">中科院2区</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@ARTICLE{11300948,
+  author={Wang, Zeli and Pu, Tianhao and Xia, Shuyin and Lin, Longlong and Liu, Linpin and Wang, Guoyin},
+  journal={IEEE Transactions on Big Data}, 
+  title={GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution}, 
+  year={2025},
+  volume={12},
+  number={3},
+  pages={1-12}
+        }{% endraw %}</pre></div>
+    </details>
+  </li>
+
 
   <li>
     <span class="pub-id"></span>
@@ -226,24 +251,24 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
+
   <li>
     <span class="pub-id"></span>
-    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2026.
-    <span class="badge">中科院2区</span>
+    Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, <span class="author-self">Longlong Lin</span>, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@ARTICLE{11300948,
-  author={Wang, Zeli and Pu, Tianhao and Xia, Shuyin and Lin, Longlong and Liu, Linpin and Wang, Guoyin},
-  journal={IEEE Transactions on Big Data}, 
-  title={GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution}, 
-  year={2025},
-  volume={12},
-  number={3},
-  pages={1-12}
-        }{% endraw %}</pre></div>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026locality,
+  title={A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion},
+  author={Hou, Yinbo and Qi, Hao and Zhao, Jin and Zhang, Yu and Lu, Yiling and Yu, Hui and Lin, Longlong and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
+  booktitle={Proceedings of the 63rd IEEE/ACM Design Automation Conference},
+  year={2026}
+}{% endraw %}</pre></div>
     </details>
   </li>
 
+
+  
   <li>
     <span class="pub-id"></span>
     Yinbo Hou, Hao Qi, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, <span class="author-self">Longlong Lin</span>, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin. DTMiner: A Data-centric System for Efficient Temporal Motif Mining. PPoPP, 2026.
@@ -310,23 +335,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-  <li>
-    <span class="pub-id"></span>
-    <span class="author-self">Longlong Lin</span>, Xin Luo. Dual Channel Graph Convolutional Networks via Personalized PageRank. IEEE/CAA JAS, 2026.
-    <span class="badge badge-cas1">中科院一区</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{JAS-2024-1582,
-  author={Longlong Lin and Xin Luo},
-  title={Dual Channel Graph Convolutional Networks via Personalized PageRank},
-  journal={IEEE/CAA Journal of Automatica Sinica}, 
-  volume={13},  
-  number={1},
-  pages={221-223},
-  year={2026},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
 </ul>
 
 <h3 class="year-title">2025</h3>
@@ -401,6 +409,22 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 }{% endraw %}</pre></div>
     </details>
   </li>
+
+  <li>
+    <span class="pub-id"></span>
+    Tao Liu, <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
+    <span class="badge">CCF-B会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/mir/LiuLYOZY025,
+  author = {Tao Liu and Longlong Lin and Yunfeng Yu and Xi Ou and Youan Zhang and Zhiqiu Ye and Tao Jia},
+  title = {CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks},
+  booktitle = {ICMR},
+  year = {2025},
+}{% endraw %}</pre></div>
+    </details>
+  </li>
+</ul>
 
   <li>
     <span class="pub-id"></span>
@@ -500,21 +524,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-  <li>
-    <span class="pub-id"></span>
-    Tao Liu, <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
-    <span class="badge">CCF-B会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/mir/LiuLYOZY025,
-  author = {Tao Liu and Longlong Lin and Yunfeng Yu and Xi Ou and Youan Zhang and Zhiqiu Ye and Tao Jia},
-  title = {CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks},
-  booktitle = {ICMR},
-  year = {2025},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
-</ul>
+
 
 <h3 class="year-title">2024</h3>
 <ul class="pub-list">
@@ -553,41 +563,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-  <li>
-    <span class="pub-id"></span>
-    Yuchen Meng, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Xunkai Li, Guoren Wang. Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024.
-    <span class="badge badge-ccfa">CCF-A会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/MengLLLW24,
-  author = {Yuchen Meng and Ronghua Li and Longlong Lin and Xunkai Li and Guoren Wang},
-  title = {Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach},
-  journal = {Proc. {VLDB} Endow.},
-  volume = {17},
-  number = {13},
-  pages = {4760--4772},
-  year = {2024},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
-
-  <li>
-    <span class="pub-id"></span>
-    Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <span class="author-self">Longlong Lin</span>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024.
-    <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/YeLLLLW24,
-  author = {Xiaowei Ye and Rong-Hua Li and Lei Liang and Zhizhen Liu and Longlong Lin and Guoren Wang},
-  title = {Efficient and Effective Anchored Densest Subgraph Search: {A} Convex-programming based Approach},
-  booktitle = {KDD},
-  pages = {3907--3918},
-  year = {2024},
-}{% endraw %}</pre></div>
-    </details>
-  </li>
-
+  
   <li>
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, Jin Zhao, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. CIKM, 2024.
@@ -637,6 +613,42 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 }{% endraw %}</pre></div>
     </details>
   </li>
+
+  <li>
+    <span class="pub-id"></span>
+    Yuchen Meng, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Xunkai Li, Guoren Wang. Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach. VLDB, 2024.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/MengLLLW24,
+  author = {Yuchen Meng and Ronghua Li and Longlong Lin and Xunkai Li and Guoren Wang},
+  title = {Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach},
+  journal = {Proc. {VLDB} Endow.},
+  volume = {17},
+  number = {13},
+  pages = {4760--4772},
+  year = {2024},
+}{% endraw %}</pre></div>
+    </details>
+  </li>
+
+  <li>
+    <span class="pub-id"></span>
+    Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <span class="author-self">Longlong Lin</span>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">Oral</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/YeLLLLW24,
+  author = {Xiaowei Ye and Rong-Hua Li and Lei Liang and Zhizhen Liu and Longlong Lin and Guoren Wang},
+  title = {Efficient and Effective Anchored Densest Subgraph Search: {A} Convex-programming based Approach},
+  booktitle = {KDD},
+  pages = {3907--3918},
+  year = {2024},
+}{% endraw %}</pre></div>
+    </details>
+  </li>
+
 </ul>
 
 <h3 class="year-title">2023</h3>
