@@ -103,7 +103,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 <h3 class="year-title">2026</h3>
 <ul class="pub-list">
 
-<!--
+
   <li>
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Youan Zhang, Zeli Wang, Xin Luo. Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer. KDD, 2026.
@@ -119,7 +119,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
- --> 
   <li>
     <span class="pub-id"></span>
     Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
