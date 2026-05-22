@@ -104,20 +104,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 <ul class="pub-list">
 
 
-  <li>
-    <span class="pub-id"></span>
-    <span class="author-self">Longlong Lin</span>, Youan Zhang, Zeli Wang, Xin Luo. Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer. KDD, 2026.
-    <span class="badge badge-ccfa">CCF-A会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{lin2026simple,
-  title={Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer},
-  author={Lin, Longlong and Zhang, Youan and Wang, Zeli and Luo, Xin},
-  booktitle={KDD},
-  year={2026}
-}{% endraw %}</pre></div>
-    </details>
-  </li>
+
 
   <li>
     <span class="pub-id"></span>
@@ -217,7 +204,20 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
-
+  <li>
+    <span class="pub-id"></span>
+    <span class="author-self">Longlong Lin</span>, Youan Zhang, Zeli Wang, Xin Luo. Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer. KDD, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{lin2026simple,
+  title={Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer},
+  author={Lin, Longlong and Zhang, Youan and Wang, Zeli and Luo, Xin},
+  booktitle={KDD},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
+  </li>
 
   <li>
     <span class="pub-id"></span>
