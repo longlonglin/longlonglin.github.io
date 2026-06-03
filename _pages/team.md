@@ -42,11 +42,6 @@ redirect_from:
     张佑安 <span class="pub-tag">KDD</span>
   </div>
 
-  <div>
-    <span class="student-year">2023级</span> 
-    陈智轩 <span class="pub-tag">TII (本科生)</span>
-  </div>
-
   <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2023级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
