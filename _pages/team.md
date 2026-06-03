@@ -44,25 +44,26 @@ redirect_from:
 
   <div>
     <span class="student-year">2023级</span> 
-    欧熙 <span class="pub-tag">TKDE</span>、李泉澳 <span class="pub-tag">TKDE</span>、陈智轩 <span class="pub-tag">TII (本科生)</span>
+    陈智轩 <span class="pub-tag">TII (本科生)</span>
   </div>
 
   <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2023级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>欧熙 <span class="pub-tag">TKDE</span> <span class="destination">→ 厦门大学读博</span></li>
-      <li>李泉澳 <span class="pub-tag">TKDE</span> <span class="destination">→ xxxx</span></li>
+      <li>欧熙 <span class="pub-tag">TKDE</span> <span class="destination">→ 厦门大学读博士</span></li>
+      <li>李泉澳 <span class="pub-tag">TKDE</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>余云丰 <span class="pub-tag">CIKM</span> <span class="pub-tag">ICMR</span> <span class="destination">→ 中国工商银行</span></li>
-      <li>何越 <span class="pub-tag">TBD</span> <span class="pub-tag">ESWA</span> <span class="destination">→ 中国农业银行</span></li>
-      <li>刘韬 <span class="pub-tag">ICMR (本科生)</span> <span class="destination">→ 保送东南大学</span></li>
-      <li>叶知秋 <span class="pub-tag">ESWA (本科生)</span> <span class="destination">→ 中国移动</span></li>
+      <li>余云丰 <span class="pub-tag">CIKM</span> <span class="pub-tag">ICMR</span> <span class="destination">→ 中国工商银行 (重庆)</span></li>
+      <li>何越 <span class="pub-tag">TBD</span> <span class="pub-tag">ESWA</span> <span class="destination">→ 中国农业银行 (绵阳)</span></li>
+      <li>刘韬 <span class="pub-tag">ICMR (本科生)</span> <span class="destination">→ 保送东南大学读硕士</span></li>
+      <li>周嘉喻 <span class="pub-tag">待投 (本科生)</span> <span class="destination">→ 保送深圳大学读硕士</span></li>
+      <li>叶知秋 <span class="pub-tag">ESWA (本科生)</span> <span class="destination">→ 中国移动 (贵阳)</span></li>
     </ul>
   <span class="student-year">2021级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>廖梓妤 <span class="pub-tag">Entropy (本科生)</span> <span class="destination">→ 保送重庆大学</span></li>
+      <li>廖梓妤 <span class="pub-tag">Entropy (本科生)</span> <span class="destination">→ 保送重庆大学读硕士</span></li>
     </ul>
     
   </div>
