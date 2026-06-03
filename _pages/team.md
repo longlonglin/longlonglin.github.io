@@ -18,7 +18,7 @@ redirect_from:
   .destination { color: #666; font-style: italic; font-size: 0.9em; }
 </style>
 
-## 👥 Students
+## 👥 Students (所列学生均发表论文，还有部分未发表论文的，保（考）研清华大学、中山大学、电子科技大学、中国传媒大学等)
 
 
 <div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
