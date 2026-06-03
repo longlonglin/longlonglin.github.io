@@ -52,6 +52,7 @@ redirect_from:
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
       <li>欧熙 <span class="pub-tag">TKDE</span> <span class="destination">→ 厦门大学读博士</span></li>
       <li>李泉澳 <span class="pub-tag">TKDE</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
+       <li>陈智轩 <span class="pub-tag">TII (本科生)</span> <span class="destination">→ xxxxx</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
