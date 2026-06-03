@@ -108,7 +108,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zhixuan Chen, Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
+    Zhixuan Chen (本科生), Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <span class="badge badge-info">ACCEPT</span>
     <details style="display: inline-block;">
@@ -360,7 +360,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025.
+    Zhiqiu Ye (本科生), <span class="author-self">Longlong Lin</span>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025.
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -413,7 +413,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Tao Liu, <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
+    Tao Liu (本科生), <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
     <span class="badge">CCF-B会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -429,7 +429,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Yalong Zhang, Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Qi Zhang, Guoren Wang. Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025.
+    Yalong Zhang (本科生), Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Qi Zhang, Guoren Wang. Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
