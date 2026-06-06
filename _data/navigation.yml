@@ -1,36 +1,13 @@
-# main links links
+# main navigation
 main:
-  #- title: "Honors & Services"
-  #  url: /experiences/
   - title: "Publications"
-    url: /publications/ 
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    url: /publications/
 
   - title: "Team"
     url: /team/
 
   - title: "Datasets"
     url: /datasets/
-  
-#   - title: "Talks"
-#     url: /talks/   
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "Codes"
-  #  url: /code/
 
   - title: "ReadingPaper"
     url: /readingpaper/
-
-  # - title: "Visitors"
-  #  url: /visitors/
-    
-  # - title: "Guide"
-  #   url: /markdown/
