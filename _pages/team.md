@@ -48,13 +48,14 @@ redirect_from:
       <li>欧熙 <span class="pub-tag">TKDE</span> <span class="destination">→ 厦门大学读博士</span></li>
       <li>李泉澳 <span class="pub-tag">TKDE</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
        <li>陈智轩 <span class="pub-tag">TII (本科生)</span> <span class="destination">→ xxxxx</span></li>
+      <li>瞿佳亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ xxxxx</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
       <li>余云丰 <span class="pub-tag">CIKM</span> <span class="pub-tag">ICMR</span> <span class="destination">→ 中国工商银行 (重庆)</span></li>
       <li>何越 <span class="pub-tag">TBD</span> <span class="pub-tag">ESWA</span> <span class="destination">→ 中国农业银行 (绵阳)</span></li>
       <li>刘韬 <span class="pub-tag">ICMR (本科生)</span> <span class="destination">→ 保送东南大学读硕士</span></li>
-      <li>周嘉喻 <span class="pub-tag">待投 (本科生)</span> <span class="destination">→ 保送深圳大学读硕士</span></li>
+      <li>周嘉喻 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ 保送深圳大学读硕士</span></li>
       <li>叶知秋 <span class="pub-tag">ESWA (本科生)</span> <span class="destination">→ 中国移动 (贵阳)</span></li>
     </ul>
   <span class="student-year">2021级</span>
