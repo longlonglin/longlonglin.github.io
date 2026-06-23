@@ -55,7 +55,7 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 * **Outstanding Reviewer** at KDD 2025
 
 ### 🎤 Chairs
-* **Session Chair**: KDD 2024, KDD 2025
+* **Session Chair**: KDD 2024, KDD 2025, WWW 2026
 * **Publicity Chair**: The 21st [IEEE GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/)
 
 ### 📝 Professional Reviews
