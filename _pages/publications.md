@@ -241,7 +241,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Li Ni, Shuaikang Zeng, Lin Mu, <span class="author-self">Longlong Lin</span>. From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. WWW, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
@@ -551,7 +550,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Tao Jia, Zeli Wang, Jin Zhao, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. KDD, 2024.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/Lin0WZL24,
@@ -602,7 +600,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Yunfeng Yu, <span class="author-self">Longlong Lin</span>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024.
     <span class="badge">CCF-B会议</span>
-    <span class="badge badge-info">Oral</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/mir/YuLLWOJ24,
@@ -637,7 +634,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, <span class="author-self">Longlong Lin</span>, Guoren Wang. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. KDD, 2024.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/YeLLLLW24,
@@ -658,7 +654,6 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Rong-Hua Li, Tao Jia. Scalable and Effective Conductance-based Graph Clustering. AAAI, 2023.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <span class="badge badge-info">Oral</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/aaai/LinLJ23,
