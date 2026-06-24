@@ -58,9 +58,34 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 * **Session Chair**: KDD 2024, KDD 2025, WWW 2026
 * **Publicity Chair**: The 21st [IEEE GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/)
 
-### 📝 Professional Reviews
-* **Conferences**: SIGMOD, KDD, NeurIPS, WWW, ACM-MM, AAAI, ICMR
-* **Journals**: IEEE-TPAMI, ACM-TOIS, IEEE-TKDE, IEEE-TNNLS, TMLR, IEEE-TSUSC, IEEE-TETCI, Pattern Recognition, Information Fusion, IPM, KBS, ESWA
+### 📝 Professional Reviewing Services
+
+**Conferences:**
+
+* ACM SIGMOD International Conference on Management of Data (**SIGMOD**)
+* ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**)
+* Conference on Neural Information Processing Systems (**NeurIPS**)
+* The ACM Web Conference (**WWW**)
+* ACM International Conference on Multimedia (**ACM MM**)
+* AAAI Conference on Artificial Intelligence (**AAAI**)
+* ACM International Conference on Multimedia Retrieval (**ICMR**)
+
+**Journals:**
+
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+* IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+* ACM Transactions on Information Systems (**TOIS**)
+* ACM Computing Surveys (**CSUR**)
+* IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+* Transactions on Machine Learning Research (**TMLR**)
+* IEEE Transactions on Sustainable Computing (**TSUSC**)
+* IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
+* Pattern Recognition (**PR**)
+* Information Fusion (**Inf. Fusion**)
+* Information Processing & Management (**IPM**)
+* Knowledge-Based Systems (**KBS**)
+* Expert Systems with Applications (**ESWA**)
+
 
 ---
 
