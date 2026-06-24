@@ -27,13 +27,18 @@ Longlong Lin is an **Associate Professor** at [Southwest University](http://cis.
 PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 ---
 
+
 ## 📢 招生信息 (Recruitment)
 
-<div style="background-color: #fcf8e3; border-left: 5px solid #8a6d3b; padding: 15px; margin: 20px 0;">
-    <strong style="color: #8a6d3b;"><i class="fa fa-graduation-cap"></i> 硕士招生:</strong> 27年还剩2个学硕和1个专硕名额，欢迎自荐或者推荐。 <br>
-    <strong>本科生科研:</strong> 长期招收大一/大二优秀本科生（需满足：以发表高水平论文为目的、不过分功利化、不追求短平快）。<br>
-    <strong>未来发展:</strong> 优秀本硕学生可推荐至阿里、华为等大厂实习，或国内外 Top 高校深造。
-</div>
+> 🎓 **硕士招生**
+> 2027级硕士研究生仍有 **2 个学硕名额** 和 **1 个专硕名额**，欢迎对大模型、图机器学习、数据挖掘等方向感兴趣的同学自荐或推荐。
+>
+> 🔬 **本科生科研**
+> 长期招收大一/大二优秀本科生参与科研训练。希望同学具备较强的主动性、学习能力和长期投入意愿，以产出高水平研究成果为目标，不追求短平快式科研。
+>
+> 🚀 **未来发展**
+> 表现优秀的本硕学生可推荐至阿里、华为等企业实习，也可支持申请国内外高水平高校继续深造。
+
 
 ---
 
