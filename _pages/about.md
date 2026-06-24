@@ -44,13 +44,13 @@ PS: CD/CS is Community Detection (i.e., Graph Clustering)/Community Search
 
 ## 💼 Work Experience
 
-* **Beijing Institute of Technology**, China  
-    *Visiting Scholar* | July 2024 - Sep 2024  
-    *Cooperated with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html)*
-
 * **Zhejiang Lab**, Hangzhou, China  
     *Research Fellow* | July 2023 - Sep 2023  
     *Cooperated with [Prof. Hai Jin](https://scholar.google.com/citations?hl=zh-CN&user=o02W0aEAAAAJ),[Prof. Yu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MoXtCckAAAAJ), and [Prof. Jin Zhao](https://zjin-hust.github.io/)*
+
+* **Beijing Institute of Technology**, China  
+    *Visiting Scholar* | July 2024 - Sep 2024  
+    *Cooperated with [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html)*
 
 ---
 
