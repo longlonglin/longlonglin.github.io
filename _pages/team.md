@@ -60,7 +60,7 @@ redirect_from:
     </ul>
   <span class="student-year">2021级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>廖梓妤 <span class="pub-tag">Entropy (中科院三区Top)(本科生)</span> <span class="destination">→ 保送重庆大学读硕士</span></li>
+      <li>廖梓妤 <span class="pub-tag">Entropy (中科院三区)(本科生)</span> <span class="destination">→ 保送重庆大学读硕士</span></li>
     </ul>
     
   </div>
