@@ -34,7 +34,7 @@ redirect_from:
 You can obtain the following conferences from their corresponding homepages or the [DBLP search engine](https://dblp.uni-trier.de/):
 
 <div>
-  <span class="venue-tag">SIGMOD</span> <span class="venue-tag">VLDB</span> <span class="venue-tag">ICDE</span> <span class="venue-tag">SIGKDD</span> <span class="venue-tag">SIGIR</span> <span class="venue-tag">WWW</span> <span class="venue-tag">NeurIPS</span> <span class="venue-tag">ICLR</span> <span class="venue-tag">ICML</span> <span class="venue-tag">ACM MM</span> <span class="venue-tag">AAAI</span>
+  <span class="venue-tag">SIGMOD</span> <span class="venue-tag">VLDB</span> <span class="venue-tag">ICDE</span> <span class="venue-tag">SIGKDD</span> <span class="venue-tag">SIGIR</span> <span class="venue-tag">WWW</span> <span class="venue-tag">NeurIPS (2026年及之后的不要看)</span> <span class="venue-tag">ICLR</span> <span class="venue-tag">ICML</span> <span class="venue-tag">ACM MM</span> <span class="venue-tag">AAAI</span>
 </div>
 
 <div class="advice-box">
