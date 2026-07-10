@@ -204,6 +204,25 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     </details>
   </li>
 
+
+  <li>
+    <span class="pub-id"></span>
+    <span class="author-self">Yihan Wang, Longlong Lin</span>, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <details style="display: inline-block;">
+      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
+      <div class="bib-container"><pre>{% raw %}@inproceedings{LNAHC,
+  title={LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut},
+  author={Yihan Wang, Longlong Lin, Jin Zhao, Zeli Wang},
+  booktitle={ACM MM},
+  year={2026}
+}{% endraw %}</pre></div>
+    </details>
+  </li>
+
+
+
+
   <li>
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Youan Zhang, Zeli Wang, Xin Luo. Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer. KDD, 2026.
