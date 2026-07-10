@@ -207,7 +207,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    <span class="author-self">Yihan Wang, Longlong Lin</span>, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
+  Yihan Wang,   <span class="author-self">Longlong Lin</span>, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
