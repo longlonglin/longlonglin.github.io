@@ -12,7 +12,8 @@ redirect_from:
 
 # 👨‍🏫 About Me
 
-Longlong Lin is an **Associate Professor** at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received his Ph.D. from Huazhong University of Science and Technology (HUST) in 2022, affiliated with [Prof. Hai Jin](https://scholar.google.com/citations?hl=zh-CN&user=o02W0aEAAAAJ)'s research team and supervised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Since 2018, he has been co-supervised by [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His research results are regularly published in top-tier venues (CCF-A), including **SIGMOD, VLDB, ICDE, KDD, WWW, TKDE, AAAI, PPoPP, ASPLOS, and DAC**.
+Longlong Lin is an **Associate Professor** at [Southwest University](http://cis.swu.edu.cn/info/1014/2195.htm). He received his Ph.D. from Huazhong University of Science and Technology (HUST) in 2022, affiliated with [Prof. Hai Jin](https://scholar.google.com/citations?hl=zh-CN&user=o02W0aEAAAAJ)'s research team and supervised by [Prof. Pingpeng Yuan](http://faculty.hust.edu.cn/ppyuan/zh_CN/index/1624441/list/index.htm) and [Prof. Dongxiao Yu](https://www.cs.sdu.edu.cn/info/1070/5367.htm). Since 2018, he has been co-supervised by [Prof. Rong-Hua Li](https://ronghuali.github.io/ronghuali.html) from Beijing Institute of Technology. His research results have been regularly published in top-tier CCF-A venues across multiple areas, including data management and databases (**SIGMOD, VLDB, ICDE, TKDE**), data mining and artificial intelligence (**KDD, WWW, AAAI, ACM MM**), and computer systems and architecture (**PPoPP, ASPLOS, DAC**).
+
 
 > 📧 **Open for Collaboration**: If you are interested in collaborating or would like to have a chat, please feel free to [email me](mailto:longlonglin@swu.edu.cn).
 
