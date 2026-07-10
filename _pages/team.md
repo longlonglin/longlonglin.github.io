@@ -35,26 +35,29 @@ redirect_from:
   </div>
 -->
 
-
+  <div>
+    <span class="student-year">2025级</span> 
+    王奕涵 <span class="pub-tag">ACM MM (CCF-A会议)</span>
+  </div>
 
   <div>
     <span class="student-year">2024级</span> 
-    张佑安 <span class="pub-tag">KDD (CCF-A)</span>
+    张佑安 <span class="pub-tag">KDD (CCF-A会议)</span>
   </div>
 
   <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2023级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>欧熙 <span class="pub-tag">TKDE (CCF-A)</span> <span class="destination">→ 厦门大学读博士</span></li>
-      <li>李泉澳 <span class="pub-tag">TKDE (CCF-A)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
+      <li>欧熙 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 厦门大学读博士</span></li>
+      <li>李泉澳 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
        <li>陈智轩 <span class="pub-tag">TII (中科院一区Top) (本科生)</span> <span class="destination">→ xxxxx</span></li>
       <li>瞿佳亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ xxxxx</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
-      <li>余云丰 <span class="pub-tag">CIKM (CCF-B)</span> <span class="pub-tag">ICMR (CCF-B)</span> <span class="destination">→ 中国工商银行 (重庆)</span></li>
+      <li>余云丰 <span class="pub-tag">CIKM (CCF-B会议)</span> <span class="pub-tag">ICMR (CCF-B会议)</span> <span class="destination">→ 中国工商银行 (重庆)</span></li>
       <li>何越 <span class="pub-tag">TBD (中科院二区)</span> <span class="pub-tag">ESWA (中科院一区Top)</span> <span class="destination">→ 中国农业银行 (绵阳)</span></li>
-      <li>刘韬 <span class="pub-tag">ICMR (CCF-B) (本科生)</span> <span class="destination">→ 保送东南大学读硕士</span></li>
+      <li>刘韬 <span class="pub-tag">ICMR (CCF-B会议) (本科生)</span> <span class="destination">→ 保送东南大学读硕士</span></li>
       <li>周嘉喻 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ 保送深圳大学读硕士</span></li>
       <li>叶知秋 <span class="pub-tag">ESWA (中科院一区Top) (本科生)</span> <span class="destination">→ 中国移动 (贵阳)</span></li>
     </ul>
