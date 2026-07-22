@@ -26,12 +26,12 @@ redirect_from:
 <!--
   <div>
     <span class="student-year">2025级</span> 
-    邓海棋、何宣伟、王奕涵
+    邓海棋、何宣伟
   </div>
 
   <div>
     <span class="student-year">2024级</span> 
-    陈为、李明鑫、张佑安
+    陈为、李明鑫
   </div>
 -->
 
@@ -76,6 +76,23 @@ redirect_from:
 
 <div class="award-list" style="margin-top: 20px;">
 
+
+  <div class="award-item">
+    <span class="award-year">2026</span> 
+    <strong>重庆市本科生优秀毕业论文</strong> - 周嘉喻 <br>
+    <small>《子图引导的PPR增强与超图建模图神经网络方法》</small>
+       <strong>重庆市本科生优秀毕业论文</strong> - 叶知秋 <br>
+    <small>《基于属性去偏的图神经网络防御方法》</small>
+         <strong>西南大学优秀硕士生毕业论文</strong> - 李泉澳 <br>
+    <small>《基于高阶切分的属性图社区挖掘算法研究与应用》</small>
+  </div>
+
+  <div class="award-item">
+    <span class="award-year">2026</span> 
+    <strong>华为ICT大赛中国总决赛</strong> - 二等级 <br>
+    <small>刘欣雨</small>
+  </div>
+
   <div class="award-item">
     <span class="award-year">2025</span> 
     <strong>亚太地区大学生数学建模竞赛</strong> - Second Prize <br>
@@ -114,7 +131,7 @@ redirect_from:
 
   <div class="award-item">
     <span class="award-year">2024</span> 
-    <strong>本科生优秀毕业论文</strong> - 张弛 <br>
+    <strong>西南大学本科生优秀毕业论文</strong> - 张弛 <br>
     <small>《基于Web的学生社团管理系统设计与实现》</small>
   </div>
 
