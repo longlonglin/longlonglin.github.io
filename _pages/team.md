@@ -69,7 +69,7 @@ redirect_from:
 
   <div class="award-item">
     <span class="award-year">2026</span> 
-    <strong>西南大学优秀硕士生毕业论文</strong>  <br>
+    <strong>西南大学硕士生优秀毕业论文</strong>  <br>
     <small>李泉澳《基于高阶切分的属性图社区挖掘算法研究与应用》</small>
   </div>
 
