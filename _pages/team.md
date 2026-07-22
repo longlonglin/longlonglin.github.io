@@ -23,17 +23,7 @@ redirect_from:
 
 <div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
   
-<!--
-  <div>
-    <span class="student-year">2025级</span> 
-    邓海棋、何宣伟
-  </div>
 
-  <div>
-    <span class="student-year">2024级</span> 
-    陈为、李明鑫
-  </div>
--->
 
   <div>
     <span class="student-year">2025级</span> 
@@ -51,7 +41,7 @@ redirect_from:
       <li>欧熙 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 厦门大学读博士</span></li>
       <li>李泉澳 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
        <li>陈智轩 <span class="pub-tag">TII (中科院一区Top) (本科生)</span> <span class="destination">→ xxxxx</span></li>
-      <li>瞿佳亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ xxxxx</span></li>
+      <li>瞿嘉亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ xxxxx</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
@@ -79,24 +69,20 @@ redirect_from:
 
   <div class="award-item">
     <span class="award-year">2026</span> 
-    <strong>重庆市本科生优秀毕业论文</strong> - 周嘉喻 <br>
-    <small>《子图引导的PPR增强与超图建模图神经网络方法》</small>
-       <strong>重庆市本科生优秀毕业论文</strong> - 叶知秋 <br>
-    <small>《基于属性去偏的图神经网络防御方法》</small>
-         <strong>西南大学优秀硕士生毕业论文</strong> - 李泉澳 <br>
-    <small>《基于高阶切分的属性图社区挖掘算法研究与应用》</small>
+    <strong>西南大学优秀硕士生毕业论文</strong>  <br>
+    <small>李泉澳《基于高阶切分的属性图社区挖掘算法研究与应用》</small>
   </div>
 
   <div class="award-item">
     <span class="award-year">2026</span> 
-    <strong>华为ICT大赛中国总决赛</strong> - 二等级 <br>
-    <small>刘欣雨</small>
+    <strong>重庆市本科生优秀毕业论文</strong>  <br>
+    <small>组1:: 周嘉喻《子图引导的PPR增强与超图建模图神经网络方法》| 组2: 叶知秋《基于属性去偏的图神经网络防御方法》</small>
   </div>
 
   <div class="award-item">
-    <span class="award-year">2025</span> 
-    <strong>亚太地区大学生数学建模竞赛</strong> - Second Prize <br>
-    <small>Yunchu Zhang, Weiqian Yuan, Sijing Peng</small>
+    <span class="award-year">2026</span> 
+    <strong>华为ICT大赛中国总决赛</strong> - 全国二等奖 <br>
+    <small>刘欣雨</small>
   </div>
 
   <div class="award-item">
@@ -119,7 +105,7 @@ redirect_from:
 
   <div class="award-item">
     <span class="award-year">2024</span> 
-    <strong>全国大学生数学建模竞赛</strong> - 重庆二等奖 <br>
+    <strong>全国大学生数学建模竞赛</strong> - 重庆市二等奖 <br>
     <small>组1：瞿嘉亿、刘宏铭、王博中 | 组2：刘韬、皮文浩、官家浩</small>
   </div>
 
