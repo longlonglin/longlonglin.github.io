@@ -76,7 +76,7 @@ redirect_from:
   <div class="award-item">
     <span class="award-year">2026</span> 
     <strong>重庆市本科生优秀毕业论文</strong>  <br>
-    <small>组1:: 周嘉喻《子图引导的PPR增强与超图建模图神经网络方法》| 组2: 叶知秋《基于属性去偏的图神经网络防御方法》</small>
+    <small>组1: 周嘉喻《子图引导的PPR增强与超图建模图神经网络方法》| 组2: 叶知秋《基于属性去偏的图神经网络防御方法》</small>
   </div>
 
   <div class="award-item">
