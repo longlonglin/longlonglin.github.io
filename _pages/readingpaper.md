@@ -57,7 +57,8 @@ You can obtain the following conferences from their corresponding homepages or t
 | **Xinwang Liu** | NUDT | Graph Clustering | [🔗 Visit](https://xinwangliu.github.io/){: .link-btn } |
 | **Feiping Nie** | NPU | Graph Clustering | [🔗 Visit](https://dblp.org/pid/80/5755.html){: .link-btn } |
 | **Xuelong Li** | NPU | Graph Clustering | [🔗 Visit](https://dblp.org/pid/l/XuelongLi.html){: .link-btn } |
-| **Dongqi Fu** | UIUC | Higher-order Clustering | [🔗 Visit](https://dongqifu.github.io/){: .link-btn } |
+| **Zhao Kang** | UESTC | Graph Clustering | [🔗 Visit](https://sites.google.com/site/zhaokanghomepage/home?authuser=0){: .link-btn } |
+| **Qianqian Wang** | Xidian University | Graph Clustering | [🔗 Visit](https://scholar.google.com/citations?user=oyF9CYwAAAAJ&hl=zh-CN){: .link-btn } |
 | **Nate Veldt** | Texas A&M University | Hypergraph Clustering <span class="theory-badge">Theory</span> | [🔗 Visit](https://veldt.engr.tamu.edu/){: .link-btn } |
 | **dgleich** | Purdue University | Local Clustering <span class="theory-badge">Theory</span> | [🔗 Visit](https://www.cs.purdue.edu/homes/dgleich/){: .link-btn } |
 | **Kimon Fountoulakis** | University of Waterloo | Local Clustering <span class="theory-badge">Theory</span> | [🔗 Visit](https://opallab.ca/publications/){: .link-btn } |
@@ -83,7 +84,6 @@ You can obtain the following conferences from their corresponding homepages or t
 | **Jinhong Jung** | Jeonbuk National University | PPR | [🔗 Visit](https://jinhongjung.github.io/){: .link-btn } |
 | **Zhewei Wei** | RUC | PPR and GNN | [🔗 Visit](https://weizhewei.com/){: .link-btn } |
 | **Ronghua Li** | BIT | PPR and GNN | [🔗 Visit](https://ronghuali.github.io/){: .link-btn } |
-| **Dongqi Fu** | UIUC | PPR and GNN | [🔗 Visit](https://dongqifu.github.io/){: .link-btn } |
 
 <br>
 
