@@ -93,6 +93,7 @@ ps: 希望同学具备较强的主动性和学习能力，不接受躺平和平�
 * IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 * Pattern Recognition (**PR**)
 * Information Fusion (**Inf. Fusion**)
+* Information Sciences (**Inf Sci**)
 * Information Processing & Management (**IPM**)
 * Knowledge-Based Systems (**KBS**)
 * Expert Systems with Applications (**ESWA**)
