@@ -110,15 +110,17 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Zhixuan Chen (本科生), Xinyu Liu, <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
     <span class="badge badge-cas1">中科院一区</span>
-    <span class="badge badge-info">ACCEPT</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{chen2026effective,
-  title={Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification},
-  author={Chen, Zhixuan and Liu, Xinyu and Lin, Longlong and Jia, Tao},
-  journal={IEEE Transactions on Industrial Informatics},
-  year={2026},
-  publisher={IEEE}
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tii/ChenLLJ26,
+  author  = {Zhixuan Chen and Xinyu Liu and Longlong Lin and Tao Jia},
+  title   = {Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification},
+  journal = {IEEE Transactions on Industrial Informatics},
+  volume  = {22},
+  number  = {8},
+  pages   = {7417--7428},
+  year    = {2026},
+  doi     = {10.1109/TII.2026.3686195}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -129,14 +131,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A期刊</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@ARTICLE{11450516,
-  author={Ou, Xi and Lin, Longlong and Wang, Zeli and Yuan, Pingpeng and Li, Rong-Hua},
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={Scalable Similarity Search Over Large Attributed Bipartite Graphs}, 
-  year={2026},
-  volume={38},
-  number={5},
-  pages={3080-3094}
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tkde/OuLWYL26,
+  author  = {Xi Ou and Longlong Lin and Zeli Wang and Pingpeng Yuan and Rong-Hua Li},
+  title   = {Scalable Similarity Search Over Large Attributed Bipartite Graphs},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume  = {38},
+  number  = {5},
+  pages   = {3080--3094},
+  year    = {2026},
+  doi     = {10.1109/TKDE.2026.3676380}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -157,14 +160,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{JAS-2024-1582,
-  author={Longlong Lin and Xin Luo},
-  title={Dual Channel Graph Convolutional Networks via Personalized PageRank},
-  journal={IEEE/CAA Journal of Automatica Sinica}, 
-  volume={13},  
-  number={1},
-  pages={221-223},
-  year={2026},
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/ieeejas/LinL26,
+  author  = {Longlong Lin and Xin Luo},
+  title   = {Dual Channel Graph Convolutional Networks via Personalized PageRank},
+  journal = {IEEE/CAA Journal of Automatica Sinica},
+  volume  = {13},
+  number  = {1},
+  pages   = {221--223},
+  year    = {2026},
+  doi     = {10.1109/JAS.2025.125492}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -175,13 +179,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{WANG2026131587,
-  title = {GFork: A gated fusion network on multi-granularity heterogeneous pruning graphs for effective text classification},
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/eswa/WangGLW26,
+  author  = {Zeli Wang and Yifan Guan and Longlong Lin and Guoyin Wang},
+  title   = {GFork: A Gated Fusion Network on Multi-Granularity Heterogeneous Pruning Graphs for Effective Text Classification},
   journal = {Expert Systems with Applications},
-  volume = {313},
-  pages = {131587},
-  year = {2026},
-  author = {Zeli Wang and Yifan Guan and Longlong Lin and Guoyin Wang},
+  volume  = {313},
+  pages   = {131587},
+  year    = {2026},
+  doi     = {10.1016/j.eswa.2026.131587}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -192,15 +197,16 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge">中科院2区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@ARTICLE{11300948,
-  author={Wang, Zeli and Pu, Tianhao and Xia, Shuyin and Lin, Longlong and Liu, Linpin and Wang, Guoyin},
-  journal={IEEE Transactions on Big Data}, 
-  title={GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution}, 
-  year={2025},
-  volume={12},
-  number={3},
-  pages={1-12}
-        }{% endraw %}</pre></div>
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tbd/WangPXLLW26,
+  author  = {Zeli Wang and Tianhao Pu and Shuyin Xia and Longlong Lin and Linpin Liu and Guoyin Wang},
+  title   = {GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution},
+  journal = {IEEE Transactions on Big Data},
+  volume  = {12},
+  number  = {3},
+  pages   = {843--854},
+  year    = {2026},
+  doi     = {10.1109/TBDATA.2025.3644670}
+}{% endraw %}</pre></div>
     </details>
   </li>
 
@@ -209,15 +215,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
   Yihan Wang,   <span class="author-self">Longlong Lin</span>, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{LNAHC,
-  title={LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut},
-  author={Yihan Wang, Longlong Lin, Jin Zhao, Zeli Wang},
-  booktitle={ACM MM},
-  year={2026}
-}{% endraw %}</pre></div>
-    </details>
+    <span class="badge badge-info">ACCEPT</span>
   </li>
 
 
@@ -227,15 +225,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Youan Zhang, Zeli Wang, Xin Luo. Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer. KDD, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{lin2026simple,
-  title={Simple yet Effective Diffusion-based Graph Data Augmentation via Complementary Diffusion Transfer},
-  author={Lin, Longlong and Zhang, Youan and Wang, Zeli and Luo, Xin},
-  booktitle={KDD},
-  year={2026}
-}{% endraw %}</pre></div>
-    </details>
+    <span class="badge badge-info">ACCEPT</span>
   </li>
 
   <li>
@@ -244,12 +234,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{10.1145/3774904.3792116,
-  author = {Lin, Longlong and Wang, Zeli and Li, Rong-Hua and Dai, Xiaohai and Ni, Li and Zhao, Jin},
-  title = {Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches},
-  year = {2026},
-  booktitle = {WWW},
-  pages = {559–570},
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/www/LinWLDNZ26,
+  author    = {Longlong Lin and Zeli Wang and Rong-Hua Li and Xiaohai Dai and Li Ni and Jin Zhao},
+  title     = {Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-Based Approaches},
+  booktitle = {Proceedings of the ACM Web Conference 2026},
+  pages     = {559--570},
+  publisher = {ACM},
+  year      = {2026},
+  doi       = {10.1145/3774904.3792116}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -262,11 +254,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{ni2026cahc,
-  title={From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
-  author={Ni, Li and Zeng, Shuaikang and Mu, Lin and Lin, Longlong},
-  booktitle={WWW},
-  year={2026}
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/www/NiZML26,
+  author    = {Li Ni and Shuaikang Zeng and Lin Mu and Longlong Lin},
+  title     = {From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering},
+  booktitle = {Proceedings of the ACM Web Conference 2026},
+  pages     = {1080--1091},
+  publisher = {ACM},
+  year      = {2026},
+  doi       = {10.1145/3774904.3792432}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -275,15 +270,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="pub-id"></span>
     Yinbo Hou, Hao Qi, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, <span class="author-self">Longlong Lin</span>, Wenbin Jiang, Xiaofei Liao, Hai Jin. A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion. DAC, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
-    <details style="display: inline-block;">
-      <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026locality,
-  title={A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion},
-  author={Hou, Yinbo and Qi, Hao and Zhao, Jin and Zhang, Yu and Lu, Yiling and Yu, Hui and Lin, Longlong and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
-  booktitle={Proceedings of the 63rd IEEE/ACM Design Automation Conference},
-  year={2026}
-}{% endraw %}</pre></div>
-    </details>
+    <span class="badge badge-info">ACCEPT</span>
   </li>
 
 
@@ -294,11 +281,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{hou2026dtminer,
-  title={DTMiner: A Data-centric System for Efficient Temporal Motif Mining},
-  author={Hou, Yinbo and Qi, Hao and He, Ligang and Zhao, Jin and Zhang, Yu and Yu, Hui and Lin, Longlong and Gu, Lin and Jiang, Wenbin and Liao, Xiaofei and Jin, Hai},
-  booktitle={Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming},
-  year={2026}
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/ppopp/Hou0H00YL00L026,
+  author    = {Yinbo Hou and Hao Qi and Ligang He and Jin Zhao and Yu Zhang and Hui Yu and Longlong Lin and Lin Gu and Wenbin Jiang and Xiaofei Liao and Hai Jin},
+  title     = {DTMiner: A Data-Centric System for Efficient Temporal Motif Mining},
+  booktitle = {Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming},
+  pages     = {591--604},
+  publisher = {ACM},
+  year      = {2026},
+  doi       = {10.1145/3774934.3786416}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -309,14 +299,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A期刊</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@ARTICLE{11237000,
-  author={Jiang, Jiaqi and Li, Rong-Hua and Lin, Longlong and Zhang, Yalong and Zeng, Yue and Ye, Xiaowei and Wang, Guoren},
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={Pseudoarboricity-Based Skyline Important Community Search in Large Networks}, 
-  year={2026},
-  volume={38},
-  number={2},
-  pages={1264-1279},
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tkde/JiangLLZZYW26,
+  author  = {Jiaqi Jiang and Rong-Hua Li and Longlong Lin and Yalong Zhang and Yue Zeng and Xiaowei Ye and Guoren Wang},
+  title   = {Pseudoarboricity-Based Skyline Important Community Search in Large Networks},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume  = {38},
+  number  = {2},
+  pages   = {1264--1279},
+  year    = {2026},
+  doi     = {10.1109/TKDE.2025.3631112}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -327,11 +318,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{yang2026theoretically,
-  title={Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs},
-  author={Yang, Yichun and Lin, Longlong and Li, Rong-Hua and Liao, Meihao and Wang, Guoren},
-  booktitle={VLDB},
-  year={2026}
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/YangLLLW26,
+  author  = {Yichun Yang and Longlong Lin and Rong-Hua Li and Meihao Liao and Guoren Wang},
+  title   = {Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs},
+  journal = {Proceedings of the VLDB Endowment},
+  volume  = {19},
+  number  = {8},
+  pages   = {1688--1700},
+  year    = {2026}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -342,14 +336,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{zhou2025one,
-  title={One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor},
-  author={Zhou, Junjie and Liao, Meihao and Li, Rong-Hua and Lin, Longlong and Wang, Guoren},
-  journal={Proceedings of the ACM on Management of Data},
-  volume={3},
-  number={4},
-  pages={1--26},
-  year={2025}
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pacmmod/ZhouLLLW25,
+  author  = {Junjie Zhou and Meihao Liao and Rong-Hua Li and Longlong Lin and Guoren Wang},
+  title   = {One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor},
+  journal = {Proceedings of the ACM on Management of Data},
+  volume  = {3},
+  number  = {4},
+  pages   = {258:1--258:26},
+  year    = {2025},
+  doi     = {10.1145/3749176}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -364,14 +359,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A期刊</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@ARTICLE{11235568,
-  author={Lin, Longlong and Li, Quanao and Qiao, Miao and Wang, Zeli and Zhao, Jin and Li, Rong-Hua and Luo, Xin and Jia, Tao},
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={NCSAC: Effective Neural Community Search via Attribute-Augmented Conductance}, 
-  year={2026},
-  volume={38},
-  number={2},
-  pages={1221-1235},
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tkde/LinLQWZLLJ26,
+  author  = {Longlong Lin and Quanao Li and Miao Qiao and Zeli Wang and Jin Zhao and Rong-Hua Li and Xin Luo and Tao Jia},
+  title   = {NCSAC: Effective Neural Community Search via Attribute-Augmented Conductance},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume  = {38},
+  number  = {2},
+  pages   = {1221--1235},
+  year    = {2026},
+  doi     = {10.1109/TKDE.2025.3630626}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -383,12 +379,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/eswa/YeLLLW26,
-  author = {Zhiqiu Ye and Longlong Lin and Jie Li and Tao Liu and Zeli Wang},
-  title = {{GDBA:} Defending graph neural networks via attribute debiasing},
-  journal = {Expert Syst. Appl.},
-  volume = {296},
-  pages = {128983},
-  year = {2026}
+  author  = {Zhiqiu Ye and Longlong Lin and Jie Li and Tao Liu and Zeli Wang},
+  title   = {GDBA: Defending Graph Neural Networks via Attribute Debiasing},
+  journal = {Expert Systems with Applications},
+  volume  = {296},
+  pages   = {128983},
+  year    = {2026},
+  doi     = {10.1016/j.eswa.2025.128983}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -400,13 +397,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tbd/LinHCYLJ25,
-  author = {Longlong Lin and Yue He and Wei Chen and Pingpeng Yuan and Rong-Hua Li and Tao Jia},
-  title = {Effective and Efficient Conductance-Based Community Search at Billion Scale},
-  journal = {{IEEE} Trans. Big Data},
-  volume = {11},
-  number = {6},
-  pages = {3170--3184},
-  year = {2025},
+  author  = {Longlong Lin and Yue He and Wei Chen and Pingpeng Yuan and Rong-Hua Li and Tao Jia},
+  title   = {Effective and Efficient Conductance-Based Community Search at Billion Scale},
+  journal = {IEEE Transactions on Big Data},
+  volume  = {11},
+  number  = {6},
+  pages   = {3170--3184},
+  year    = {2025},
+  doi     = {10.1109/TBDATA.2025.3588028}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -418,13 +416,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tkde/LinWLLQZ25,
-  author = {Longlong Lin and Zeli Wang and Rong-Hua Li and Qiyu Liu and Hongchao Qin and Jin Zhao},
-  title = {Provable Higher-Order Graph Clustering: The Power of Peeling-Based Approaches},
-  journal = {{IEEE} Trans. Knowl. Data Eng.},
-  volume = {37},
-  number = {9},
-  pages = {5568--5583},
-  year = {2025},
+  author  = {Longlong Lin and Zeli Wang and Rong-Hua Li and Qiyu Liu and Hongchao Qin and Jin Zhao},
+  title   = {Provable Higher-Order Graph Clustering: The Power of Peeling-Based Approaches},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume  = {37},
+  number  = {9},
+  pages   = {5568--5583},
+  year    = {2025},
+  doi     = {10.1109/TKDE.2025.3579811}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -436,10 +435,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/mir/LiuLYOZY025,
-  author = {Tao Liu and Longlong Lin and Yunfeng Yu and Xi Ou and Youan Zhang and Zhiqiu Ye and Tao Jia},
-  title = {CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks},
-  booktitle = {ICMR},
-  year = {2025},
+  author    = {Tao Liu and Longlong Lin and Yunfeng Yu and Xi Ou and Youan Zhang and Zhiqiu Ye and Tao Jia},
+  title     = {CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks},
+  booktitle = {Proceedings of the 2025 International Conference on Multimedia Retrieval},
+  pages     = {851--860},
+  publisher = {ACM},
+  year      = {2025},
+  doi       = {10.1145/3731715.3733291}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -447,18 +449,19 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Yalong Zhang (本科生), Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Qi Zhang, Guoren Wang. Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025.
+    Yalong Zhang (本科生), Rong-Hua Li, <span class="author-self">Longlong Lin</span>, Qi Zhang, Lu Qin, Guoren Wang. Integral Densest Subgraph Search on Directed Graphs. SIGMOD, 2025.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pacmmod/ZhangLLZQW25,
-  author = {Yalong Zhang and Rong-Hua Li and Longlong Lin and Qi Zhang and Lu Qin and Guoren Wang},
-  title = {Integral Densest Subgraph Search on Directed Graphs},
-  journal = {Proc. {ACM} Manag. Data},
-  volume = {3},
-  number = {3},
-  pages = {176:1--176:26},
-  year = {2025}
+  author  = {Yalong Zhang and Rong-Hua Li and Longlong Lin and Qi Zhang and Lu Qin and Guoren Wang},
+  title   = {Integral Densest Subgraph Search on Directed Graphs},
+  journal = {Proceedings of the ACM on Management of Data},
+  volume  = {3},
+  number  = {3},
+  pages   = {176:1--176:26},
+  year    = {2025},
+  doi     = {10.1145/3725313}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -469,14 +472,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{qin2025truss,
-  title={Truss Decomposition in Hypergraphs},
-  author={Qin, Hongchao and Zeng, Guang and Li, Rong-Hua and Lin, Longlong and Yuan, Ye and Wang, Guoren},
-  journal={Proceedings of the VLDB Endowment},
-  volume={18},
-  number={7},
-  pages={2185--2197},
-  year={2025},
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/QinZLLYW25,
+  author  = {Hongchao Qin and Guang Zeng and Rong-Hua Li and Longlong Lin and Ye Yuan and Guoren Wang},
+  title   = {Truss Decomposition in Hypergraphs},
+  journal = {Proceedings of the VLDB Endowment},
+  volume  = {18},
+  number  = {7},
+  pages   = {2185--2197},
+  year    = {2025},
+  doi     = {10.14778/3734839.3734854}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -487,12 +491,15 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@article{liu2025learned,
-  title={Why Are Learned Indexes So Effective but Sometimes Ineffective?},
-  author={Liu, Qiyu and Han, Siyuan and Qi, Yanlin and Peng, Jingshu and Li, Jin and Lin, Longlong and Chen, Lei},
-  journal={Proceedings of the VLDB Endowment},
-  volume={18},
-  year={2025}
+      <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/LiuHQPLLC25,
+  author  = {Qiyu Liu and Siyuan Han and Yanlin Qi and Jingshu Peng and Jin Li and Longlong Lin and Lei Chen},
+  title   = {Why Are Learned Indexes So Effective but Sometimes Ineffective?},
+  journal = {Proceedings of the VLDB Endowment},
+  volume  = {18},
+  number  = {9},
+  pages   = {2886--2898},
+  year    = {2025},
+  doi     = {10.14778/3746405.3746415}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -504,11 +511,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/icde/LengZQLL25,
-  author = {Xiaoyu Leng and Guang Zeng and Hongchao Qin and Longlong Lin and Rong-Hua Li},
-  title = {On Temporal-Constraint Subgraph Matching},
-  booktitle = {ICDE},
-  pages = {2493--2506},
-  year = {2025},
+  author    = {Xiaoyu Leng and Guang Zeng and Hongchao Qin and Longlong Lin and Rong-Hua Li},
+  title     = {On Temporal-Constraint Subgraph Matching},
+  booktitle = {Proceedings of the 41st IEEE International Conference on Data Engineering},
+  pages     = {2493--2506},
+  publisher = {IEEE},
+  year      = {2025},
+  doi       = {10.1109/ICDE65448.2025.00188}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -519,11 +528,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{zhao2025tempgraph,
-  title={TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU},
-  author={Zhao, Jin and Wang, Qian and He, Ligang and Zhang, Yu and Di, Sheng and He, Bingsheng and Wang, Xinlei and Yu, Hui and Qi, Hao and Lin, Longlong and Yu, Linchen and Liao, Xiaofei and Jin, Hai},
-  booktitle={Proceedings of the 30th International Conference on Architectural Support for Programming Languages and Operating Systems},
-  year={2025}
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/asplos/0003WH0DHWY0LYL25,
+  author    = {Jin Zhao and Qian Wang and Ligang He and Yu Zhang and Sheng Di and Bingsheng He and Xinlei Wang and Hui Yu and Hao Qi and Longlong Lin and Linchen Yu and Xiaofei Liao and Hai Jin},
+  title     = {TempGraph: An Efficient Chain-Driven Temporal Graph Computing Framework on the GPU},
+  booktitle = {Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},
+  pages     = {230--246},
+  publisher = {ACM},
+  year      = {2025},
+  doi       = {10.1145/3676642.3736116}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -534,11 +546,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-ccfa">CCF-A会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
-      <div class="bib-container"><pre>{% raw %}@inproceedings{zhao2025datacentric,
-  title={A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree},
-  author={Zhao, Jin and Zhang, Yu and Huang, Jun and Yin, Weihang and Yu, Hui and Qi, Hao and Wang, Zixiao and Lin, Longlong and Liao, Xiaofei and Jin, Hai},
-  booktitle={Proceedings of the 62th ACM/IEEE Design Automation Conference},
-  year={2025}
+      <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/dac/ZhaoZHYYQWLLJ25,
+  author    = {Jin Zhao and Yu Zhang and Jun Huang and Weihang Yin and Hui Yu and Hao Qi and Zixiao Wang and Longlong Lin and Xiaofei Liao and Hai Jin},
+  title     = {A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree},
+  booktitle = {Proceedings of the 62nd ACM/IEEE Design Automation Conference},
+  pages     = {1--7},
+  publisher = {IEEE},
+  year      = {2025},
+  doi       = {10.1109/DAC63849.2025.11132959}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -554,13 +569,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/LinYLZQJJ24,
-  author = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Chun-Xue Zhu and Hongchao Qin and Hai Jin and Tao Jia},
-  title = {{QTCS:} Efficient Query-Centered Temporal Community Search},
-  journal = {Proc. {VLDB} Endow.},
-  volume = {17},
-  number = {6},
-  pages = {1187--1199},
-  year = {2024},
+  author  = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Chunxue Zhu and Hongchao Qin and Hai Jin and Tao Jia},
+  title   = {QTCS: Efficient Query-Centered Temporal Community Search},
+  journal = {Proceedings of the VLDB Endowment},
+  volume  = {17},
+  number  = {6},
+  pages   = {1187--1199},
+  year    = {2024},
+  doi     = {10.14778/3648160.3648163}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -572,11 +588,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/Lin0WZL24,
-  author = {Longlong Lin and Tao Jia and Zeli Wang and Jin Zhao and Rong-Hua Li},
-  title = {{PSMC:} Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering},
-  booktitle = {KDD},
-  pages = {1793--1803},
-  year = {2024},
+  author    = {Longlong Lin and Tao Jia and Zeli Wang and Jin Zhao and Rong-Hua Li},
+  title     = {PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering},
+  booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages     = {1793--1803},
+  publisher = {ACM},
+  year      = {2024},
+  doi       = {10.1145/3637528.3671666}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -589,11 +607,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/cikm/LinYWWZ0024,
-  author = {Longlong Lin and Yunfeng Yu and Zihao Wang and Zeli Wang and Yuying Zhao and Jin Zhao and Tao Jia},
-  title = {{PSNE:} Efficient Spectral Sparsification Algorithms for Scaling Network Embedding},
-  booktitle = {CIKM},
-  pages = {1420--1429},
-  year = {2024},
+  author    = {Longlong Lin and Yunfeng Yu and Zihao Wang and Zeli Wang and Yuying Zhao and Jin Zhao and Tao Jia},
+  title     = {PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages     = {1420--1429},
+  publisher = {ACM},
+  year      = {2024},
+  doi       = {10.1145/3627673.3679540}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -605,12 +625,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/eswa/HeLYLJW24,
-  author = {Yue He and Longlong Lin and Pingpeng Yuan and Ronghua Li and Tao Jia and Zeli Wang},
-  title = {{CCSS:} Towards conductance-based community search with size constraints},
-  journal = {Expert Syst. Appl.},
-  volume = {250},
-  pages = {123915},
-  year = {2024},
+  author  = {Yue He and Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Tao Jia and Zeli Wang},
+  title   = {CCSS: Towards Conductance-Based Community Search with Size Constraints},
+  journal = {Expert Systems with Applications},
+  volume  = {250},
+  pages   = {123915},
+  year    = {2024},
+  doi     = {10.1016/j.eswa.2024.123915}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -622,11 +643,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/mir/YuLLWOJ24,
-  author = {Yunfeng Yu and Longlong Lin and Qiyu Liu and Zeli Wang and Xi Ou and Tao Jia},
-  title = {{GSD-GNN:} Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks},
-  booktitle = {ICMR},
-  pages = {64--72},
-  year = {2024},
+  author    = {Yunfeng Yu and Longlong Lin and Qiyu Liu and Zeli Wang and Xi Ou and Tao Jia},
+  title     = {GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks},
+  booktitle = {Proceedings of the 2024 International Conference on Multimedia Retrieval},
+  pages     = {64--72},
+  publisher = {ACM},
+  year      = {2024},
+  doi       = {10.1145/3652583.3658051}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -638,13 +661,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/pvldb/MengLLLW24,
-  author = {Yuchen Meng and Ronghua Li and Longlong Lin and Xunkai Li and Guoren Wang},
-  title = {Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach},
-  journal = {Proc. {VLDB} Endow.},
-  volume = {17},
-  number = {13},
-  pages = {4760--4772},
-  year = {2024},
+  author  = {Yuchen Meng and Rong-Hua Li and Longlong Lin and Xunkai Li and Guoren Wang},
+  title   = {Topology-Preserving Graph Coarsening: An Elementary Collapse-Based Approach},
+  journal = {Proceedings of the VLDB Endowment},
+  volume  = {17},
+  number  = {13},
+  pages   = {4760--4772},
+  year    = {2024},
+  doi     = {10.14778/3704965.3704981}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -656,11 +680,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/kdd/YeLLLLW24,
-  author = {Xiaowei Ye and Rong-Hua Li and Lei Liang and Zhizhen Liu and Longlong Lin and Guoren Wang},
-  title = {Efficient and Effective Anchored Densest Subgraph Search: {A} Convex-programming based Approach},
-  booktitle = {KDD},
-  pages = {3907--3918},
-  year = {2024},
+  author    = {Xiaowei Ye and Rong-Hua Li and Lei Liang and Zhizhen Liu and Longlong Lin and Guoren Wang},
+  title     = {Efficient and Effective Anchored Densest Subgraph Search: A Convex-Programming Based Approach},
+  booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages     = {3907--3918},
+  publisher = {ACM},
+  year      = {2024},
+  doi       = {10.1145/3637528.3671727}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -676,11 +702,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@inproceedings{DBLP:conf/aaai/LinLJ23,
-  author = {Longlong Lin and Ronghua Li and Tao Jia},
-  title = {Scalable and Effective Conductance-Based Graph Clustering},
-  booktitle = {AAAI},
-  pages = {4471--4478},
-  year = {2023},
+  author    = {Longlong Lin and Rong-Hua Li and Tao Jia},
+  title     = {Scalable and Effective Conductance-Based Graph Clustering},
+  booktitle = {Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence},
+  pages     = {4471--4478},
+  publisher = {AAAI Press},
+  year      = {2023},
+  doi       = {10.1609/AAAI.V37I4.25568}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -695,13 +723,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tsmc/LinYLWLJ22,
-  author = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Jifei Wang and Ling Liu and Hai Jin},
-  title = {Mining Stable Quasi-Cliques on Temporal Networks},
-  journal = {{IEEE} Trans. Syst. Man Cybern. Syst.},
-  volume = {52},
-  number = {6},
-  pages = {3731--3745},
-  year = {2022},
+  author  = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Jifei Wang and Ling Liu and Hai Jin},
+  title   = {Mining Stable Quasi-Cliques on Temporal Networks},
+  journal = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  volume  = {52},
+  number  = {6},
+  pages   = {3731--3745},
+  year    = {2022},
+  doi     = {10.1109/TSMC.2021.3071721}
 }{% endraw %}</pre></div>
     </details>
   </li>
@@ -713,13 +742,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
       <div class="bib-container"><pre>{% raw %}@article{DBLP:journals/tbd/LinYLJ22,
-  author = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Hai Jin},
-  title = {Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks},
-  journal = {{IEEE} Trans. Big Data},
-  volume = {8},
-  number = {6},
-  pages = {1537--1549},
-  year = {2022},
+  author  = {Longlong Lin and Pingpeng Yuan and Rong-Hua Li and Hai Jin},
+  title   = {Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks},
+  journal = {IEEE Transactions on Big Data},
+  volume  = {8},
+  number  = {6},
+  pages   = {1537--1549},
+  year    = {2022},
+  doi     = {10.1109/TBDATA.2021.3058294}
 }{% endraw %}</pre></div>
     </details>
   </li>
