@@ -39,7 +39,7 @@ redirect_from:
     <span class="student-year">2023级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
       <li>欧熙 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 厦门大学读博士</span></li>
-      <li>李泉澳 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
+      <li>李泉澳 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="pub-tag">ICDE (CCF-A会议)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
        <li>陈智轩 <span class="pub-tag">TII (中科院一区Top) (本科生)</span> <span class="destination">→ xxxxx</span></li>
       <li>瞿嘉亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ xxxxx</span></li>
     </ul>
