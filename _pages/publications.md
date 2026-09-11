@@ -112,7 +112,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
 
-
+</ul>
 
 <h3 class="year-title">2026</h3>
 <ul class="pub-list">
