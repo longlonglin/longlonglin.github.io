@@ -111,6 +111,14 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-info">ACCEPT</span>
   </li>
 
+ <li>
+    <span class="pub-id"></span>
+  Junjie Zhou, Rong-Hua Li,  <span class="author-self">Longlong Lin</span>, Yichun Yang, Meihao Liao, Guoren Wang. Efficient Personalized PageRank Computation for Arbitrary Damping Factors: A Gradient-Based Approach. SIGMOD, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
+
+
 
 </ul>
 
