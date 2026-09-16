@@ -61,6 +61,7 @@ ps: 希望同学具备较强的主动性和学习能力，不接受躺平和平�
 
 ### 🏅 Honors
 * **Outstanding Reviewer** at [KDD 2025](https://kdd.org/kdd2025/research-track-program-committee/)
+* **CCF Senior Member** 
 
 ### 🎤 Chairs
 * **Session Chair**: KDD 2024, KDD 2025, WWW 2026
