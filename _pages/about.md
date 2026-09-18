@@ -61,10 +61,11 @@ ps: 希望同学具备较强的主动性和学习能力，不接受躺平和平�
 
 ### 🏅 Honors
 * **Outstanding Reviewer** at [KDD 2025](https://kdd.org/kdd2025/research-track-program-committee/)
-* **CCF Senior Member** 
+* **CCF Senior Member**
+* **ACM Life Member and CAAI Life Member**
 
 ### 🎤 Chairs
-* **Session Chair**: KDD 2024, KDD 2025, WWW 2026
+* **Session Chair**: KDD 2024, KDD 2025, WWW 2026, [WISA 2026](https://ccf.org.cn/WISA2026/schedule_d_3011)
 * **Publicity Chair**: The 21st [IEEE GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/) and  The 23rd  [IEEE ICNSC 2026](https://cis.swu.edu.cn/ICNSC2026/#committees)
 
 ### 📝 Professional Reviewing Services
