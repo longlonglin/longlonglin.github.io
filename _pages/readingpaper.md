@@ -34,8 +34,22 @@ redirect_from:
 You can obtain the following conferences from their corresponding homepages or the [DBLP search engine](https://dblp.uni-trier.de/):
 
 <div>
-  <span class="venue-tag">SIGMOD</span> <span class="venue-tag">VLDB</span> <span class="venue-tag">ICDE</span> <span class="venue-tag">SIGKDD</span> <span class="venue-tag">SIGIR</span> <span class="venue-tag">WWW</span> <span class="venue-tag">NeurIPS (2026年及之后的不要看)</span> <span class="venue-tag">ICLR</span> <span class="venue-tag">ICML</span> <span class="venue-tag">ACM MM</span> <span class="venue-tag">AAAI</span>
+<span class="venue-tag">SIGMOD（1 / 4 / 7 / 10月，四轮）</span>
+<span class="venue-tag">VLDB（每月1日，滚动投稿）</span>
+<span class="venue-tag">ICDE（6月 / 10月，两轮）</span>
+<span class="venue-tag">SIGKDD（7月 / 2月，两轮）</span>
+<span class="venue-tag">SIGIR（1月）</span>
+<span class="venue-tag">WWW（10月）</span>
+<span class="venue-tag">NeurIPS（5月，2026年及以后的暂时不看）</span>
+<span class="venue-tag">ICLR（9月）</span>
+<span class="venue-tag">ICML（1月）</span>
+<span class="venue-tag">ACM MM（3月底–4月初）</span>
+<span class="venue-tag">AAAI（7月底–8月初）</span>
+<span class="venue-tag">ACL（1月左右，ARR投稿）</span>
+详细投稿截止日期请参考 [CCF DDL](https://ccfddl.com/)
 </div>
+
+
 
 <div class="advice-box">
   <div class="advice-title">💡 导师寄语 (General Advice)</div>
@@ -47,7 +61,7 @@ You can obtain the following conferences from their corresponding homepages or t
 
 ---
 
-## 📌 Graph Clustering
+## 📌 Graph Clustering ([我们整理了一个仓库供大家参考](https://github.com/liangqi-L/Awesome-Clustering-Research）)
 
 <div class="section-desc">👨‍🎓 适合群体：本科生和硕士研究生。 标记 <span class="theory-badge">Theory</span> 表示该作者的研究偏向理论基础，硬核且非常有趣。</div>
 
