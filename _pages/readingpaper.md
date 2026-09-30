@@ -40,13 +40,13 @@ You can obtain the following conferences from their corresponding homepages or t
 <span class="venue-tag">SIGKDD（7月 / 2月，两轮）</span>
 <span class="venue-tag">SIGIR（1月）</span>
 <span class="venue-tag">WWW（10月）</span>
-<span class="venue-tag">NeurIPS（5月，2026年及以后的暂时不看）</span>
+<span class="venue-tag">NeurIPS（5月,>=2026的暂时不看）</span>
 <span class="venue-tag">ICLR（9月）</span>
 <span class="venue-tag">ICML（1月）</span>
 <span class="venue-tag">ACM MM（3月底–4月初）</span>
 <span class="venue-tag">AAAI（7月底–8月初）</span>
-<span class="venue-tag">ACL（1月左右，ARR投稿）</span>
-详细投稿截止日期请参考 [CCF DDL](https://ccfddl.com/)
+<span class="venue-tag">ACL（1月左右,ARR投稿）</span>
+详细投稿截止日期请参考https://ccfddl.com/
 </div>
 
 
