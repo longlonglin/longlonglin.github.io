@@ -61,7 +61,7 @@ You can obtain the following conferences from their corresponding homepages or t
 
 ---
 
-## 📌 Graph Clustering ([我们整理了一个仓库供大家参考](https://github.com/liangqi-L/Awesome-Clustering-Research）)
+## 📌 Graph Clustering ([我们整理了一个仓库供大家参考](https://github.com/liangqi-L/Awesome-Clustering-Research))
 
 <div class="section-desc">👨‍🎓 适合群体：本科生和硕士研究生。 标记 <span class="theory-badge">Theory</span> 表示该作者的研究偏向理论基础，硬核且非常有趣。</div>
 
