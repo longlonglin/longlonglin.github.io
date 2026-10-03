@@ -87,6 +87,7 @@ ps: 希望同学具备较强的主动性和学习能力，不接受躺平和平�
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 * IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
 * ACM Transactions on Information Systems (**TOIS**)
+* IEEE Transactions on Multimedia (**TMM**)
 * ACM Computing Surveys (**CSUR**)
 * IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 * ACM Transactions on Knowledge Discovery from Data (**TKDD**)
