@@ -98,7 +98,7 @@ author_profile: true
 </style>
 
 ## Selected Publications 
-A full list of publications can be found at [<i class="fa fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN).
+A full list of publications can be found at [<i class="fa fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=TgqGrv3_ytYC&hl=zh-CN). * denotes the corresponding author
 
 
 <h3 class="year-title">2027</h3>
@@ -106,7 +106,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-  Quanao Li,  <span class="author-self">Longlong Lin</span>, Zeli Wang, Li Ni, Jin Zhao, Ruikun Luo, Rong-Hua Li. HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering. ICDE, 2027.
+  Quanao Li,  <span class="author-self">Longlong Lin</span>*, Zeli Wang, Li Ni, Jin Zhao, Ruikun Luo, Rong-Hua Li. HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering. ICDE, 2027.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <span class="badge badge-info">ACCEPT</span>
   </li>
