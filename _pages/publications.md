@@ -130,7 +130,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zhixuan Chen (本科生), Xinyu Liu (本科生), <span class="author-self">Longlong Lin</span>, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
+    Zhixuan Chen (本科生), Xinyu Liu (本科生), <span class="author-self">Longlong Lin</span>*, Tao Jia. Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification. IEEE TII, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -149,7 +149,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Xi Ou, <span class="author-self">Longlong Lin</span>, Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE TKDE, 2026.
+    Xi Ou, <span class="author-self">Longlong Lin</span>*, Zeli Wang, Pingpeng Yuan, Rong-Hua Li. Scalable Similarity Search over Large Attributed Bipartite Graphs. IEEE TKDE, 2026.
     <span class="badge badge-ccfa">CCF-A期刊</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -168,7 +168,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zeli Wang, Jie Li, Zhiqiu Ye, <span class="author-self">Longlong Lin</span>, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA JAS, 2026.
+    Zeli Wang, Jie Li, Zhiqiu Ye, <span class="author-self">Longlong Lin</span>*, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA JAS, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <span class="badge badge-info">ACCEPT</span>
   </li>
@@ -197,7 +197,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zeli Wang, Yifan Guan, <span class="author-self">Longlong Lin</span>, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026.
+    Zeli Wang, Yifan Guan, <span class="author-self">Longlong Lin</span>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications, 2026.
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -215,7 +215,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2026.
+    Zeli Wang, Tianhao Pu, Shuyin Xia, <span class="author-self">Longlong Lin</span>*, Linpin Liu, Guoyin Wang. GBDE: Granular-ball Textual Adversarial Attacks with Differential Evolution. IEEE Transactions on Big Data, 2026.
     <span class="badge">中科院2区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -235,7 +235,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-  Yihan Wang,   <span class="author-self">Longlong Lin</span>, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
+  Yihan Wang,   <span class="author-self">Longlong Lin</span>*, Jin Zhao, Zeli Wang. LNAHC: Lightweight Neural Attributed Hypergraph Clustering via Multi-hop Attributed HNCut. ACM MM, 2026.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <span class="badge badge-info">ACCEPT</span>
   </li>
@@ -396,7 +396,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Zhiqiu Ye (本科生), <span class="author-self">Longlong Lin</span>, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025.
+    Zhiqiu Ye (本科生), <span class="author-self">Longlong Lin</span>*, Jie Li, Tao Liu, Zeli Wang. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025.
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -452,7 +452,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Tao Liu (本科生), <span class="author-self">Longlong Lin</span>, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
+    Tao Liu (本科生), <span class="author-self">Longlong Lin</span>*, Yunfeng Yu, Xi Ou, Youan Zhang, Zhiqiu Ye, Tao Jia. CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks. ICMR, 2025.
     <span class="badge">CCF-B会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -642,7 +642,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Yue He, <span class="author-self">Longlong Lin</span>, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024.
+    Yue He, <span class="author-self">Longlong Lin</span>*, Pingpeng Yuan, Rong-Hua Li, Tao Jia, Zeli Wang. CCSS: Towards Conductance-based Community Search with Size Constraints. Expert Systems with Applications, 2024.
     <span class="badge badge-cas1">中科院一区</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
@@ -660,7 +660,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
-    Yunfeng Yu, <span class="author-self">Longlong Lin</span>, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024.
+    Yunfeng Yu, <span class="author-self">Longlong Lin</span>*, Qiyu Liu, Zeli Wang, Xi Ou, Tao Jia. GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks. ICMR, 2024.
     <span class="badge">CCF-B会议</span>
     <details style="display: inline-block;">
       <summary class="cite-btn"><i class="fa fa-quote-right"></i> Cite</summary>
