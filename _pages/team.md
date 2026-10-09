@@ -18,7 +18,7 @@ redirect_from:
   .destination { color: #666; font-style: italic; font-size: 0.9em; }
 </style>
 
-## 👥 Students (还有部分未发表论文的，保（考）研清华大学、中山大学、电子科技大学、中国传媒大学等)
+## 👥 Students (还有部分未发表论文的，保（考）研清华大学、中山大学、电子科技大学、同济大学、中国传媒大学等)
 
 
 <div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
@@ -42,7 +42,6 @@ redirect_from:
       <li>李泉澳 <span class="pub-tag">TKDE (CCF-A期刊)</span> <span class="pub-tag">ICDE (CCF-A会议)</span> <span class="destination">→ 四川航天技术研究院(航天七院)</span></li>
        <li>陈智轩 <span class="pub-tag">TII (中科院一区Top) (本科生)</span> <span class="destination">→ xxxxx</span></li>
       <li>瞿嘉亿 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ XXXXX</span></li>
-      <li>刘欣雨 <span class="pub-tag">TII (中科院一区Top) (本科生)</span> <span class="destination">→ 保送同济大学读硕士</span></li>
     </ul>
     <span class="student-year">2022级</span>
     <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
