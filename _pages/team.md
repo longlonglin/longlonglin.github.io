@@ -18,7 +18,7 @@ redirect_from:
   .destination { color: #666; font-style: italic; font-size: 0.9em; }
 </style>
 
-<!-- ## 👥 Students (还有部分未发表论文的，保（考）研清华大学、中山大学、电子科技大学、同济大学、中国传媒大学等) -->
+ ## 👥 Students (还有部分未发表论文的, 保（考）研清华大学、中山大学、电子科技大学、同济大学、中国传媒大学、深圳大學等) 
 
 
 <div style="background: #fff; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
@@ -48,7 +48,6 @@ redirect_from:
       <li>余云丰 <span class="pub-tag">CIKM (CCF-B会议)</span> <span class="pub-tag">ICMR (CCF-B会议)</span> <span class="destination">→ 中国工商银行 (重庆)</span></li>
       <li>何越 <span class="pub-tag">TBD (中科院二区)</span> <span class="pub-tag">ESWA (中科院一区Top)</span> <span class="destination">→ 中国农业银行 (绵阳)</span></li>
       <li>刘韬 <span class="pub-tag">ICMR (CCF-B会议) (本科生)</span> <span class="destination">→ 保送东南大学读硕士</span></li>
-      <li>周嘉喻 <span class="pub-tag">待中 (本科生)</span> <span class="destination">→ 保送深圳大学读硕士</span></li>
       <li>叶知秋 <span class="pub-tag">ESWA (中科院一区Top) (本科生)</span> <span class="destination">→ 中国移动 (贵阳)</span></li>
     </ul>
   <span class="student-year">2021级</span>
