@@ -117,6 +117,12 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-info">ACCEPT</span>
   </li>
 
+ <li>
+    <span class="pub-id"></span>
+  Xiaohai Dai, Yingbin Wang, Shaorui Xie, Ruikun Luo, Rui Hao, <span class="author-self">Longlong Lin</span>, Bin Xiao, Junhong Liu. Nimbus: Adapting Asynchronous BFT Consensus for Real-World Deployments. TPDS, 2027.
+    <span class="badge badge-ccfa">CCF-A期刊</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
 
 
 </ul>
