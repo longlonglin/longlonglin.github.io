@@ -27,7 +27,7 @@ redirect_from:
 
   <div>
     <span class="student-year">2025级</span> 
-    王奕涵 <span class="pub-tag">ACM MM (CCF-A会议)</span>
+    王奕涵 <span class="pub-tag">KDD (CCF-A会议)</span> <span class="pub-tag">ACM MM (CCF-A会议)</span>
   </div>
 
   <div>
