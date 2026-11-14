@@ -25,15 +25,17 @@ redirect_from:
   
 
 
-  <div>
+  <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2025级</span> 
-    王奕涵 <span class="pub-tag">KDD (CCF-A会议)</span> <span class="pub-tag">ACM MM (CCF-A会议)</span>
-  </div>
+    <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
+     <li>  王奕涵 <span class="pub-tag">KDD (CCF-A会议)</span> <span class="pub-tag">ACM MM (CCF-A会议)</span> </li>
+    </ul>
 
-  <div>
+  <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2024级</span> 
-    张佑安 <span class="pub-tag">KDD (CCF-A会议)</span>
-  </div>
+        <ul style="list-style: none; padding-left: 65px; margin-top: -22px;">
+     <li> 张佑安 <span class="pub-tag">KDD (CCF-A会议)</span> </li>
+    </ul>
 
   <div style="margin-top: 10px; border-top: 1px dashed #eee; padding-top: 10px;">
     <span class="student-year">2023级</span>
