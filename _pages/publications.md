@@ -105,6 +105,13 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
 
   <li>
     <span class="pub-id"></span>
+ Yihan Wang,  <span class="author-self">Longlong Lin</span>, Jin Zhao, Zeli Wang. LATCH: LLM-Guided Text-Attributed Hypergraph Clustering via Risk-Aware Hyperedge Correction. KDD, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+  </li>
+
+  <li>
+    <span class="pub-id"></span>
   Quanao Li,  <span class="author-self">Longlong Lin</span>, Zeli Wang, Li Ni, Jin Zhao, Ruikun Luo, Rong-Hua Li. HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering. ICDE, 2027.
     <span class="badge badge-ccfa">CCF-A会议</span>
     <span class="badge badge-info">ACCEPT</span>
