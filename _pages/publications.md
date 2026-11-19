@@ -118,7 +118,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
 
-
+<!--
 <li>
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Xuanwei He, Zeli Wang, Tao Jia.
@@ -182,6 +182,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-info">ACCEPT</span>
 </li>
 
+!-->
 
  <li>
     <span class="pub-id"></span>
