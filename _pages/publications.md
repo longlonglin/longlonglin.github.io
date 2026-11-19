@@ -118,7 +118,7 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
   </li>
 
 
-<!--
+<!-- %下面文章是投稿到AAAI2027的,基于目前的分数暂时按接受处理,等公布结果之后再更新
 <li>
     <span class="pub-id"></span>
     <span class="author-self">Longlong Lin</span>, Xuanwei He, Zeli Wang, Tao Jia.
