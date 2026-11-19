@@ -117,6 +117,72 @@ A full list of publications can be found at [<i class="fa fa-graduation-cap"></i
     <span class="badge badge-info">ACCEPT</span>
   </li>
 
+
+
+<li>
+    <span class="pub-id"></span>
+    <span class="author-self">Longlong Lin</span>, Xuanwei He, Zeli Wang, Tao Jia.
+    TrustCut: Heterophily-Aware Trusted NCut for Attributed Graph Clustering.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    <span class="author-self">Longlong Lin</span>, Haiqi Deng, Jin Zhao, Zeli Wang.
+    HABiC: Higher-Order Structure-Attribute Propagation for Deep Attributed Bipartite Graph Clustering.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    Yunchu Zhang, <span class="author-self">Longlong Lin</span>, Yihan Wang, Li Ni.
+    HICut: Hyperedge Inhomogeneity Learning with NCut Optimization for Attributed Hypergraph Clustering.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    Xiaoya Kuang, <span class="author-self">Longlong Lin</span>, Ruikun Luo, Ya Li, Tao Jia.
+    HoSAFC: Adaptive Structure-Attribute Fusion with Cut-Guided Learning for Attributed Bipartite Graph Clustering.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    Jiayi Qu, <span class="author-self">Longlong Lin</span>.
+    DUET: Dual-Axis View Differentiation for Deep Graph Clustering.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    Dongxuan Ge, <span class="author-self">Longlong Lin</span>.
+    BiLCS: Dual-View Cut Learning with Bipartite-aware Local Conductance for Attributed Bipartite Community Search.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+<li>
+    <span class="pub-id"></span>
+    Zeli Wang, Jintao Zhai, Shuyin Xia, <span class="author-self">Longlong Lin</span>, Yi Wang, Guoyin Wang.
+    Granular-Ball Communities for Robust Graph Learning under Label Noise.
+    AAAI, 2027.
+    <span class="badge badge-ccfa">CCF-A会议</span>
+    <span class="badge badge-info">ACCEPT</span>
+</li>
+
+
  <li>
     <span class="pub-id"></span>
   Junjie Zhou, Rong-Hua Li,  <span class="author-self">Longlong Lin</span>, Yichun Yang, Meihao Liao, Guoren Wang. Efficient Personalized PageRank Computation for Arbitrary Damping Factors: A Gradient-Based Approach. SIGMOD, 2027.
