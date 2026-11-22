@@ -40,7 +40,7 @@ You can obtain the following conferences from their corresponding homepages or t
 <span class="venue-tag">SIGKDD（7月 / 2月, 两轮）</span>
 <span class="venue-tag">SIGIR（1月）</span>
 <span class="venue-tag">WWW（10月）</span>
-<span class="venue-tag">NeurIPS（5月, >=2026的暂时不看）</span>
+<span class="venue-tag">NeurIPS（5月）</span>
 <span class="venue-tag">ICLR（9月）</span>
 <span class="venue-tag">ICML（1月）</span>
 <span class="venue-tag">ACM MM（3月底–4月初）</span>
