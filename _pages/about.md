@@ -81,6 +81,7 @@ ps: 希望同学具备较强的主动性和学习能力，不接受躺平和平�
 * ACM International Conference on Web Search and Data Mining (**WSDM**)
 * IEEE International Conference on Data Mining (**ICDM**)
 * ACM International Conference on Multimedia Retrieval (**ICMR**)
+* International Conference on Database Systems for Advanced Applications (**DASFAA**)
 
 **Journals:**
 
